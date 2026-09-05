@@ -26,40 +26,63 @@ No production deployment, extensive hyperparameter optimisation, or automated di
 
 ```text
 .
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── data/
-│   ├── README.md
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_cnn_model.ipynb
-│   └── 03_evaluation.ipynb
-├── src/
-│   ├── __init__.py
-│   ├── preprocessing.py
-│   ├── model.py
-│   └── evaluation.py
-├── figures/
-├── results/
-├── presentation/
-└── docs/
+|-- README.md
+|-- requirements.txt
+|-- .gitignore
+|-- data/
+|   |-- README.md
+|   |-- raw/
+|   `-- processed/
+|-- notebooks/
+|   |-- 01_eda.ipynb
+|   |-- 02_cnn_model.ipynb
+|   `-- 03_evaluation.ipynb
+|-- src/
+|   |-- __init__.py
+|   |-- preprocessing.py
+|   |-- model.py
+|   `-- evaluation.py
+|-- figures/
+|-- results/
+|-- presentation/
+`-- docs/
 ```
 
 ## Environment Setup
 
-Create and activate a Python virtual environment, then install the project dependencies:
+Create and activate a Python virtual environment for local work:
 
-```bash
+```powershell
 python -m venv .venv
-pip install -r requirements.txt
+.venv\Scripts\activate
 ```
 
-For VS Code, select the virtual environment as the notebook kernel after installing dependencies.
+For local EDA, preprocessing, evaluation, documentation, and notebook editing, install the lightweight dependencies:
 
-For Google Colab, upload or clone the repository, install any missing packages with `pip`, and mount external storage only when needed. Avoid absolute file paths so notebooks remain portable between local work and Colab GPU sessions.
+```powershell
+pip install numpy pandas matplotlib scikit-learn pillow jupyter ipykernel
+```
+
+For VS Code or Jupyter, select the virtual environment as the notebook kernel after installing dependencies. The local kernel for this project is:
+
+```text
+Python (.venv grapevine disease)
+```
+
+`requirements.txt` includes TensorFlow for Colab/model-training reproducibility. TensorFlow does not need to be installed locally unless you want to train or run the CNN on your own machine.
+
+## Development Workflow
+
+This project uses a hybrid workflow so that development stays manageable while CNN training can use GPU resources:
+
+- **GitHub:** single source of truth for code, notebooks, documentation, and results.
+- **VS Code/local `.venv`:** notebook editing, EDA, preprocessing, evaluation, documentation, and Git collaboration.
+- **Google Colab:** CNN training using the notebook from this repository.
+- **Google Drive:** temporary storage for the image dataset when running notebooks in Colab.
+
+The CNN notebook in this repository is the same notebook used in Colab. Separate local and Colab versions should not be created.
+
+Avoid absolute file paths so notebooks remain portable between local work and Colab GPU sessions.
 
 ## Running Notebooks
 
@@ -70,6 +93,35 @@ Run the notebooks in order:
 3. `notebooks/03_evaluation.ipynb`
 
 All modelling should use the same train, validation, and test split so results remain comparable across the team.
+
+## Dataset
+
+This project uses the **Grapevine Leaves RGB Images of Disease Symptoms** dataset by Portela et al. (2026), collected under natural vineyard conditions in northern Portugal.
+
+- Dataset: https://zenodo.org/records/17343473
+- DOI: https://doi.org/10.5281/zenodo.17343473
+- Dataset paper: https://doi.org/10.1016/j.dib.2026.112743
+
+The dataset contains five classes:
+
+- Healthy
+- Downy Mildew
+- Powdery Mildew
+- Esca Complex
+- Erineum Mite
+
+## Google Colab Training
+
+CNN training is intended to be run in Google Colab when GPU access is useful. Open or upload the repository notebook in Colab, install any missing dependencies with `pip`, and save outputs that should be shared back into the repository.
+
+### Dataset in Colab
+
+The dataset is not stored in GitHub. When training in Colab, it can be stored in Google Drive and mounted with:
+
+```python
+from google.colab import drive
+drive.mount('/content/drive')
+```
 
 ## Team Workflow
 
@@ -87,35 +139,19 @@ Suggested branch responsibilities:
 - `evaluation`
 - `integration`
 
-## Dataset
-
-This project uses the **Grapevine Leaves RGB Images of Disease Symptoms**
-dataset by Portela et al. (2026), collected under natural vineyard
-conditions in northern Portugal.
-
-- Dataset: https://zenodo.org/records/17343473
-- DOI: https://doi.org/10.5281/zenodo.17343473
-- Dataset paper: https://doi.org/10.1016/j.dib.2026.112743
-
-The dataset contains five classes:
-- Healthy
-- Downy Mildew
-- Powdery Mildew
-- Esca Complex
-- Erineum Mite
-
-
-## Work distribution
+## Work Distribution
 
 **Person 1:** Business & Research
+
 - Define the business problem and intended user.
 - Explain what decision the system would support.
 - Research the five grapevine conditions and relevant existing work.
 - Explain why image classification and CNNs are appropriate.
-- Develop the proposed next pilots: augmentation, transfer learning, confidence - thresholds, geospatial mapping, temporal monitoring, etc.
+- Develop the proposed next pilots: augmentation, transfer learning, confidence thresholds, geospatial mapping, temporal monitoring, etc.
 - Help shape the final presentation narrative.
 
 **Person 2:** Data & EDA
+
 - Download and document the dataset.
 - Check number of images, classes, image sizes and data quality.
 - Analyse class balance.
@@ -124,6 +160,7 @@ The dataset contains five classes:
 - Summarise what the EDA implies for modelling.
 
 **Person 3:** Preprocessing & Data Pipeline
+
 - Define the train/validation/test split.
 - Make the split reproducible using a fixed random seed.
 - Implement image resizing and normalisation.
@@ -133,6 +170,7 @@ The dataset contains five classes:
 - Document the final model input shape and preprocessing steps.
 
 **Person 4:** CNN Modelling
+
 - Design a simple CNN appropriate for the images.
 - Explain the Conv2D, pooling and Dense/output architecture.
 - Choose loss function, optimiser and relevant training parameters.
@@ -142,13 +180,14 @@ The dataset contains five classes:
 - Identify obvious signs of underfitting or overfitting.
 
 **Person 5:** Evaluation & Integration
+
 - Define the evaluation metrics.
 - Calculate accuracy and per-class precision/recall/F1.
 - Produce the confusion matrix and training curves.
 - Examine examples of correct and incorrect predictions.
 - Analyse why the CNN may be struggling with particular diseases/images.
 - Translate results into business implications with Person 1.
-- Act as technical integrator: keep the GitHub project coherent and make sure - everyone's work fits together.
+- Act as technical integrator: keep the GitHub project coherent and make sure everyone's work fits together.
 - Coordinate the final technical conclusions.
 
 ## Future Work
