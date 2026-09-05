@@ -6,7 +6,7 @@ Vineyard managers and agronomists need practical ways to identify potentially di
 
 ## Project Objective
 
-This project is a two-week university Deep Learning proof of concept. The goal is to explore whether a convolutional neural network (CNN) can classify visible grapevine disease symptoms from photographs taken in real vineyard conditions.
+This project is a Deep Learning proof of concept. The goal is to explore whether a convolutional neural network (CNN) can classify visible grapevine disease symptoms from photographs taken in real vineyard conditions.
 
 The intended use is decision support: helping prioritise vineyard inspection and follow-up by a human expert. This is not a production diagnostic system.
 
@@ -86,6 +86,23 @@ Suggested branch responsibilities:
 - `cnn-model`
 - `evaluation`
 - `integration`
+
+## Dataset
+
+This project uses the **Grapevine Leaves RGB Images of Disease Symptoms**
+dataset by Portela et al. (2026), collected under natural vineyard
+conditions in northern Portugal.
+
+- Dataset: https://zenodo.org/records/17343473
+- DOI: https://doi.org/10.5281/zenodo.17343473
+- Dataset paper: https://doi.org/10.1016/j.dib.2026.112743
+
+The dataset contains five classes:
+- Healthy
+- Downy Mildew
+- Powdery Mildew
+- Esca Complex
+- Erineum Mite
 
 ## Future Work
 
