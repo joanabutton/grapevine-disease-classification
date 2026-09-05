@@ -104,6 +104,53 @@ The dataset contains five classes:
 - Esca Complex
 - Erineum Mite
 
+
+## Work distribution
+
+**Person 1:** Business & Research
+- Define the business problem and intended user.
+- Explain what decision the system would support.
+- Research the five grapevine conditions and relevant existing work.
+- Explain why image classification and CNNs are appropriate.
+- Develop the proposed next pilots: augmentation, transfer learning, confidence - thresholds, geospatial mapping, temporal monitoring, etc.
+- Help shape the final presentation narrative.
+
+**Person 2:** Data & EDA
+- Download and document the dataset.
+- Check number of images, classes, image sizes and data quality.
+- Analyse class balance.
+- Explore variation in lighting, backgrounds, orientation and disease appearance.
+- Produce representative image grids and EDA visualisations.
+- Summarise what the EDA implies for modelling.
+
+**Person 3:** Preprocessing & Data Pipeline
+- Define the train/validation/test split.
+- Make the split reproducible using a fixed random seed.
+- Implement image resizing and normalisation.
+- Encode the five target classes.
+- Build the data-loading pipeline used by the CNN.
+- Check that there is no leakage between train, validation and test sets.
+- Document the final model input shape and preprocessing steps.
+
+**Person 4:** CNN Modelling
+- Design a simple CNN appropriate for the images.
+- Explain the Conv2D, pooling and Dense/output architecture.
+- Choose loss function, optimiser and relevant training parameters.
+- Train the model using Person 3's pipeline.
+- Track training and validation loss/accuracy.
+- Save the trained model, training history and predictions.
+- Identify obvious signs of underfitting or overfitting.
+
+**Person 5:** Evaluation & Integration
+- Define the evaluation metrics.
+- Calculate accuracy and per-class precision/recall/F1.
+- Produce the confusion matrix and training curves.
+- Examine examples of correct and incorrect predictions.
+- Analyse why the CNN may be struggling with particular diseases/images.
+- Translate results into business implications with Person 1.
+- Act as technical integrator: keep the GitHub project coherent and make sure - everyone's work fits together.
+- Coordinate the final technical conclusions.
+
 ## Future Work
 
 Potential extensions after the proof of concept include:
