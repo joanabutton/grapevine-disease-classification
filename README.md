@@ -46,6 +46,8 @@ No production deployment, extensive hyperparameter optimisation, or automated di
 |-- results/
 |-- presentation/
 `-- docs/
+    |-- project_brief.md
+    `-- ai_canvas.md
 ```
 
 ## Environment Setup
@@ -93,6 +95,12 @@ Run the notebooks in order:
 3. `notebooks/03_evaluation.ipynb`
 
 All modelling should use the same train, validation, and test split so results remain comparable across the team.
+
+## Project Brief and AI Canvas
+
+The assignment brief is stored in `docs/project_brief.md`.
+
+The project's AI Canvas is stored in `docs/ai_canvas.md`. It frames the model as a decision-support proof of concept for prioritising human vineyard inspection.
 
 ## Dataset
 
@@ -150,14 +158,13 @@ Suggested branch responsibilities:
 - Develop the proposed next pilots: augmentation, transfer learning, confidence thresholds, geospatial mapping, temporal monitoring, etc.
 - Help shape the final presentation narrative.
 
-**Person 2:** Data & EDA
+**Person 2:** Dataset Understanding & Problem Justification
 
-- Download and document the dataset.
-- Check number of images, classes, image sizes and data quality.
-- Analyse class balance.
-- Explore variation in lighting, backgrounds, orientation and disease appearance.
-- Produce representative image grids and EDA visualisations.
-- Summarise what the EDA implies for modelling.
+- Download and document the dataset source, citation, class labels and image structure.
+- Summarise only the EDA needed to support modelling: class counts, image dimensions, representative samples, image quality and split implications.
+- Use the dataset paper to explain why the problem matters in viticulture and why field-condition RGB images are appropriate.
+- Identify dataset limitations that affect model interpretation, especially visual-only labels, uneven acquisition dates/locations, cultivar imbalance, natural lighting and possible symptom ambiguity.
+- Connect EDA findings to the AI Canvas and final business decision: prioritising human vineyard inspection, not automated diagnosis.
 
 **Person 3:** Preprocessing & Data Pipeline
 
