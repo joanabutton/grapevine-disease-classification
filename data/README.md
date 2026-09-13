@@ -9,20 +9,19 @@ Place derived data in `data/processed/` only if needed, such as resized images, 
 The expected target classes are:
 
 - healthy
-- downy mildew
-- powdery mildew
-- Esca complex
-- erineum mite
+- black rot
+- esca
+- leaf blight
 
 Selected dataset:
 
-- Name: Grapevine Leaves RGB Images of Disease Symptoms
-- Authors: Portela et al. (2026)
-- Dataset URL: https://zenodo.org/records/17343473
-- DOI: https://doi.org/10.5281/zenodo.17343473
-- Dataset paper: https://doi.org/10.1016/j.dib.2026.112743
-- Usage note: do not commit dataset files to GitHub. Check the Zenodo record for the current dataset licence or usage terms before any redistribution.
+- Name: GVLiD: GrapeVine Leaf identification of the Diseases (version 5)
+- Authors: Anisa Shikalgar, Ayush Savalkar, Avishkar Bhasme, Snehal Chavan, and Vaishnavi Nikam (2026)
+- Dataset URL: https://data.mendeley.com/datasets/wkymf8bhcg/5
+- DOI: https://doi.org/10.17632/wkymf8bhcg.5
+- Licence: Creative Commons Attribution 4.0 (CC BY 4.0)
+- Usage note: do not commit dataset files to GitHub. Follow the attribution requirements in the dataset licence if the data is redistributed.
 
 Recommended citation:
 
-Portela, F., Carneiro, G., Ferreira, L., Paredes, C. A., Sousa, J. J., Peres, E., Morais, R., & Padua, L. (2026). Dataset of RGB images of healthy grapevine leaves and with downy mildew, powdery mildew, Esca complex, and erineum mite symptoms. Data in Brief, 66, 112743. https://doi.org/10.1016/j.dib.2026.112743
+Shikalgar, A., Savalkar, A., Bhasme, A., Chavan, S., & Nikam, V. (2026). GVLiD: GrapeVine Leaf identification of the Diseases (Version 5) [Dataset]. Mendeley Data. https://doi.org/10.17632/wkymf8bhcg.5

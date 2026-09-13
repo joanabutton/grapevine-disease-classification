@@ -9,10 +9,9 @@ Which visible condition is most likely shown in a grapevine leaf image?
 Target classes:
 
 - healthy
-- downy mildew
-- powdery mildew
-- Esca complex
-- erineum mite
+- black rot
+- esca
+- leaf blight
 
 ## Judgment
 
@@ -47,11 +46,11 @@ At use time, the input would be RGB photographs of grapevine leaves captured in 
 
 ## Training
 
-The proof of concept uses the Grapevine Leaves RGB Images of Disease Symptoms dataset by Portela et al. (2026).
+The proof of concept uses version 5 of the GVLiD: GrapeVine Leaf identification of the Diseases dataset by Shikalgar et al. (2026).
 
-Dataset source: https://zenodo.org/records/17343473
+Dataset source: https://data.mendeley.com/datasets/wkymf8bhcg/5
 
-Dataset paper: https://doi.org/10.1016/j.dib.2026.112743
+Dataset DOI: https://doi.org/10.17632/wkymf8bhcg.5
 
 The dataset is appropriate because it contains labelled RGB leaf images collected under natural vineyard conditions, which is closer to the intended operational setting than laboratory images with controlled backgrounds.
 
@@ -69,6 +68,6 @@ Useful feedback would include:
 
 ## Main Limitations
 
-The current model should be interpreted as a proof of concept because the dataset labels are based on visible symptoms rather than laboratory-confirmed diagnoses. The dataset also has uneven temporal and spatial coverage, limited cultivar coverage, natural lighting variation and possible overlap between symptoms.
+The current model should be interpreted as a proof of concept. The local dataset has unequal class sizes, and field-acquired images may vary in angle, lighting, background and symptom visibility. Similar visible symptoms may be difficult to distinguish, and performance on this dataset may not generalise to other vineyards, cultivars, devices or seasons.
 
 These limitations mean the model is best framed as inspection support, not automated disease diagnosis.

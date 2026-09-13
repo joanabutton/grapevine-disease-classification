@@ -1,0 +1,19 @@
+# Brainstorm and project selection
+
+### Initial ideas explored:
+- Building defect classification
+- Satellite land-cover classification
+- Post-disaster building damage classification
+- Sports sponsorship exposure
+- Plant disease detection
+  - The plant-disease idea was refined into grapevine disease classification. The current GVLiD dataset contains field-acquired images in four classes: healthy, black rot, esca and leaf blight.
+
+The group selected this option because it combined business relevance, local context, a clear image-classification problem and a manageable dataset.
+
+### Final concept
+Use a CNN to classify visible grapevine diseases and support growers in identifying vines that may require expert inspection or treatment.
+
+### Future extensions discussed 
+Data augmentation, transfer learning, confidence thresholds/human review, geospatial disease mapping, temporal monitoring and disease severity estimation.
+
+The team agreed to focus primarily on one CNN model, with alternative architectures discussed conceptually and only tested if time allows.

@@ -27,3 +27,25 @@ Just to support you in preparing the final assignment outputs, you will need to:
 For (i), you will need to complete the AI Canvas available in Class 5: https://cocreatelearninglabs.com/pbs/ai/canvas.html
 
 For (ii) and (iii), you will need to submit a notebook containing your model, the link to the dataset, and your final comments and interpretation of the results.
+
+### Step-by-step
+
+- Step 1. Brainstorm possible ideas
+- Start by generating 2 to 3 possible project ideas.
+- Step 2. Define the problem with the AI Value Sprint Canvas (Liliana)
+  - Use the AI Value Sprint Canvas from Class 5 to structure the selected idea.
+  - At the end of this step, you should be able to explain:
+  - What problem are we trying to solve, for whom, and why does it matter?
+- Step 3. Select and understand the dataset  (Joana)
+  - Use the AI Value Sprint Canvas from Class 5 to structure the selected idea.
+  - At the end of this step, you should be able to explain:
+  - What information will the model use, and what exactly are we asking it to predict? 
+- Step 4. Explain why Deep Learning is appropriate
+- Step 5. Build the Deep Learning model (Duarte)
+- Step 6. Evaluate and interpret the results (Chetan)
+- Step 7. Connect the model back to the real use case (Cristiana)
+
+### Expected Outputs
+Output	What should be included
+1. AI Value Sprint Canvas	The selected problem, evidence, people involved, AI opportunity, data needs, workflow, risks/controls and expected value.
+2. Notebook	Dataset link, data preparation, target variable, model architecture, training and validation, evaluation metrics, final results, interpretation and limitations.

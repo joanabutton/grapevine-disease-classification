@@ -12,13 +12,12 @@ The intended use is decision support: helping prioritise vineyard inspection and
 
 ## Model Scope
 
-The final proof-of-concept model will be a CNN image classifier for five target classes:
+The final proof-of-concept model will be a CNN image classifier for four target classes:
 
 - healthy
-- downy mildew
-- powdery mildew
-- Esca complex
-- erineum mite
+- black rot
+- esca
+- leaf blight
 
 No production deployment, extensive hyperparameter optimisation, or automated diagnosis is in scope for this repository.
 
@@ -104,19 +103,18 @@ The project's AI Canvas is stored in `docs/ai_canvas.md`. It frames the model as
 
 ## Dataset
 
-This project uses the **Grapevine Leaves RGB Images of Disease Symptoms** dataset by Portela et al. (2026), collected under natural vineyard conditions in northern Portugal.
+This project uses version 5 of the **GVLiD: GrapeVine Leaf identification of the Diseases** dataset by Shikalgar et al. (2026). It contains 3,477 high-resolution grape-leaf photographs captured during field visits from different angles.
 
-- Dataset: https://zenodo.org/records/17343473
-- DOI: https://doi.org/10.5281/zenodo.17343473
-- Dataset paper: https://doi.org/10.1016/j.dib.2026.112743
+- Dataset: https://data.mendeley.com/datasets/wkymf8bhcg/5
+- DOI: https://doi.org/10.17632/wkymf8bhcg.5
+- Licence: Creative Commons Attribution 4.0 (CC BY 4.0)
 
-The dataset contains five classes:
+The dataset contains four classes:
 
 - Healthy
-- Downy Mildew
-- Powdery Mildew
-- Esca Complex
-- Erineum Mite
+- Black rot
+- Esca
+- Leaf blight
 
 ## Google Colab Training
 
@@ -153,7 +151,7 @@ Suggested branch responsibilities:
 
 - Define the business problem and intended user.
 - Explain what decision the system would support.
-- Research the five grapevine conditions and relevant existing work.
+- Research the four grapevine conditions and relevant existing work.
 - Explain why image classification and CNNs are appropriate.
 - Develop the proposed next pilots: augmentation, transfer learning, confidence thresholds, geospatial mapping, temporal monitoring, etc.
 - Help shape the final presentation narrative.
@@ -162,8 +160,8 @@ Suggested branch responsibilities:
 
 - Download and document the dataset source, citation, class labels and image structure.
 - Summarise only the EDA needed to support modelling: class counts, image dimensions, representative samples, image quality and split implications.
-- Use the dataset paper to explain why the problem matters in viticulture and why field-condition RGB images are appropriate.
-- Identify dataset limitations that affect model interpretation, especially visual-only labels, uneven acquisition dates/locations, cultivar imbalance, natural lighting and possible symptom ambiguity.
+- Use the dataset documentation and relevant literature to explain why the problem matters in viticulture and why field-condition RGB images are appropriate.
+- Identify dataset limitations that affect model interpretation, especially class imbalance, variation in capture angle and field conditions, possible similarity between visible symptoms, and uncertain generalisation to other vineyards, cultivars or seasons.
 - Connect EDA findings to the AI Canvas and final business decision: prioritising human vineyard inspection, not automated diagnosis.
 
 **Person 3:** Preprocessing & Data Pipeline
@@ -171,7 +169,7 @@ Suggested branch responsibilities:
 - Define the train/validation/test split.
 - Make the split reproducible using a fixed random seed.
 - Implement image resizing and normalisation.
-- Encode the five target classes.
+- Encode the four target classes.
 - Build the data-loading pipeline used by the CNN.
 - Check that there is no leakage between train, validation and test sets.
 - Document the final model input shape and preprocessing steps.
