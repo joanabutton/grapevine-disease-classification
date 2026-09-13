@@ -1,0 +1,3478 @@
+Image_ID,image_filename,Vineyard,Disease_Type,Split
+IMG_0001,black rot001.jpg,Vineyard_22,Black Rot,Validation
+IMG_0002,black rot002.jpg,Vineyard_28,Black Rot,Train
+IMG_0003,black rot003.jpg,Vineyard_14,Black Rot,Train
+IMG_0004,black rot004.jpg,Vineyard_20,Black Rot,Train
+IMG_0005,black rot005.jpg,Vineyard_8,Black Rot,Validation
+IMG_0006,black rot006.jpg,Vineyard_22,Black Rot,Validation
+IMG_0007,black rot007.jpg,Vineyard_5,Black Rot,Train
+IMG_0008,black rot008.jpg,Vineyard_4,Black Rot,Train
+IMG_0009,black rot009.jpg,Vineyard_10,Black Rot,Test
+IMG_0010,black rot010.jpg,Vineyard_27,Black Rot,Train
+IMG_0011,black rot011.jpg,Vineyard_4,Black Rot,Train
+IMG_0012,black rot012.jpg,Vineyard_2,Black Rot,Train
+IMG_0013,black rot013.jpg,Vineyard_5,Black Rot,Train
+IMG_0014,black rot014.jpg,Vineyard_19,Black Rot,Train
+IMG_0015,black rot015.jpg,Vineyard_7,Black Rot,Test
+IMG_0016,black rot016.jpg,Vineyard_21,Black Rot,Test
+IMG_0017,black rot017.jpg,Vineyard_6,Black Rot,Train
+IMG_0018,black rot018.jpg,Vineyard_22,Black Rot,Validation
+IMG_0019,black rot019.jpg,Vineyard_26,Black Rot,Train
+IMG_0020,black rot021.jpg,Vineyard_5,Black Rot,Train
+IMG_0021,black rot022.jpg,Vineyard_19,Black Rot,Train
+IMG_0022,black rot023.jpg,Vineyard_19,Black Rot,Train
+IMG_0023,black rot024.jpg,Vineyard_9,Black Rot,Train
+IMG_0024,black rot025.jpg,Vineyard_25,Black Rot,Train
+IMG_0025,black rot026.jpg,Vineyard_7,Black Rot,Test
+IMG_0026,black rot027.jpg,Vineyard_15,Black Rot,Train
+IMG_0027,black rot028.jpg,Vineyard_10,Black Rot,Test
+IMG_0028,black rot029.jpg,Vineyard_24,Black Rot,Train
+IMG_0029,black rot030.jpg,Vineyard_6,Black Rot,Train
+IMG_0030,black rot031.jpg,Vineyard_10,Black Rot,Test
+IMG_0031,black rot032.jpg,Vineyard_15,Black Rot,Train
+IMG_0032,black rot033.jpg,Vineyard_16,Black Rot,Train
+IMG_0033,black rot034.jpg,Vineyard_16,Black Rot,Train
+IMG_0034,black rot035.jpg,Vineyard_16,Black Rot,Train
+IMG_0035,black rot036.jpg,Vineyard_22,Black Rot,Validation
+IMG_0036,black rot037.jpg,Vineyard_24,Black Rot,Train
+IMG_0037,black rot038.jpg,Vineyard_17,Black Rot,Test
+IMG_0038,black rot039.jpg,Vineyard_16,Black Rot,Train
+IMG_0039,black rot040.jpg,Vineyard_24,Black Rot,Train
+IMG_0040,black rot041.jpg,Vineyard_22,Black Rot,Validation
+IMG_0041,black rot042.jpg,Vineyard_13,Black Rot,Validation
+IMG_0042,black rot043.jpg,Vineyard_23,Black Rot,Train
+IMG_0043,black rot044.jpg,Vineyard_21,Black Rot,Test
+IMG_0044,black rot045.jpg,Vineyard_26,Black Rot,Train
+IMG_0045,black rot046.jpg,Vineyard_17,Black Rot,Test
+IMG_0046,black rot047.jpg,Vineyard_2,Black Rot,Train
+IMG_0047,black rot048.jpg,Vineyard_27,Black Rot,Train
+IMG_0048,black rot049.jpg,Vineyard_21,Black Rot,Test
+IMG_0049,black rot050.jpg,Vineyard_11,Black Rot,Validation
+IMG_0050,black rot051.jpg,Vineyard_3,Black Rot,Train
+IMG_0051,black rot052.jpg,Vineyard_10,Black Rot,Test
+IMG_0052,black rot053.jpg,Vineyard_4,Black Rot,Train
+IMG_0053,black rot054.jpg,Vineyard_20,Black Rot,Train
+IMG_0054,black rot055.jpg,Vineyard_6,Black Rot,Train
+IMG_0055,black rot056.jpg,Vineyard_5,Black Rot,Train
+IMG_0056,black rot057.jpg,Vineyard_18,Black Rot,Train
+IMG_0057,black rot058.jpg,Vineyard_8,Black Rot,Validation
+IMG_0058,black rot059.jpg,Vineyard_16,Black Rot,Train
+IMG_0059,black rot060.jpg,Vineyard_6,Black Rot,Train
+IMG_0060,black rot061.jpg,Vineyard_17,Black Rot,Test
+IMG_0061,black rot062.jpg,Vineyard_23,Black Rot,Train
+IMG_0062,black rot063.jpg,Vineyard_24,Black Rot,Train
+IMG_0063,black rot064.jpg,Vineyard_1,Black Rot,Train
+IMG_0064,black rot065.jpg,Vineyard_24,Black Rot,Train
+IMG_0065,black rot066.jpg,Vineyard_3,Black Rot,Train
+IMG_0066,black rot067.jpg,Vineyard_8,Black Rot,Validation
+IMG_0067,black rot068.jpg,Vineyard_10,Black Rot,Test
+IMG_0068,black rot069.jpg,Vineyard_25,Black Rot,Train
+IMG_0069,black rot070.jpg,Vineyard_26,Black Rot,Train
+IMG_0070,black rot071.jpg,Vineyard_23,Black Rot,Train
+IMG_0071,black rot072.jpg,Vineyard_24,Black Rot,Train
+IMG_0072,black rot073.jpg,Vineyard_23,Black Rot,Train
+IMG_0073,black rot074.jpg,Vineyard_5,Black Rot,Train
+IMG_0074,black rot075.jpg,Vineyard_10,Black Rot,Test
+IMG_0075,black rot076.jpg,Vineyard_17,Black Rot,Test
+IMG_0076,black rot077.jpg,Vineyard_28,Black Rot,Train
+IMG_0077,black rot078.jpg,Vineyard_15,Black Rot,Train
+IMG_0078,black rot079.jpg,Vineyard_4,Black Rot,Train
+IMG_0079,black rot080.jpg,Vineyard_3,Black Rot,Train
+IMG_0080,black rot081.jpg,Vineyard_17,Black Rot,Test
+IMG_0081,black rot082.jpg,Vineyard_15,Black Rot,Train
+IMG_0082,black rot083.jpg,Vineyard_11,Black Rot,Validation
+IMG_0083,black rot084.jpg,Vineyard_27,Black Rot,Train
+IMG_0084,black rot085.jpg,Vineyard_26,Black Rot,Train
+IMG_0085,black rot086.jpg,Vineyard_5,Black Rot,Train
+IMG_0086,black rot087.jpg,Vineyard_27,Black Rot,Train
+IMG_0087,black rot088.jpg,Vineyard_20,Black Rot,Train
+IMG_0088,black rot089.jpg,Vineyard_13,Black Rot,Validation
+IMG_0089,black rot090.jpg,Vineyard_25,Black Rot,Train
+IMG_0090,black rot091.jpg,Vineyard_5,Black Rot,Train
+IMG_0091,black rot092.jpg,Vineyard_17,Black Rot,Test
+IMG_0092,black rot093.jpg,Vineyard_20,Black Rot,Train
+IMG_0093,black rot094.jpg,Vineyard_25,Black Rot,Train
+IMG_0094,black rot095.jpg,Vineyard_22,Black Rot,Validation
+IMG_0095,black rot096.jpg,Vineyard_26,Black Rot,Train
+IMG_0096,black rot097.jpg,Vineyard_7,Black Rot,Test
+IMG_0097,black rot098.jpg,Vineyard_9,Black Rot,Train
+IMG_0098,black rot099.jpg,Vineyard_22,Black Rot,Validation
+IMG_0099,black rot100.jpg,Vineyard_7,Black Rot,Test
+IMG_0100,black rot101.jpg,Vineyard_23,Black Rot,Train
+IMG_0101,black rot102.jpg,Vineyard_19,Black Rot,Train
+IMG_0102,black rot103.jpg,Vineyard_27,Black Rot,Train
+IMG_0103,black rot104.jpg,Vineyard_19,Black Rot,Train
+IMG_0104,black rot105.jpg,Vineyard_27,Black Rot,Train
+IMG_0105,black rot106.jpg,Vineyard_18,Black Rot,Train
+IMG_0106,black rot107.jpg,Vineyard_10,Black Rot,Test
+IMG_0107,black rot108.jpg,Vineyard_23,Black Rot,Train
+IMG_0108,black rot109.jpg,Vineyard_11,Black Rot,Validation
+IMG_0109,black rot110.jpg,Vineyard_26,Black Rot,Train
+IMG_0110,black rot111.jpg,Vineyard_13,Black Rot,Validation
+IMG_0111,black rot112.jpg,Vineyard_7,Black Rot,Test
+IMG_0112,black rot113.jpg,Vineyard_14,Black Rot,Train
+IMG_0113,black rot114.jpg,Vineyard_27,Black Rot,Train
+IMG_0114,black rot115.jpg,Vineyard_12,Black Rot,Train
+IMG_0115,black rot116.jpg,Vineyard_12,Black Rot,Train
+IMG_0116,black rot117.jpg,Vineyard_17,Black Rot,Test
+IMG_0117,black rot118.jpg,Vineyard_14,Black Rot,Train
+IMG_0118,black rot119.jpg,Vineyard_25,Black Rot,Train
+IMG_0119,black rot120.jpg,Vineyard_8,Black Rot,Validation
+IMG_0120,black rot121.jpg,Vineyard_21,Black Rot,Test
+IMG_0121,black rot122.jpg,Vineyard_21,Black Rot,Test
+IMG_0122,black rot123.jpg,Vineyard_27,Black Rot,Train
+IMG_0123,black rot124.jpg,Vineyard_14,Black Rot,Train
+IMG_0124,black rot125.jpg,Vineyard_23,Black Rot,Train
+IMG_0125,black rot126.jpg,Vineyard_28,Black Rot,Train
+IMG_0126,black rot127.jpg,Vineyard_17,Black Rot,Test
+IMG_0127,black rot128.jpg,Vineyard_2,Black Rot,Train
+IMG_0128,black rot129.jpg,Vineyard_19,Black Rot,Train
+IMG_0129,black rot130.jpg,Vineyard_5,Black Rot,Train
+IMG_0130,black rot131.jpg,Vineyard_26,Black Rot,Train
+IMG_0131,black rot132.jpg,Vineyard_28,Black Rot,Train
+IMG_0132,black rot133.jpg,Vineyard_22,Black Rot,Validation
+IMG_0133,black rot134.jpg,Vineyard_2,Black Rot,Train
+IMG_0134,black rot135.jpg,Vineyard_27,Black Rot,Train
+IMG_0135,black rot136.jpg,Vineyard_28,Black Rot,Train
+IMG_0136,black rot137.jpg,Vineyard_3,Black Rot,Train
+IMG_0137,black rot138.jpg,Vineyard_10,Black Rot,Test
+IMG_0138,black rot139.jpg,Vineyard_8,Black Rot,Validation
+IMG_0139,black rot140.jpg,Vineyard_25,Black Rot,Train
+IMG_0140,black rot141.jpg,Vineyard_25,Black Rot,Train
+IMG_0141,black rot142.jpg,Vineyard_2,Black Rot,Train
+IMG_0142,black rot143.jpg,Vineyard_24,Black Rot,Train
+IMG_0143,black rot144.jpg,Vineyard_3,Black Rot,Train
+IMG_0144,black rot145.jpg,Vineyard_22,Black Rot,Validation
+IMG_0145,black rot146.jpg,Vineyard_14,Black Rot,Train
+IMG_0146,black rot147.jpg,Vineyard_19,Black Rot,Train
+IMG_0147,black rot148.jpg,Vineyard_25,Black Rot,Train
+IMG_0148,black rot149.jpg,Vineyard_10,Black Rot,Test
+IMG_0149,black rot150.jpg,Vineyard_28,Black Rot,Train
+IMG_0150,black rot151.jpg,Vineyard_11,Black Rot,Validation
+IMG_0151,black rot152.jpg,Vineyard_8,Black Rot,Validation
+IMG_0152,black rot153.jpg,Vineyard_6,Black Rot,Train
+IMG_0153,black rot154.jpg,Vineyard_23,Black Rot,Train
+IMG_0154,black rot155.jpg,Vineyard_22,Black Rot,Validation
+IMG_0155,black rot156.jpg,Vineyard_16,Black Rot,Train
+IMG_0156,black rot157.jpg,Vineyard_28,Black Rot,Train
+IMG_0157,black rot158.jpg,Vineyard_8,Black Rot,Validation
+IMG_0158,black rot159.jpg,Vineyard_18,Black Rot,Train
+IMG_0159,black rot160.jpg,Vineyard_15,Black Rot,Train
+IMG_0160,black rot161.jpg,Vineyard_1,Black Rot,Train
+IMG_0161,black rot162.jpg,Vineyard_10,Black Rot,Test
+IMG_0162,black rot163.jpg,Vineyard_3,Black Rot,Train
+IMG_0163,black rot164.jpg,Vineyard_17,Black Rot,Test
+IMG_0164,black rot165.jpg,Vineyard_2,Black Rot,Train
+IMG_0165,black rot166.jpg,Vineyard_28,Black Rot,Train
+IMG_0166,black rot167.jpg,Vineyard_8,Black Rot,Validation
+IMG_0167,black rot168.jpg,Vineyard_10,Black Rot,Test
+IMG_0168,black rot169.jpg,Vineyard_10,Black Rot,Test
+IMG_0169,black rot170.jpg,Vineyard_13,Black Rot,Validation
+IMG_0170,black rot171.jpg,Vineyard_22,Black Rot,Validation
+IMG_0171,black rot172.jpg,Vineyard_21,Black Rot,Test
+IMG_0172,black rot173.jpg,Vineyard_26,Black Rot,Train
+IMG_0173,black rot174.jpg,Vineyard_11,Black Rot,Validation
+IMG_0174,black rot175.jpg,Vineyard_7,Black Rot,Test
+IMG_0175,black rot176.jpg,Vineyard_8,Black Rot,Validation
+IMG_0176,black rot177.jpg,Vineyard_24,Black Rot,Train
+IMG_0177,black rot178.jpg,Vineyard_8,Black Rot,Validation
+IMG_0178,black rot179.jpg,Vineyard_15,Black Rot,Train
+IMG_0179,black rot180.jpg,Vineyard_12,Black Rot,Train
+IMG_0180,black rot181.jpg,Vineyard_26,Black Rot,Train
+IMG_0181,black rot182.jpg,Vineyard_27,Black Rot,Train
+IMG_0182,black rot183.jpg,Vineyard_14,Black Rot,Train
+IMG_0183,black rot184.jpg,Vineyard_3,Black Rot,Train
+IMG_0184,black rot185.jpg,Vineyard_24,Black Rot,Train
+IMG_0185,black rot186.jpg,Vineyard_19,Black Rot,Train
+IMG_0186,black rot187.jpg,Vineyard_9,Black Rot,Train
+IMG_0187,black rot188.jpg,Vineyard_24,Black Rot,Train
+IMG_0188,black rot189.jpg,Vineyard_7,Black Rot,Test
+IMG_0189,black rot190.jpg,Vineyard_25,Black Rot,Train
+IMG_0190,black rot191.jpg,Vineyard_24,Black Rot,Train
+IMG_0191,black rot192.jpg,Vineyard_12,Black Rot,Train
+IMG_0192,black rot193.jpg,Vineyard_5,Black Rot,Train
+IMG_0193,black rot194.jpg,Vineyard_11,Black Rot,Validation
+IMG_0194,black rot195.jpg,Vineyard_11,Black Rot,Validation
+IMG_0195,black rot196.jpg,Vineyard_24,Black Rot,Train
+IMG_0196,black rot197.jpg,Vineyard_22,Black Rot,Validation
+IMG_0197,black rot198.jpg,Vineyard_8,Black Rot,Validation
+IMG_0198,black rot199.jpg,Vineyard_1,Black Rot,Train
+IMG_0199,black rot200.jpg,Vineyard_17,Black Rot,Test
+IMG_0200,black rot201.jpg,Vineyard_21,Black Rot,Test
+IMG_0201,black rot202.jpg,Vineyard_26,Black Rot,Train
+IMG_0202,black rot203.jpg,Vineyard_6,Black Rot,Train
+IMG_0203,black rot204.jpg,Vineyard_28,Black Rot,Train
+IMG_0204,black rot205.jpg,Vineyard_24,Black Rot,Train
+IMG_0205,black rot206.jpg,Vineyard_17,Black Rot,Test
+IMG_0206,black rot207.jpg,Vineyard_11,Black Rot,Validation
+IMG_0207,black rot208.jpg,Vineyard_14,Black Rot,Train
+IMG_0208,black rot209.jpg,Vineyard_8,Black Rot,Validation
+IMG_0209,black rot210.jpg,Vineyard_16,Black Rot,Train
+IMG_0210,black rot211.jpg,Vineyard_13,Black Rot,Validation
+IMG_0211,black rot212.jpg,Vineyard_5,Black Rot,Train
+IMG_0212,black rot213.jpg,Vineyard_18,Black Rot,Train
+IMG_0213,black rot214.jpg,Vineyard_25,Black Rot,Train
+IMG_0214,black rot215.jpg,Vineyard_13,Black Rot,Validation
+IMG_0215,black rot216.jpg,Vineyard_13,Black Rot,Validation
+IMG_0216,black rot217.jpg,Vineyard_22,Black Rot,Validation
+IMG_0217,black rot218.jpg,Vineyard_17,Black Rot,Test
+IMG_0218,black rot219.jpg,Vineyard_10,Black Rot,Test
+IMG_0219,black rot220.jpg,Vineyard_19,Black Rot,Train
+IMG_0220,black rot221.jpg,Vineyard_19,Black Rot,Train
+IMG_0221,black rot222.jpg,Vineyard_8,Black Rot,Validation
+IMG_0222,black rot223.jpg,Vineyard_18,Black Rot,Train
+IMG_0223,black rot224.jpg,Vineyard_14,Black Rot,Train
+IMG_0224,black rot225.jpg,Vineyard_22,Black Rot,Validation
+IMG_0225,black rot226.jpg,Vineyard_23,Black Rot,Train
+IMG_0226,black rot227.jpg,Vineyard_2,Black Rot,Train
+IMG_0227,black rot228.jpg,Vineyard_19,Black Rot,Train
+IMG_0228,black rot229.jpg,Vineyard_7,Black Rot,Test
+IMG_0229,black rot230.jpg,Vineyard_12,Black Rot,Train
+IMG_0230,black rot231.jpg,Vineyard_6,Black Rot,Train
+IMG_0231,black rot232.jpg,Vineyard_24,Black Rot,Train
+IMG_0232,black rot233.jpg,Vineyard_15,Black Rot,Train
+IMG_0233,black rot234.jpg,Vineyard_17,Black Rot,Test
+IMG_0234,black rot235.jpg,Vineyard_17,Black Rot,Test
+IMG_0235,black rot236.jpg,Vineyard_25,Black Rot,Train
+IMG_0236,black rot237.jpg,Vineyard_4,Black Rot,Train
+IMG_0237,black rot238.jpg,Vineyard_3,Black Rot,Train
+IMG_0238,black rot239.jpg,Vineyard_20,Black Rot,Train
+IMG_0239,black rot240.jpg,Vineyard_28,Black Rot,Train
+IMG_0240,black rot241.jpg,Vineyard_26,Black Rot,Train
+IMG_0241,black rot242.jpg,Vineyard_23,Black Rot,Train
+IMG_0242,black rot243.jpg,Vineyard_22,Black Rot,Validation
+IMG_0243,black rot244.jpg,Vineyard_6,Black Rot,Train
+IMG_0244,black rot245.jpg,Vineyard_18,Black Rot,Train
+IMG_0245,black rot246.jpg,Vineyard_9,Black Rot,Train
+IMG_0246,black rot247.jpg,Vineyard_12,Black Rot,Train
+IMG_0247,black rot248.jpg,Vineyard_25,Black Rot,Train
+IMG_0248,black rot249.jpg,Vineyard_13,Black Rot,Validation
+IMG_0249,black rot250.jpg,Vineyard_19,Black Rot,Train
+IMG_0250,black rot251.jpg,Vineyard_23,Black Rot,Train
+IMG_0251,black rot252.jpg,Vineyard_18,Black Rot,Train
+IMG_0252,black rot253.jpg,Vineyard_13,Black Rot,Validation
+IMG_0253,black rot254.jpg,Vineyard_3,Black Rot,Train
+IMG_0254,black rot255.jpg,Vineyard_11,Black Rot,Validation
+IMG_0255,black rot256.jpg,Vineyard_25,Black Rot,Train
+IMG_0256,black rot257.jpg,Vineyard_21,Black Rot,Test
+IMG_0257,black rot258.jpg,Vineyard_25,Black Rot,Train
+IMG_0258,black rot259.jpg,Vineyard_19,Black Rot,Train
+IMG_0259,black rot260.jpg,Vineyard_3,Black Rot,Train
+IMG_0260,black rot261.jpg,Vineyard_18,Black Rot,Train
+IMG_0261,black rot262.jpg,Vineyard_17,Black Rot,Test
+IMG_0262,black rot263.jpg,Vineyard_4,Black Rot,Train
+IMG_0263,black rot264.jpg,Vineyard_10,Black Rot,Test
+IMG_0264,black rot265.jpg,Vineyard_8,Black Rot,Validation
+IMG_0265,black rot266.jpg,Vineyard_19,Black Rot,Train
+IMG_0266,black rot267.jpg,Vineyard_23,Black Rot,Train
+IMG_0267,black rot268.jpg,Vineyard_7,Black Rot,Test
+IMG_0268,black rot269.jpg,Vineyard_19,Black Rot,Train
+IMG_0269,black rot270.jpg,Vineyard_2,Black Rot,Train
+IMG_0270,black rot271.jpg,Vineyard_25,Black Rot,Train
+IMG_0271,black rot272.jpg,Vineyard_24,Black Rot,Train
+IMG_0272,black rot273.jpg,Vineyard_3,Black Rot,Train
+IMG_0273,black rot274.jpg,Vineyard_15,Black Rot,Train
+IMG_0274,black rot275.jpg,Vineyard_21,Black Rot,Test
+IMG_0275,black rot276.jpg,Vineyard_24,Black Rot,Train
+IMG_0276,black rot277.jpg,Vineyard_23,Black Rot,Train
+IMG_0277,black rot278.jpg,Vineyard_4,Black Rot,Train
+IMG_0278,black rot279.jpg,Vineyard_14,Black Rot,Train
+IMG_0279,black rot280.jpg,Vineyard_5,Black Rot,Train
+IMG_0280,black rot281.jpg,Vineyard_20,Black Rot,Train
+IMG_0281,black rot282.jpg,Vineyard_21,Black Rot,Test
+IMG_0282,black rot283.jpg,Vineyard_16,Black Rot,Train
+IMG_0283,black rot284.jpg,Vineyard_27,Black Rot,Train
+IMG_0284,black rot285.jpg,Vineyard_26,Black Rot,Train
+IMG_0285,black rot286.jpg,Vineyard_16,Black Rot,Train
+IMG_0286,black rot287.jpg,Vineyard_18,Black Rot,Train
+IMG_0287,black rot288.jpg,Vineyard_25,Black Rot,Train
+IMG_0288,black rot289.jpg,Vineyard_5,Black Rot,Train
+IMG_0289,black rot290.jpg,Vineyard_19,Black Rot,Train
+IMG_0290,black rot291.jpg,Vineyard_9,Black Rot,Train
+IMG_0291,black rot292.jpg,Vineyard_27,Black Rot,Train
+IMG_0292,black rot293.jpg,Vineyard_22,Black Rot,Validation
+IMG_0293,black rot294.jpg,Vineyard_15,Black Rot,Train
+IMG_0294,black rot295.jpg,Vineyard_20,Black Rot,Train
+IMG_0295,black rot296.jpg,Vineyard_9,Black Rot,Train
+IMG_0296,black rot297.jpg,Vineyard_7,Black Rot,Test
+IMG_0297,black rot298.jpg,Vineyard_4,Black Rot,Train
+IMG_0298,black rot299.jpg,Vineyard_17,Black Rot,Test
+IMG_0299,black rot300.jpg,Vineyard_7,Black Rot,Test
+IMG_0300,black rot301.jpg,Vineyard_9,Black Rot,Train
+IMG_0301,black rot302.jpg,Vineyard_11,Black Rot,Validation
+IMG_0302,black rot303.jpg,Vineyard_28,Black Rot,Train
+IMG_0303,black rot304.jpg,Vineyard_25,Black Rot,Train
+IMG_0304,black rot305.jpg,Vineyard_26,Black Rot,Train
+IMG_0305,black rot306.jpg,Vineyard_28,Black Rot,Train
+IMG_0306,black rot307.jpg,Vineyard_2,Black Rot,Train
+IMG_0307,black rot308.jpg,Vineyard_9,Black Rot,Train
+IMG_0308,black rot309.jpg,Vineyard_21,Black Rot,Test
+IMG_0309,black rot310.jpg,Vineyard_2,Black Rot,Train
+IMG_0310,black rot311.jpg,Vineyard_15,Black Rot,Train
+IMG_0311,black rot312.jpg,Vineyard_28,Black Rot,Train
+IMG_0312,black rot313.jpg,Vineyard_17,Black Rot,Test
+IMG_0313,black rot314.jpg,Vineyard_24,Black Rot,Train
+IMG_0314,black rot315.jpg,Vineyard_1,Black Rot,Train
+IMG_0315,black rot316.jpg,Vineyard_21,Black Rot,Test
+IMG_0316,black rot317.jpg,Vineyard_4,Black Rot,Train
+IMG_0317,black rot318.jpg,Vineyard_21,Black Rot,Test
+IMG_0318,black rot319.jpg,Vineyard_5,Black Rot,Train
+IMG_0319,black rot320.jpg,Vineyard_4,Black Rot,Train
+IMG_0320,black rot321.jpg,Vineyard_10,Black Rot,Test
+IMG_0321,black rot322.jpg,Vineyard_3,Black Rot,Train
+IMG_0322,black rot323.jpg,Vineyard_15,Black Rot,Train
+IMG_0323,black rot324.jpg,Vineyard_11,Black Rot,Validation
+IMG_0324,black rot325.jpg,Vineyard_11,Black Rot,Validation
+IMG_0325,black rot326.jpg,Vineyard_10,Black Rot,Test
+IMG_0326,black rot327.jpg,Vineyard_14,Black Rot,Train
+IMG_0327,black rot328.jpg,Vineyard_2,Black Rot,Train
+IMG_0328,black rot329.jpg,Vineyard_28,Black Rot,Train
+IMG_0329,black rot330.jpg,Vineyard_10,Black Rot,Test
+IMG_0330,black rot331.jpg,Vineyard_28,Black Rot,Train
+IMG_0331,black rot332.jpg,Vineyard_10,Black Rot,Test
+IMG_0332,black rot333.jpg,Vineyard_8,Black Rot,Validation
+IMG_0333,black rot334.jpg,Vineyard_26,Black Rot,Train
+IMG_0334,black rot335.jpg,Vineyard_22,Black Rot,Validation
+IMG_0335,black rot336.jpg,Vineyard_25,Black Rot,Train
+IMG_0336,black rot337.jpg,Vineyard_2,Black Rot,Train
+IMG_0337,black rot338.jpg,Vineyard_12,Black Rot,Train
+IMG_0338,black rot339.jpg,Vineyard_3,Black Rot,Train
+IMG_0339,black rot340.jpg,Vineyard_10,Black Rot,Test
+IMG_0340,black rot341.jpg,Vineyard_24,Black Rot,Train
+IMG_0341,black rot342.jpg,Vineyard_20,Black Rot,Train
+IMG_0342,black rot343.jpg,Vineyard_12,Black Rot,Train
+IMG_0343,black rot344.jpg,Vineyard_6,Black Rot,Train
+IMG_0344,black rot345.jpg,Vineyard_3,Black Rot,Train
+IMG_0345,black rot346.jpg,Vineyard_8,Black Rot,Validation
+IMG_0346,black rot347.jpg,Vineyard_26,Black Rot,Train
+IMG_0347,black rot348.jpg,Vineyard_22,Black Rot,Validation
+IMG_0348,black rot349.jpg,Vineyard_16,Black Rot,Train
+IMG_0349,black rot350.jpg,Vineyard_13,Black Rot,Validation
+IMG_0350,black rot351.jpg,Vineyard_25,Black Rot,Train
+IMG_0351,black rot352.jpg,Vineyard_12,Black Rot,Train
+IMG_0352,black rot353.jpg,Vineyard_25,Black Rot,Train
+IMG_0353,black rot354.jpg,Vineyard_22,Black Rot,Validation
+IMG_0354,black rot355.jpg,Vineyard_2,Black Rot,Train
+IMG_0355,black rot356.jpg,Vineyard_26,Black Rot,Train
+IMG_0356,black rot357.jpg,Vineyard_10,Black Rot,Test
+IMG_0357,black rot358.jpg,Vineyard_12,Black Rot,Train
+IMG_0358,black rot359.jpg,Vineyard_9,Black Rot,Train
+IMG_0359,black rot360.jpg,Vineyard_26,Black Rot,Train
+IMG_0360,black rot361.jpg,Vineyard_5,Black Rot,Train
+IMG_0361,black rot362.jpg,Vineyard_20,Black Rot,Train
+IMG_0362,black rot363.jpg,Vineyard_28,Black Rot,Train
+IMG_0363,black rot364.jpg,Vineyard_24,Black Rot,Train
+IMG_0364,black rot365.jpg,Vineyard_18,Black Rot,Train
+IMG_0365,black rot366.jpg,Vineyard_5,Black Rot,Train
+IMG_0366,black rot367.jpg,Vineyard_14,Black Rot,Train
+IMG_0367,black rot368.jpg,Vineyard_12,Black Rot,Train
+IMG_0368,black rot369.jpg,Vineyard_23,Black Rot,Train
+IMG_0369,black rot370.jpg,Vineyard_23,Black Rot,Train
+IMG_0370,black rot371.jpg,Vineyard_20,Black Rot,Train
+IMG_0371,black rot372.jpg,Vineyard_9,Black Rot,Train
+IMG_0372,black rot373.jpg,Vineyard_22,Black Rot,Validation
+IMG_0373,black rot374.jpg,Vineyard_17,Black Rot,Test
+IMG_0374,black rot375.jpg,Vineyard_20,Black Rot,Train
+IMG_0375,black rot376.jpg,Vineyard_13,Black Rot,Validation
+IMG_0376,black rot377.jpg,Vineyard_6,Black Rot,Train
+IMG_0377,black rot378.jpg,Vineyard_26,Black Rot,Train
+IMG_0378,black rot379.jpg,Vineyard_14,Black Rot,Train
+IMG_0379,black rot380.jpg,Vineyard_3,Black Rot,Train
+IMG_0380,black rot381.jpg,Vineyard_17,Black Rot,Test
+IMG_0381,black rot382.jpg,Vineyard_8,Black Rot,Validation
+IMG_0382,black rot383.jpg,Vineyard_23,Black Rot,Train
+IMG_0383,black rot384.jpg,Vineyard_4,Black Rot,Train
+IMG_0384,black rot385.jpg,Vineyard_23,Black Rot,Train
+IMG_0385,black rot386.jpg,Vineyard_11,Black Rot,Validation
+IMG_0386,black rot387.jpg,Vineyard_5,Black Rot,Train
+IMG_0387,black rot388.jpg,Vineyard_20,Black Rot,Train
+IMG_0388,black rot389.jpg,Vineyard_26,Black Rot,Train
+IMG_0389,black rot390.jpg,Vineyard_7,Black Rot,Test
+IMG_0390,black rot391.jpg,Vineyard_13,Black Rot,Validation
+IMG_0391,black rot392.jpg,Vineyard_1,Black Rot,Train
+IMG_0392,black rot393.jpg,Vineyard_2,Black Rot,Train
+IMG_0393,black rot394.jpg,Vineyard_6,Black Rot,Train
+IMG_0394,black rot395.jpg,Vineyard_3,Black Rot,Train
+IMG_0395,black rot396.jpg,Vineyard_23,Black Rot,Train
+IMG_0396,black rot397.jpg,Vineyard_15,Black Rot,Train
+IMG_0397,black rot398.jpg,Vineyard_24,Black Rot,Train
+IMG_0398,black rot399.jpg,Vineyard_10,Black Rot,Test
+IMG_0399,black rot400.jpg,Vineyard_14,Black Rot,Train
+IMG_0400,black rot401.jpg,Vineyard_7,Black Rot,Test
+IMG_0401,black rot402.jpg,Vineyard_20,Black Rot,Train
+IMG_0402,black rot403.jpg,Vineyard_27,Black Rot,Train
+IMG_0403,black rot404.jpg,Vineyard_27,Black Rot,Train
+IMG_0404,black rot405.jpg,Vineyard_3,Black Rot,Train
+IMG_0405,black rot406.jpg,Vineyard_12,Black Rot,Train
+IMG_0406,black rot407.jpg,Vineyard_8,Black Rot,Validation
+IMG_0407,black rot408.jpg,Vineyard_19,Black Rot,Train
+IMG_0408,black rot409.jpg,Vineyard_25,Black Rot,Train
+IMG_0409,black rot410.jpg,Vineyard_19,Black Rot,Train
+IMG_0410,black rot411.jpg,Vineyard_15,Black Rot,Train
+IMG_0411,black rot412.jpg,Vineyard_27,Black Rot,Train
+IMG_0412,black rot413.jpg,Vineyard_23,Black Rot,Train
+IMG_0413,black rot414.jpg,Vineyard_22,Black Rot,Validation
+IMG_0414,black rot415.jpg,Vineyard_17,Black Rot,Test
+IMG_0415,black rot416.jpg,Vineyard_4,Black Rot,Train
+IMG_0416,black rot417.jpg,Vineyard_12,Black Rot,Train
+IMG_0417,black rot418.jpg,Vineyard_18,Black Rot,Train
+IMG_0418,black rot419.jpg,Vineyard_9,Black Rot,Train
+IMG_0419,black rot420.jpg,Vineyard_23,Black Rot,Train
+IMG_0420,black rot421.jpg,Vineyard_5,Black Rot,Train
+IMG_0421,black rot422.jpg,Vineyard_22,Black Rot,Validation
+IMG_0422,black rot423.jpg,Vineyard_11,Black Rot,Validation
+IMG_0423,black rot424.jpg,Vineyard_28,Black Rot,Train
+IMG_0424,black rot425.jpg,Vineyard_6,Black Rot,Train
+IMG_0425,black rot426.jpg,Vineyard_20,Black Rot,Train
+IMG_0426,black rot427.jpg,Vineyard_24,Black Rot,Train
+IMG_0427,black rot428.jpg,Vineyard_13,Black Rot,Validation
+IMG_0428,black rot429.jpg,Vineyard_24,Black Rot,Train
+IMG_0429,black rot430.jpg,Vineyard_28,Black Rot,Train
+IMG_0430,black rot431.jpg,Vineyard_4,Black Rot,Train
+IMG_0431,black rot432.jpg,Vineyard_17,Black Rot,Test
+IMG_0432,black rot433.jpg,Vineyard_5,Black Rot,Train
+IMG_0433,black rot434.jpg,Vineyard_24,Black Rot,Train
+IMG_0434,black rot435.jpg,Vineyard_3,Black Rot,Train
+IMG_0435,black rot436.jpg,Vineyard_26,Black Rot,Train
+IMG_0436,black rot437.jpg,Vineyard_19,Black Rot,Train
+IMG_0437,black rot438.jpg,Vineyard_22,Black Rot,Validation
+IMG_0438,black rot439.jpg,Vineyard_20,Black Rot,Train
+IMG_0439,black rot440.jpg,Vineyard_27,Black Rot,Train
+IMG_0440,black rot441.jpg,Vineyard_28,Black Rot,Train
+IMG_0441,black rot442.jpg,Vineyard_10,Black Rot,Test
+IMG_0442,black rot443.jpg,Vineyard_26,Black Rot,Train
+IMG_0443,black rot444.jpg,Vineyard_3,Black Rot,Train
+IMG_0444,black rot445.jpg,Vineyard_18,Black Rot,Train
+IMG_0445,black rot446.jpg,Vineyard_19,Black Rot,Train
+IMG_0446,black rot447.jpg,Vineyard_24,Black Rot,Train
+IMG_0447,black rot448.jpg,Vineyard_10,Black Rot,Test
+IMG_0448,black rot449.jpg,Vineyard_23,Black Rot,Train
+IMG_0449,black rot450.jpg,Vineyard_12,Black Rot,Train
+IMG_0450,black rot451.jpg,Vineyard_13,Black Rot,Validation
+IMG_0451,black rot452.jpg,Vineyard_28,Black Rot,Train
+IMG_0452,black rot453.jpg,Vineyard_9,Black Rot,Train
+IMG_0453,black rot454.jpg,Vineyard_18,Black Rot,Train
+IMG_0454,black rot455.jpg,Vineyard_26,Black Rot,Train
+IMG_0455,black rot456.jpg,Vineyard_11,Black Rot,Validation
+IMG_0456,black rot457.jpg,Vineyard_10,Black Rot,Test
+IMG_0457,black rot458.jpg,Vineyard_2,Black Rot,Train
+IMG_0458,black rot459.jpg,Vineyard_11,Black Rot,Validation
+IMG_0459,black rot460.jpg,Vineyard_12,Black Rot,Train
+IMG_0460,black rot461.jpg,Vineyard_13,Black Rot,Validation
+IMG_0461,black rot462.jpg,Vineyard_4,Black Rot,Train
+IMG_0462,black rot463.jpg,Vineyard_22,Black Rot,Validation
+IMG_0463,black rot464.jpg,Vineyard_19,Black Rot,Train
+IMG_0464,black rot465.jpg,Vineyard_3,Black Rot,Train
+IMG_0465,black rot466.jpg,Vineyard_26,Black Rot,Train
+IMG_0466,black rot467.jpg,Vineyard_28,Black Rot,Train
+IMG_0467,black rot468.jpg,Vineyard_20,Black Rot,Train
+IMG_0468,black rot469.jpg,Vineyard_24,Black Rot,Train
+IMG_0469,black rot470.jpg,Vineyard_17,Black Rot,Test
+IMG_0470,black rot471.jpg,Vineyard_9,Black Rot,Train
+IMG_0471,black rot472.jpg,Vineyard_17,Black Rot,Test
+IMG_0472,black rot473.jpg,Vineyard_21,Black Rot,Test
+IMG_0473,black rot474.jpg,Vineyard_18,Black Rot,Train
+IMG_0474,black rot475.jpg,Vineyard_22,Black Rot,Validation
+IMG_0475,black rot476.jpg,Vineyard_19,Black Rot,Train
+IMG_0476,black rot477.jpg,Vineyard_2,Black Rot,Train
+IMG_0477,black rot478.jpg,Vineyard_26,Black Rot,Train
+IMG_0478,black rot479.jpg,Vineyard_2,Black Rot,Train
+IMG_0479,black rot480.jpg,Vineyard_14,Black Rot,Train
+IMG_0480,black rot481.jpg,Vineyard_18,Black Rot,Train
+IMG_0481,black rot482.jpg,Vineyard_20,Black Rot,Train
+IMG_0482,black rot483.jpg,Vineyard_6,Black Rot,Train
+IMG_0483,black rot484.jpg,Vineyard_21,Black Rot,Test
+IMG_0484,black rot485.jpg,Vineyard_23,Black Rot,Train
+IMG_0485,black rot486.jpg,Vineyard_11,Black Rot,Validation
+IMG_0486,black rot487.jpg,Vineyard_17,Black Rot,Test
+IMG_0487,black rot488.jpg,Vineyard_26,Black Rot,Train
+IMG_0488,black rot489.jpg,Vineyard_27,Black Rot,Train
+IMG_0489,black rot490.jpg,Vineyard_13,Black Rot,Validation
+IMG_0490,black rot491.jpg,Vineyard_24,Black Rot,Train
+IMG_0491,black rot492.jpg,Vineyard_25,Black Rot,Train
+IMG_0492,black rot493.jpg,Vineyard_22,Black Rot,Validation
+IMG_0493,black rot494.jpg,Vineyard_23,Black Rot,Train
+IMG_0494,black rot495.jpg,Vineyard_2,Black Rot,Train
+IMG_0495,black rot496.jpg,Vineyard_6,Black Rot,Train
+IMG_0496,black rot497.jpg,Vineyard_14,Black Rot,Train
+IMG_0497,black rot498.jpg,Vineyard_12,Black Rot,Train
+IMG_0498,black rot499.jpg,Vineyard_10,Black Rot,Test
+IMG_0499,black rot500.jpg,Vineyard_11,Black Rot,Validation
+IMG_0500,black rot501.jpg,Vineyard_17,Black Rot,Test
+IMG_0501,black rot502.jpg,Vineyard_20,Black Rot,Train
+IMG_0502,black rot503.jpg,Vineyard_27,Black Rot,Train
+IMG_0503,black rot504.jpg,Vineyard_12,Black Rot,Train
+IMG_0504,black rot505.jpg,Vineyard_27,Black Rot,Train
+IMG_0505,black rot506.jpg,Vineyard_7,Black Rot,Test
+IMG_0506,black rot507.jpg,Vineyard_10,Black Rot,Test
+IMG_0507,black rot508.jpg,Vineyard_1,Black Rot,Train
+IMG_0508,black rot509.jpg,Vineyard_20,Black Rot,Train
+IMG_0509,black rot510.jpg,Vineyard_11,Black Rot,Validation
+IMG_0510,black rot511.jpg,Vineyard_8,Black Rot,Validation
+IMG_0511,black rot512.jpg,Vineyard_14,Black Rot,Train
+IMG_0512,black rot513.jpg,Vineyard_22,Black Rot,Validation
+IMG_0513,black rot514.jpg,Vineyard_8,Black Rot,Validation
+IMG_0514,black rot515.jpg,Vineyard_14,Black Rot,Train
+IMG_0515,black rot516.jpg,Vineyard_19,Black Rot,Train
+IMG_0516,black rot517.jpg,Vineyard_13,Black Rot,Validation
+IMG_0517,black rot518.jpg,Vineyard_7,Black Rot,Test
+IMG_0518,black rot519.jpg,Vineyard_15,Black Rot,Train
+IMG_0519,black rot520.jpg,Vineyard_19,Black Rot,Train
+IMG_0520,black rot521.jpg,Vineyard_19,Black Rot,Train
+IMG_0521,black rot522.jpg,Vineyard_22,Black Rot,Validation
+IMG_0522,black rot523.jpg,Vineyard_21,Black Rot,Test
+IMG_0523,black rot524.jpg,Vineyard_8,Black Rot,Validation
+IMG_0524,black rot525.jpg,Vineyard_23,Black Rot,Train
+IMG_0525,black rot526.jpg,Vineyard_26,Black Rot,Train
+IMG_0526,black rot527.jpg,Vineyard_26,Black Rot,Train
+IMG_0527,black rot528.jpg,Vineyard_12,Black Rot,Train
+IMG_0528,black rot529.jpg,Vineyard_21,Black Rot,Test
+IMG_0529,black rot530.jpg,Vineyard_9,Black Rot,Train
+IMG_0530,black rot531.jpg,Vineyard_22,Black Rot,Validation
+IMG_0531,black rot532.jpg,Vineyard_20,Black Rot,Train
+IMG_0532,black rot533.jpg,Vineyard_5,Black Rot,Train
+IMG_0533,black rot534.jpg,Vineyard_11,Black Rot,Validation
+IMG_0534,black rot535.jpg,Vineyard_13,Black Rot,Validation
+IMG_0535,black rot536.jpg,Vineyard_25,Black Rot,Train
+IMG_0536,black rot537.jpg,Vineyard_13,Black Rot,Validation
+IMG_0537,black rot538.jpg,Vineyard_23,Black Rot,Train
+IMG_0538,black rot539.jpg,Vineyard_14,Black Rot,Train
+IMG_0539,black rot540.jpg,Vineyard_19,Black Rot,Train
+IMG_0540,black rot541.jpg,Vineyard_2,Black Rot,Train
+IMG_0541,black rot542.jpg,Vineyard_15,Black Rot,Train
+IMG_0542,black rot543.jpg,Vineyard_25,Black Rot,Train
+IMG_0543,black rot544.jpg,Vineyard_12,Black Rot,Train
+IMG_0544,black rot545.jpg,Vineyard_9,Black Rot,Train
+IMG_0545,black rot546.jpg,Vineyard_27,Black Rot,Train
+IMG_0546,black rot547.jpg,Vineyard_17,Black Rot,Test
+IMG_0547,black rot548.jpg,Vineyard_14,Black Rot,Train
+IMG_0548,black rot549.jpg,Vineyard_13,Black Rot,Validation
+IMG_0549,black rot550.jpg,Vineyard_26,Black Rot,Train
+IMG_0550,black rot551.jpg,Vineyard_21,Black Rot,Test
+IMG_0551,black rot552.jpg,Vineyard_18,Black Rot,Train
+IMG_0552,black rot553.jpg,Vineyard_16,Black Rot,Train
+IMG_0553,black rot554.jpg,Vineyard_14,Black Rot,Train
+IMG_0554,black rot555.jpg,Vineyard_1,Black Rot,Train
+IMG_0555,black rot556.jpg,Vineyard_7,Black Rot,Test
+IMG_0556,black rot557.jpg,Vineyard_27,Black Rot,Train
+IMG_0557,black rot558.jpg,Vineyard_28,Black Rot,Train
+IMG_0558,black rot559.jpg,Vineyard_23,Black Rot,Train
+IMG_0559,black rot560.jpg,Vineyard_27,Black Rot,Train
+IMG_0560,black rot561.jpg,Vineyard_16,Black Rot,Train
+IMG_0561,black rot562.jpg,Vineyard_22,Black Rot,Validation
+IMG_0562,black rot563.jpg,Vineyard_25,Black Rot,Train
+IMG_0563,black rot564.jpg,Vineyard_18,Black Rot,Train
+IMG_0564,black rot565.jpg,Vineyard_16,Black Rot,Train
+IMG_0565,black rot566.jpg,Vineyard_12,Black Rot,Train
+IMG_0566,black rot567.jpg,Vineyard_5,Black Rot,Train
+IMG_0567,black rot568.jpg,Vineyard_3,Black Rot,Train
+IMG_0568,black rot569.jpg,Vineyard_13,Black Rot,Validation
+IMG_0569,black rot570.jpg,Vineyard_8,Black Rot,Validation
+IMG_0570,black rot571.jpg,Vineyard_9,Black Rot,Train
+IMG_0571,black rot572.jpg,Vineyard_3,Black Rot,Train
+IMG_0572,black rot573.jpg,Vineyard_7,Black Rot,Test
+IMG_0573,black rot574.jpg,Vineyard_22,Black Rot,Validation
+IMG_0574,black rot575.jpg,Vineyard_3,Black Rot,Train
+IMG_0575,black rot576.jpg,Vineyard_26,Black Rot,Train
+IMG_0576,black rot577.jpg,Vineyard_19,Black Rot,Train
+IMG_0577,black rot578.jpg,Vineyard_1,Black Rot,Train
+IMG_0578,black rot579.jpg,Vineyard_14,Black Rot,Train
+IMG_0579,black rot580.jpg,Vineyard_11,Black Rot,Validation
+IMG_0580,black rot581.jpg,Vineyard_28,Black Rot,Train
+IMG_0581,black rot582.jpg,Vineyard_19,Black Rot,Train
+IMG_0582,black rot583.jpg,Vineyard_10,Black Rot,Test
+IMG_0583,black rot584.jpg,Vineyard_3,Black Rot,Train
+IMG_0584,black rot585.jpg,Vineyard_12,Black Rot,Train
+IMG_0585,black rot586.jpg,Vineyard_8,Black Rot,Validation
+IMG_0586,black rot587.jpg,Vineyard_7,Black Rot,Test
+IMG_0587,black rot588.jpg,Vineyard_18,Black Rot,Train
+IMG_0588,black rot589.jpg,Vineyard_25,Black Rot,Train
+IMG_0589,black rot590.jpg,Vineyard_4,Black Rot,Train
+IMG_0590,black rot591.jpg,Vineyard_22,Black Rot,Validation
+IMG_0591,black rot592.jpg,Vineyard_7,Black Rot,Test
+IMG_0592,black rot593.jpg,Vineyard_11,Black Rot,Validation
+IMG_0593,black rot594.jpg,Vineyard_28,Black Rot,Train
+IMG_0594,black rot595.jpg,Vineyard_3,Black Rot,Train
+IMG_0595,black rot596.jpg,Vineyard_8,Black Rot,Validation
+IMG_0596,black rot597.jpg,Vineyard_16,Black Rot,Train
+IMG_0597,black rot598.jpg,Vineyard_14,Black Rot,Train
+IMG_0598,black rot599.jpg,Vineyard_7,Black Rot,Test
+IMG_0599,black rot600.jpg,Vineyard_18,Black Rot,Train
+IMG_0600,black rot601.jpg,Vineyard_20,Black Rot,Train
+IMG_0601,black rot602.jpg,Vineyard_23,Black Rot,Train
+IMG_0602,black rot603.jpg,Vineyard_23,Black Rot,Train
+IMG_0603,black rot604.jpg,Vineyard_4,Black Rot,Train
+IMG_0604,black rot605.jpg,Vineyard_23,Black Rot,Train
+IMG_0605,black rot606.jpg,Vineyard_4,Black Rot,Train
+IMG_0606,black rot607.jpg,Vineyard_24,Black Rot,Train
+IMG_0607,black rot608.jpg,Vineyard_14,Black Rot,Train
+IMG_0608,black rot609.jpg,Vineyard_26,Black Rot,Train
+IMG_0609,black rot610.jpg,Vineyard_18,Black Rot,Train
+IMG_0610,black rot611.jpg,Vineyard_20,Black Rot,Train
+IMG_0611,black rot612.jpg,Vineyard_15,Black Rot,Train
+IMG_0612,black rot613.jpg,Vineyard_25,Black Rot,Train
+IMG_0613,black rot614.jpg,Vineyard_11,Black Rot,Validation
+IMG_0614,black rot615.jpg,Vineyard_22,Black Rot,Validation
+IMG_0615,black rot616.jpg,Vineyard_5,Black Rot,Train
+IMG_0616,black rot617.jpg,Vineyard_21,Black Rot,Test
+IMG_0617,black rot618.jpg,Vineyard_17,Black Rot,Test
+IMG_0618,black rot619.jpg,Vineyard_3,Black Rot,Train
+IMG_0619,black rot620.jpg,Vineyard_10,Black Rot,Test
+IMG_0620,black rot621.jpg,Vineyard_8,Black Rot,Validation
+IMG_0621,black rot622.jpg,Vineyard_14,Black Rot,Train
+IMG_0622,black rot623.jpg,Vineyard_9,Black Rot,Train
+IMG_0623,black rot624.jpg,Vineyard_16,Black Rot,Train
+IMG_0624,black rot625.jpg,Vineyard_27,Black Rot,Train
+IMG_0625,black rot626.jpg,Vineyard_6,Black Rot,Train
+IMG_0626,black rot627.jpg,Vineyard_10,Black Rot,Test
+IMG_0627,black rot628.jpg,Vineyard_12,Black Rot,Train
+IMG_0628,black rot629.jpg,Vineyard_8,Black Rot,Validation
+IMG_0629,black rot630.jpg,Vineyard_2,Black Rot,Train
+IMG_0630,black rot631.jpg,Vineyard_21,Black Rot,Test
+IMG_0631,black rot632.jpg,Vineyard_1,Black Rot,Train
+IMG_0632,black rot633.jpg,Vineyard_13,Black Rot,Validation
+IMG_0633,black rot634.jpg,Vineyard_25,Black Rot,Train
+IMG_0634,black rot635.jpg,Vineyard_15,Black Rot,Train
+IMG_0635,black rot636.jpg,Vineyard_3,Black Rot,Train
+IMG_0636,black rot637.jpg,Vineyard_2,Black Rot,Train
+IMG_0637,black rot638.jpg,Vineyard_18,Black Rot,Train
+IMG_0638,black rot639.jpg,Vineyard_12,Black Rot,Train
+IMG_0639,black rot640.jpg,Vineyard_11,Black Rot,Validation
+IMG_0640,black rot641.jpg,Vineyard_28,Black Rot,Train
+IMG_0641,black rot642.jpg,Vineyard_2,Black Rot,Train
+IMG_0642,black rot643.jpg,Vineyard_15,Black Rot,Train
+IMG_0643,black rot644.jpg,Vineyard_23,Black Rot,Train
+IMG_0644,black rot645.jpg,Vineyard_9,Black Rot,Train
+IMG_0645,black rot646.jpg,Vineyard_1,Black Rot,Train
+IMG_0646,black rot647.jpg,Vineyard_6,Black Rot,Train
+IMG_0647,black rot648.jpg,Vineyard_21,Black Rot,Test
+IMG_0648,black rot649.jpg,Vineyard_4,Black Rot,Train
+IMG_0649,black rot650.jpg,Vineyard_18,Black Rot,Train
+IMG_0650,black rot651.jpg,Vineyard_14,Black Rot,Train
+IMG_0651,black rot652.jpg,Vineyard_5,Black Rot,Train
+IMG_0652,black rot653.jpg,Vineyard_13,Black Rot,Validation
+IMG_0653,black rot654.jpg,Vineyard_7,Black Rot,Test
+IMG_0654,black rot655.jpg,Vineyard_26,Black Rot,Train
+IMG_0655,black rot656.jpg,Vineyard_20,Black Rot,Train
+IMG_0656,black rot657.jpg,Vineyard_8,Black Rot,Validation
+IMG_0657,black rot658.jpg,Vineyard_20,Black Rot,Train
+IMG_0658,black rot659.jpg,Vineyard_28,Black Rot,Train
+IMG_0659,black rot660.jpg,Vineyard_6,Black Rot,Train
+IMG_0660,black rot661.jpg,Vineyard_24,Black Rot,Train
+IMG_0661,black rot662.jpg,Vineyard_25,Black Rot,Train
+IMG_0662,black rot663.jpg,Vineyard_5,Black Rot,Train
+IMG_0663,black rot664.jpg,Vineyard_20,Black Rot,Train
+IMG_0664,black rot665.jpg,Vineyard_24,Black Rot,Train
+IMG_0665,black rot666.jpg,Vineyard_19,Black Rot,Train
+IMG_0666,black rot667.jpg,Vineyard_25,Black Rot,Train
+IMG_0667,black rot668.jpg,Vineyard_8,Black Rot,Validation
+IMG_0668,black rot669.jpg,Vineyard_28,Black Rot,Train
+IMG_0669,black rot670.jpg,Vineyard_27,Black Rot,Train
+IMG_0670,black rot671.jpg,Vineyard_11,Black Rot,Validation
+IMG_0671,black rot672.jpg,Vineyard_19,Black Rot,Train
+IMG_0672,black rot673.jpg,Vineyard_9,Black Rot,Train
+IMG_0673,black rot674.jpg,Vineyard_3,Black Rot,Train
+IMG_0674,black rot675.jpg,Vineyard_25,Black Rot,Train
+IMG_0675,black rot676.jpg,Vineyard_6,Black Rot,Train
+IMG_0676,black rot677.jpg,Vineyard_25,Black Rot,Train
+IMG_0677,black rot678.jpg,Vineyard_20,Black Rot,Train
+IMG_0678,black rot679.jpg,Vineyard_25,Black Rot,Train
+IMG_0679,black rot680.jpg,Vineyard_18,Black Rot,Train
+IMG_0680,black rot681.jpg,Vineyard_20,Black Rot,Train
+IMG_0681,black rot682.jpg,Vineyard_9,Black Rot,Train
+IMG_0682,black rot683.jpg,Vineyard_17,Black Rot,Test
+IMG_0683,black rot684.jpg,Vineyard_18,Black Rot,Train
+IMG_0684,black rot685.jpg,Vineyard_12,Black Rot,Train
+IMG_0685,black rot686.jpg,Vineyard_23,Black Rot,Train
+IMG_0686,black rot687.jpg,Vineyard_12,Black Rot,Train
+IMG_0687,black rot688.jpg,Vineyard_26,Black Rot,Train
+IMG_0688,black rot689.jpg,Vineyard_24,Black Rot,Train
+IMG_0689,black rot690.jpg,Vineyard_1,Black Rot,Train
+IMG_0690,black rot691.jpg,Vineyard_15,Black Rot,Train
+IMG_0691,black rot692.jpg,Vineyard_25,Black Rot,Train
+IMG_0692,black rot693.jpg,Vineyard_13,Black Rot,Validation
+IMG_0693,black rot694.jpg,Vineyard_10,Black Rot,Test
+IMG_0694,black rot695.jpg,Vineyard_12,Black Rot,Train
+IMG_0695,black rot696.jpg,Vineyard_17,Black Rot,Test
+IMG_0696,black rot697.jpg,Vineyard_22,Black Rot,Validation
+IMG_0697,black rot698.jpg,Vineyard_8,Black Rot,Validation
+IMG_0698,black rot699.jpg,Vineyard_3,Black Rot,Train
+IMG_0699,black rot700.jpg,Vineyard_8,Black Rot,Validation
+IMG_0700,black rot701.jpg,Vineyard_27,Black Rot,Train
+IMG_0701,black rot702.jpg,Vineyard_4,Black Rot,Train
+IMG_0702,black rot703.jpg,Vineyard_20,Black Rot,Train
+IMG_0703,black rot704.jpg,Vineyard_21,Black Rot,Test
+IMG_0704,black rot705.jpg,Vineyard_14,Black Rot,Train
+IMG_0705,black rot706.jpg,Vineyard_25,Black Rot,Train
+IMG_0706,black rot707.jpg,Vineyard_11,Black Rot,Validation
+IMG_0707,black rot708.jpg,Vineyard_19,Black Rot,Train
+IMG_0708,black rot709.jpg,Vineyard_12,Black Rot,Train
+IMG_0709,black rot710.jpg,Vineyard_20,Black Rot,Train
+IMG_0710,black rot711.jpg,Vineyard_14,Black Rot,Train
+IMG_0711,black rot712.jpg,Vineyard_17,Black Rot,Test
+IMG_0712,black rot713.jpg,Vineyard_17,Black Rot,Test
+IMG_0713,black rot714.jpg,Vineyard_13,Black Rot,Validation
+IMG_0714,black rot715.jpg,Vineyard_5,Black Rot,Train
+IMG_0715,black rot716.jpg,Vineyard_10,Black Rot,Test
+IMG_0716,black rot717.jpg,Vineyard_1,Black Rot,Train
+IMG_0717,black rot718.jpg,Vineyard_9,Black Rot,Train
+IMG_0718,black rot719.jpg,Vineyard_14,Black Rot,Train
+IMG_0719,black rot720.jpg,Vineyard_6,Black Rot,Train
+IMG_0720,black rot721.jpg,Vineyard_21,Black Rot,Test
+IMG_0721,black rot722.jpg,Vineyard_9,Black Rot,Train
+IMG_0722,black rot723.jpg,Vineyard_21,Black Rot,Test
+IMG_0723,black rot724.jpg,Vineyard_5,Black Rot,Train
+IMG_0724,black rot725.jpg,Vineyard_12,Black Rot,Train
+IMG_0725,black rot726.jpg,Vineyard_13,Black Rot,Validation
+IMG_0726,black rot727.jpg,Vineyard_21,Black Rot,Test
+IMG_0727,black rot728.jpg,Vineyard_24,Black Rot,Train
+IMG_0728,black rot729.jpg,Vineyard_9,Black Rot,Train
+IMG_0729,black rot730.jpg,Vineyard_9,Black Rot,Train
+IMG_0730,black rot731.jpg,Vineyard_25,Black Rot,Train
+IMG_0731,black rot732.jpg,Vineyard_5,Black Rot,Train
+IMG_0732,black rot733.jpg,Vineyard_8,Black Rot,Validation
+IMG_0733,black rot734.jpg,Vineyard_22,Black Rot,Validation
+IMG_0734,black rot735.jpg,Vineyard_11,Black Rot,Validation
+IMG_0735,black rot736.jpg,Vineyard_2,Black Rot,Train
+IMG_0736,black rot737.jpg,Vineyard_18,Black Rot,Train
+IMG_0737,black rot738.jpg,Vineyard_16,Black Rot,Train
+IMG_0738,black rot739.jpg,Vineyard_6,Black Rot,Train
+IMG_0739,black rot740.jpg,Vineyard_3,Black Rot,Train
+IMG_0740,black rot741.jpg,Vineyard_11,Black Rot,Validation
+IMG_0741,black rot742.jpg,Vineyard_21,Black Rot,Test
+IMG_0742,black rot743.jpg,Vineyard_15,Black Rot,Train
+IMG_0743,black rot744.jpg,Vineyard_20,Black Rot,Train
+IMG_0744,black rot745.jpg,Vineyard_21,Black Rot,Test
+IMG_0745,black rot746.jpg,Vineyard_8,Black Rot,Validation
+IMG_0746,black rot747.jpg,Vineyard_27,Black Rot,Train
+IMG_0747,black rot748.jpg,Vineyard_26,Black Rot,Train
+IMG_0748,black rot749.jpg,Vineyard_15,Black Rot,Train
+IMG_0749,black rot750.jpg,Vineyard_1,Black Rot,Train
+IMG_0750,black rot751.jpg,Vineyard_22,Black Rot,Validation
+IMG_0751,black rot752.jpg,Vineyard_24,Black Rot,Train
+IMG_0752,black rot753.jpg,Vineyard_24,Black Rot,Train
+IMG_0753,black rot754.jpg,Vineyard_26,Black Rot,Train
+IMG_0754,black rot755.jpg,Vineyard_8,Black Rot,Validation
+IMG_0755,black rot756.jpg,Vineyard_21,Black Rot,Test
+IMG_0756,black rot757.jpg,Vineyard_5,Black Rot,Train
+IMG_0757,black rot758.jpg,Vineyard_4,Black Rot,Train
+IMG_0758,black rot759.jpg,Vineyard_19,Black Rot,Train
+IMG_0759,black rot760.jpg,Vineyard_1,Black Rot,Train
+IMG_0760,black rot761.jpg,Vineyard_25,Black Rot,Train
+IMG_0761,black rot762.jpg,Vineyard_18,Black Rot,Train
+IMG_0762,black rot763.jpg,Vineyard_10,Black Rot,Test
+IMG_0763,black rot764.jpg,Vineyard_19,Black Rot,Train
+IMG_0764,black rot765.jpg,Vineyard_20,Black Rot,Train
+IMG_0765,black rot766.jpg,Vineyard_18,Black Rot,Train
+IMG_0766,black rot767.jpg,Vineyard_8,Black Rot,Validation
+IMG_0767,black rot768.jpg,Vineyard_22,Black Rot,Validation
+IMG_0768,black rot769.jpg,Vineyard_9,Black Rot,Train
+IMG_0769,black rot770.jpg,Vineyard_26,Black Rot,Train
+IMG_0770,black rot771.jpg,Vineyard_3,Black Rot,Train
+IMG_0771,black rot772.jpg,Vineyard_22,Black Rot,Validation
+IMG_0772,black rot773.jpg,Vineyard_26,Black Rot,Train
+IMG_0773,black rot774.jpg,Vineyard_3,Black Rot,Train
+IMG_0774,black rot775.jpg,Vineyard_10,Black Rot,Test
+IMG_0775,black rot776.jpg,Vineyard_3,Black Rot,Train
+IMG_0776,black rot777.jpg,Vineyard_25,Black Rot,Train
+IMG_0777,black rot778.jpg,Vineyard_2,Black Rot,Train
+IMG_0778,black rot779.jpg,Vineyard_18,Black Rot,Train
+IMG_0779,black rot780.jpg,Vineyard_23,Black Rot,Train
+IMG_0780,black rot781.jpg,Vineyard_25,Black Rot,Train
+IMG_0781,black rot782.jpg,Vineyard_26,Black Rot,Train
+IMG_0782,black rot783.jpg,Vineyard_7,Black Rot,Test
+IMG_0783,black rot784.jpg,Vineyard_22,Black Rot,Validation
+IMG_0784,black rot785.jpg,Vineyard_22,Black Rot,Validation
+IMG_0785,black rot786.jpg,Vineyard_12,Black Rot,Train
+IMG_0786,black rot787.jpg,Vineyard_4,Black Rot,Train
+IMG_0787,black rot788.jpg,Vineyard_21,Black Rot,Test
+IMG_0788,black rot789.jpg,Vineyard_12,Black Rot,Train
+IMG_0789,black rot790.jpg,Vineyard_12,Black Rot,Train
+IMG_0790,black rot791.jpg,Vineyard_7,Black Rot,Test
+IMG_0791,black rot792.jpg,Vineyard_4,Black Rot,Train
+IMG_0792,black rot793.jpg,Vineyard_20,Black Rot,Train
+IMG_0793,black rot794.jpg,Vineyard_18,Black Rot,Train
+IMG_0794,black rot795.jpg,Vineyard_16,Black Rot,Train
+IMG_0795,black rot796.jpg,Vineyard_17,Black Rot,Test
+IMG_0796,black rot797.jpg,Vineyard_4,Black Rot,Train
+IMG_0797,black rot798.jpg,Vineyard_20,Black Rot,Train
+IMG_0798,black rot799.jpg,Vineyard_6,Black Rot,Train
+IMG_0799,black rot800.jpg,Vineyard_12,Black Rot,Train
+IMG_0800,black rot801.jpg,Vineyard_28,Black Rot,Train
+IMG_0801,black rot802.jpg,Vineyard_7,Black Rot,Test
+IMG_0802,black rot803.jpg,Vineyard_10,Black Rot,Test
+IMG_0803,black rot804.jpg,Vineyard_11,Black Rot,Validation
+IMG_0804,black rot805.jpg,Vineyard_24,Black Rot,Train
+IMG_0805,black rot806.jpg,Vineyard_21,Black Rot,Test
+IMG_0806,black rot807.jpg,Vineyard_14,Black Rot,Train
+IMG_0807,black rot808.jpg,Vineyard_14,Black Rot,Train
+IMG_0808,mega dataset (31) - Copy - Copy - Copy.jpg,Vineyard_12,Black Rot,Train
+IMG_0809,esca001.jpg,Vineyard_16,Black Rot,Train
+IMG_0810,esca002.jpg,Vineyard_11,Esca,Validation
+IMG_0811,esca003.jpg,Vineyard_6,Esca,Train
+IMG_0812,esca004.jpg,Vineyard_27,Esca,Train
+IMG_0813,esca005.jpg,Vineyard_2,Esca,Train
+IMG_0814,esca006.jpg,Vineyard_20,Esca,Train
+IMG_0815,esca007.jpg,Vineyard_8,Esca,Validation
+IMG_0816,esca008.jpg,Vineyard_24,Esca,Train
+IMG_0817,esca009.jpg,Vineyard_11,Esca,Validation
+IMG_0818,esca010.jpg,Vineyard_14,Esca,Train
+IMG_0819,esca011.jpg,Vineyard_25,Esca,Train
+IMG_0820,esca012.jpg,Vineyard_26,Esca,Train
+IMG_0821,esca013.jpg,Vineyard_7,Esca,Test
+IMG_0822,esca014.jpg,Vineyard_14,Esca,Train
+IMG_0823,esca015.jpg,Vineyard_28,Esca,Train
+IMG_0824,esca016.jpg,Vineyard_4,Esca,Train
+IMG_0825,esca017.jpg,Vineyard_5,Esca,Train
+IMG_0826,esca018.jpg,Vineyard_12,Esca,Train
+IMG_0827,esca019.jpg,Vineyard_7,Esca,Test
+IMG_0828,esca020.jpg,Vineyard_24,Esca,Train
+IMG_0829,esca021.jpg,Vineyard_18,Esca,Train
+IMG_0830,esca022.jpg,Vineyard_6,Esca,Train
+IMG_0831,esca023.jpg,Vineyard_8,Esca,Validation
+IMG_0832,esca024.jpg,Vineyard_28,Esca,Train
+IMG_0833,esca025.jpg,Vineyard_10,Esca,Test
+IMG_0834,esca026.jpg,Vineyard_7,Esca,Test
+IMG_0835,esca027.jpg,Vineyard_23,Esca,Train
+IMG_0836,esca028.jpg,Vineyard_26,Esca,Train
+IMG_0837,esca029.jpg,Vineyard_13,Esca,Validation
+IMG_0838,esca030.jpg,Vineyard_24,Esca,Train
+IMG_0839,esca031.jpg,Vineyard_5,Esca,Train
+IMG_0840,esca032.jpg,Vineyard_3,Esca,Train
+IMG_0841,esca033.jpg,Vineyard_24,Esca,Train
+IMG_0842,esca034.jpg,Vineyard_16,Esca,Train
+IMG_0843,esca035.jpg,Vineyard_11,Esca,Validation
+IMG_0844,esca036.jpg,Vineyard_13,Esca,Validation
+IMG_0845,esca037.jpg,Vineyard_19,Esca,Train
+IMG_0846,esca038.jpg,Vineyard_15,Esca,Train
+IMG_0847,esca039.jpg,Vineyard_5,Esca,Train
+IMG_0848,esca040.jpg,Vineyard_3,Esca,Train
+IMG_0849,esca041.jpg,Vineyard_5,Esca,Train
+IMG_0850,esca042.jpg,Vineyard_5,Esca,Train
+IMG_0851,esca043.jpg,Vineyard_10,Esca,Test
+IMG_0852,esca044.jpg,Vineyard_22,Esca,Validation
+IMG_0853,esca045.jpg,Vineyard_16,Esca,Train
+IMG_0854,esca046.jpg,Vineyard_25,Esca,Train
+IMG_0855,esca047.jpg,Vineyard_21,Esca,Test
+IMG_0856,esca048.jpg,Vineyard_2,Esca,Train
+IMG_0857,esca049.jpg,Vineyard_7,Esca,Test
+IMG_0858,esca050.jpg,Vineyard_7,Esca,Test
+IMG_0859,esca051.jpg,Vineyard_6,Esca,Train
+IMG_0860,esca052.jpg,Vineyard_3,Esca,Train
+IMG_0861,esca053.jpg,Vineyard_21,Esca,Test
+IMG_0862,esca054.jpg,Vineyard_15,Esca,Train
+IMG_0863,esca055.jpg,Vineyard_11,Esca,Validation
+IMG_0864,esca056.jpg,Vineyard_3,Esca,Train
+IMG_0865,esca057.jpg,Vineyard_13,Esca,Validation
+IMG_0866,esca058.jpg,Vineyard_16,Esca,Train
+IMG_0867,esca059.jpg,Vineyard_26,Esca,Train
+IMG_0868,esca060.jpg,Vineyard_14,Esca,Train
+IMG_0869,esca061.jpg,Vineyard_17,Esca,Test
+IMG_0870,esca062.jpg,Vineyard_1,Esca,Train
+IMG_0871,esca063.jpg,Vineyard_12,Esca,Train
+IMG_0872,esca064.jpg,Vineyard_9,Esca,Train
+IMG_0873,esca065.jpg,Vineyard_3,Esca,Train
+IMG_0874,esca066.jpg,Vineyard_26,Esca,Train
+IMG_0875,esca067.jpg,Vineyard_10,Esca,Test
+IMG_0876,esca068.jpg,Vineyard_18,Esca,Train
+IMG_0877,esca069.jpg,Vineyard_24,Esca,Train
+IMG_0878,esca070.jpg,Vineyard_11,Esca,Validation
+IMG_0879,esca071.jpg,Vineyard_2,Esca,Train
+IMG_0880,esca072.jpg,Vineyard_22,Esca,Validation
+IMG_0881,esca073.jpg,Vineyard_17,Esca,Test
+IMG_0882,esca074.jpg,Vineyard_12,Esca,Train
+IMG_0883,esca075.jpg,Vineyard_28,Esca,Train
+IMG_0884,esca076.jpg,Vineyard_4,Esca,Train
+IMG_0885,esca077.jpg,Vineyard_17,Esca,Test
+IMG_0886,esca078.jpg,Vineyard_24,Esca,Train
+IMG_0887,esca079.jpg,Vineyard_27,Esca,Train
+IMG_0888,esca080.jpg,Vineyard_13,Esca,Validation
+IMG_0889,esca081.jpg,Vineyard_18,Esca,Train
+IMG_0890,esca082.jpg,Vineyard_23,Esca,Train
+IMG_0891,esca083.jpg,Vineyard_14,Esca,Train
+IMG_0892,esca084.jpg,Vineyard_21,Esca,Test
+IMG_0893,esca085.jpg,Vineyard_14,Esca,Train
+IMG_0894,esca086.jpg,Vineyard_27,Esca,Train
+IMG_0895,esca087.jpg,Vineyard_26,Esca,Train
+IMG_0896,esca088.jpg,Vineyard_22,Esca,Validation
+IMG_0897,esca089.jpg,Vineyard_8,Esca,Validation
+IMG_0898,esca090.jpg,Vineyard_3,Esca,Train
+IMG_0899,esca091.jpg,Vineyard_8,Esca,Validation
+IMG_0900,esca092.jpg,Vineyard_2,Esca,Train
+IMG_0901,esca093.jpg,Vineyard_2,Esca,Train
+IMG_0902,esca094.jpg,Vineyard_28,Esca,Train
+IMG_0903,esca095.jpg,Vineyard_17,Esca,Test
+IMG_0904,esca096.jpg,Vineyard_23,Esca,Train
+IMG_0905,esca097.jpg,Vineyard_18,Esca,Train
+IMG_0906,esca098.jpg,Vineyard_9,Esca,Train
+IMG_0907,esca099.jpg,Vineyard_2,Esca,Train
+IMG_0908,esca100.jpg,Vineyard_13,Esca,Validation
+IMG_0909,esca101.jpg,Vineyard_16,Esca,Train
+IMG_0910,esca102.jpg,Vineyard_1,Esca,Train
+IMG_0911,esca103.jpg,Vineyard_8,Esca,Validation
+IMG_0912,esca104.jpg,Vineyard_13,Esca,Validation
+IMG_0913,esca105.jpg,Vineyard_11,Esca,Validation
+IMG_0914,esca106.jpg,Vineyard_9,Esca,Train
+IMG_0915,esca107.jpg,Vineyard_24,Esca,Train
+IMG_0916,esca108.jpg,Vineyard_9,Esca,Train
+IMG_0917,esca109.jpg,Vineyard_27,Esca,Train
+IMG_0918,esca110.jpg,Vineyard_24,Esca,Train
+IMG_0919,esca111.jpg,Vineyard_17,Esca,Test
+IMG_0920,esca112.jpg,Vineyard_19,Esca,Train
+IMG_0921,esca113.jpg,Vineyard_12,Esca,Train
+IMG_0922,esca114.jpg,Vineyard_15,Esca,Train
+IMG_0923,esca115.jpg,Vineyard_12,Esca,Train
+IMG_0924,esca116.jpg,Vineyard_2,Esca,Train
+IMG_0925,esca117.jpg,Vineyard_23,Esca,Train
+IMG_0926,esca118.jpg,Vineyard_2,Esca,Train
+IMG_0927,esca119.jpg,Vineyard_11,Esca,Validation
+IMG_0928,esca120.jpg,Vineyard_16,Esca,Train
+IMG_0929,esca121.jpg,Vineyard_9,Esca,Train
+IMG_0930,esca122.jpg,Vineyard_12,Esca,Train
+IMG_0931,esca123.jpg,Vineyard_15,Esca,Train
+IMG_0932,esca124.jpg,Vineyard_15,Esca,Train
+IMG_0933,esca125.jpg,Vineyard_7,Esca,Test
+IMG_0934,esca126.jpg,Vineyard_15,Esca,Train
+IMG_0935,esca127.jpg,Vineyard_5,Esca,Train
+IMG_0936,esca128.jpg,Vineyard_1,Esca,Train
+IMG_0937,esca129.jpg,Vineyard_16,Esca,Train
+IMG_0938,esca130.jpg,Vineyard_24,Esca,Train
+IMG_0939,esca131.jpg,Vineyard_22,Esca,Validation
+IMG_0940,esca132.jpg,Vineyard_22,Esca,Validation
+IMG_0941,esca133.jpg,Vineyard_28,Esca,Train
+IMG_0942,esca134.jpg,Vineyard_18,Esca,Train
+IMG_0943,esca135.jpg,Vineyard_8,Esca,Validation
+IMG_0944,esca136.jpg,Vineyard_14,Esca,Train
+IMG_0945,esca137.jpg,Vineyard_3,Esca,Train
+IMG_0946,esca138.jpg,Vineyard_4,Esca,Train
+IMG_0947,esca139.jpg,Vineyard_23,Esca,Train
+IMG_0948,esca140.jpg,Vineyard_5,Esca,Train
+IMG_0949,esca141.jpg,Vineyard_27,Esca,Train
+IMG_0950,esca142.jpg,Vineyard_11,Esca,Validation
+IMG_0951,esca143.jpg,Vineyard_7,Esca,Test
+IMG_0952,esca144.jpg,Vineyard_23,Esca,Train
+IMG_0953,esca145.jpg,Vineyard_6,Esca,Train
+IMG_0954,esca146.jpg,Vineyard_9,Esca,Train
+IMG_0955,esca147.jpg,Vineyard_25,Esca,Train
+IMG_0956,esca148.jpg,Vineyard_13,Esca,Validation
+IMG_0957,esca149.jpg,Vineyard_14,Esca,Train
+IMG_0958,esca150.jpg,Vineyard_28,Esca,Train
+IMG_0959,esca151.jpg,Vineyard_28,Esca,Train
+IMG_0960,esca152.jpg,Vineyard_26,Esca,Train
+IMG_0961,esca153.jpg,Vineyard_7,Esca,Test
+IMG_0962,esca154.jpg,Vineyard_20,Esca,Train
+IMG_0963,esca155.jpg,Vineyard_8,Esca,Validation
+IMG_0964,esca156.jpg,Vineyard_2,Esca,Train
+IMG_0965,esca157.jpg,Vineyard_1,Esca,Train
+IMG_0966,esca158.jpg,Vineyard_15,Esca,Train
+IMG_0967,esca159.jpg,Vineyard_20,Esca,Train
+IMG_0968,esca160.jpg,Vineyard_14,Esca,Train
+IMG_0969,esca161.jpg,Vineyard_9,Esca,Train
+IMG_0970,esca162.jpg,Vineyard_2,Esca,Train
+IMG_0971,esca163.jpg,Vineyard_15,Esca,Train
+IMG_0972,esca164.jpg,Vineyard_1,Esca,Train
+IMG_0973,esca165.jpg,Vineyard_22,Esca,Validation
+IMG_0974,esca166.jpg,Vineyard_23,Esca,Train
+IMG_0975,esca167.jpg,Vineyard_21,Esca,Test
+IMG_0976,esca168.jpg,Vineyard_4,Esca,Train
+IMG_0977,esca169.jpg,Vineyard_5,Esca,Train
+IMG_0978,esca170.jpg,Vineyard_1,Esca,Train
+IMG_0979,esca171.jpg,Vineyard_5,Esca,Train
+IMG_0980,esca172.jpg,Vineyard_8,Esca,Validation
+IMG_0981,esca173.jpg,Vineyard_9,Esca,Train
+IMG_0982,esca174.jpg,Vineyard_8,Esca,Validation
+IMG_0983,esca175.jpg,Vineyard_27,Esca,Train
+IMG_0984,esca176.jpg,Vineyard_25,Esca,Train
+IMG_0985,esca177.jpg,Vineyard_13,Esca,Validation
+IMG_0986,esca178.jpg,Vineyard_2,Esca,Train
+IMG_0987,esca179.jpg,Vineyard_5,Esca,Train
+IMG_0988,esca180.jpg,Vineyard_8,Esca,Validation
+IMG_0989,esca181.jpg,Vineyard_2,Esca,Train
+IMG_0990,esca182.jpg,Vineyard_3,Esca,Train
+IMG_0991,esca183.jpg,Vineyard_12,Esca,Train
+IMG_0992,esca184.jpg,Vineyard_26,Esca,Train
+IMG_0993,esca185.jpg,Vineyard_10,Esca,Test
+IMG_0994,esca186.jpg,Vineyard_28,Esca,Train
+IMG_0995,esca187.jpg,Vineyard_3,Esca,Train
+IMG_0996,esca188.jpg,Vineyard_16,Esca,Train
+IMG_0997,esca189.jpg,Vineyard_20,Esca,Train
+IMG_0998,esca190.jpg,Vineyard_6,Esca,Train
+IMG_0999,esca191.jpg,Vineyard_12,Esca,Train
+IMG_1000,esca192.jpg,Vineyard_25,Esca,Train
+IMG_1001,esca193.jpg,Vineyard_20,Esca,Train
+IMG_1002,esca194.jpg,Vineyard_26,Esca,Train
+IMG_1003,esca195.jpg,Vineyard_10,Esca,Test
+IMG_1004,esca196.jpg,Vineyard_11,Esca,Validation
+IMG_1005,esca197.jpg,Vineyard_21,Esca,Test
+IMG_1006,esca198.jpg,Vineyard_27,Esca,Train
+IMG_1007,esca199.jpg,Vineyard_17,Esca,Test
+IMG_1008,esca200.jpg,Vineyard_11,Esca,Validation
+IMG_1009,esca201.jpg,Vineyard_26,Esca,Train
+IMG_1010,esca202.jpg,Vineyard_9,Esca,Train
+IMG_1011,esca203.jpg,Vineyard_17,Esca,Test
+IMG_1012,esca204.jpg,Vineyard_13,Esca,Validation
+IMG_1013,esca205.jpg,Vineyard_23,Esca,Train
+IMG_1014,esca206.jpg,Vineyard_21,Esca,Test
+IMG_1015,esca207.jpg,Vineyard_24,Esca,Train
+IMG_1016,esca208.jpg,Vineyard_8,Esca,Validation
+IMG_1017,esca209.jpg,Vineyard_3,Esca,Train
+IMG_1018,esca210.jpg,Vineyard_11,Esca,Validation
+IMG_1019,esca211.jpg,Vineyard_6,Esca,Train
+IMG_1020,esca212.jpg,Vineyard_21,Esca,Test
+IMG_1021,esca213.jpg,Vineyard_2,Esca,Train
+IMG_1022,esca214.jpg,Vineyard_24,Esca,Train
+IMG_1023,esca215.jpg,Vineyard_18,Esca,Train
+IMG_1024,esca216.jpg,Vineyard_7,Esca,Test
+IMG_1025,esca217.jpg,Vineyard_13,Esca,Validation
+IMG_1026,esca218.jpg,Vineyard_13,Esca,Validation
+IMG_1027,esca219.jpg,Vineyard_15,Esca,Train
+IMG_1028,esca220.jpg,Vineyard_23,Esca,Train
+IMG_1029,esca221.jpg,Vineyard_19,Esca,Train
+IMG_1030,esca222.jpg,Vineyard_23,Esca,Train
+IMG_1031,esca223.jpg,Vineyard_23,Esca,Train
+IMG_1032,esca224.jpg,Vineyard_4,Esca,Train
+IMG_1033,esca225.jpg,Vineyard_27,Esca,Train
+IMG_1034,esca226.jpg,Vineyard_1,Esca,Train
+IMG_1035,esca227.jpg,Vineyard_13,Esca,Validation
+IMG_1036,esca228.jpg,Vineyard_14,Esca,Train
+IMG_1037,esca229.jpg,Vineyard_19,Esca,Train
+IMG_1038,esca230.jpg,Vineyard_15,Esca,Train
+IMG_1039,esca231.jpg,Vineyard_16,Esca,Train
+IMG_1040,esca232.jpg,Vineyard_11,Esca,Validation
+IMG_1041,esca233.jpg,Vineyard_10,Esca,Test
+IMG_1042,esca234.jpg,Vineyard_12,Esca,Train
+IMG_1043,esca235.jpg,Vineyard_12,Esca,Train
+IMG_1044,esca236.jpg,Vineyard_10,Esca,Test
+IMG_1045,esca237.jpg,Vineyard_7,Esca,Test
+IMG_1046,esca238.jpg,Vineyard_12,Esca,Train
+IMG_1047,esca239.jpg,Vineyard_24,Esca,Train
+IMG_1048,esca240.jpg,Vineyard_10,Esca,Test
+IMG_1049,esca241.jpg,Vineyard_3,Esca,Train
+IMG_1050,esca242.jpg,Vineyard_27,Esca,Train
+IMG_1051,esca243.jpg,Vineyard_27,Esca,Train
+IMG_1052,esca244.jpg,Vineyard_15,Esca,Train
+IMG_1053,esca245.jpg,Vineyard_3,Esca,Train
+IMG_1054,esca246.jpg,Vineyard_9,Esca,Train
+IMG_1055,esca247.jpg,Vineyard_13,Esca,Validation
+IMG_1056,esca248.jpg,Vineyard_11,Esca,Validation
+IMG_1057,esca249.jpg,Vineyard_9,Esca,Train
+IMG_1058,esca250.jpg,Vineyard_21,Esca,Test
+IMG_1059,esca251.jpg,Vineyard_25,Esca,Train
+IMG_1060,esca252.jpg,Vineyard_26,Esca,Train
+IMG_1061,esca253.jpg,Vineyard_28,Esca,Train
+IMG_1062,esca254.jpg,Vineyard_27,Esca,Train
+IMG_1063,esca255.jpg,Vineyard_13,Esca,Validation
+IMG_1064,esca256.jpg,Vineyard_22,Esca,Validation
+IMG_1065,esca257.jpg,Vineyard_5,Esca,Train
+IMG_1066,esca258.jpg,Vineyard_28,Esca,Train
+IMG_1067,esca259.jpg,Vineyard_25,Esca,Train
+IMG_1068,esca260.jpg,Vineyard_17,Esca,Test
+IMG_1069,esca261.jpg,Vineyard_3,Esca,Train
+IMG_1070,esca262.jpg,Vineyard_27,Esca,Train
+IMG_1071,esca263.jpg,Vineyard_9,Esca,Train
+IMG_1072,esca264.jpg,Vineyard_25,Esca,Train
+IMG_1073,esca265.jpg,Vineyard_5,Esca,Train
+IMG_1074,esca266.jpg,Vineyard_7,Esca,Test
+IMG_1075,esca267.jpg,Vineyard_16,Esca,Train
+IMG_1076,esca268.jpg,Vineyard_4,Esca,Train
+IMG_1077,esca269.jpg,Vineyard_27,Esca,Train
+IMG_1078,esca270.jpg,Vineyard_7,Esca,Test
+IMG_1079,esca271.jpg,Vineyard_3,Esca,Train
+IMG_1080,esca272.jpg,Vineyard_25,Esca,Train
+IMG_1081,esca273.jpg,Vineyard_11,Esca,Validation
+IMG_1082,esca274.jpg,Vineyard_10,Esca,Test
+IMG_1083,esca275.jpg,Vineyard_18,Esca,Train
+IMG_1084,esca276.jpg,Vineyard_4,Esca,Train
+IMG_1085,esca277.jpg,Vineyard_18,Esca,Train
+IMG_1086,esca278.jpg,Vineyard_19,Esca,Train
+IMG_1087,esca279.jpg,Vineyard_7,Esca,Test
+IMG_1088,esca280.jpg,Vineyard_18,Esca,Train
+IMG_1089,esca281.jpg,Vineyard_10,Esca,Test
+IMG_1090,esca282.jpg,Vineyard_13,Esca,Validation
+IMG_1091,esca283.jpg,Vineyard_4,Esca,Train
+IMG_1092,esca284.jpg,Vineyard_16,Esca,Train
+IMG_1093,esca285.jpg,Vineyard_21,Esca,Test
+IMG_1094,esca286.jpg,Vineyard_14,Esca,Train
+IMG_1095,esca287.jpg,Vineyard_27,Esca,Train
+IMG_1096,esca288.jpg,Vineyard_25,Esca,Train
+IMG_1097,esca289.jpg,Vineyard_7,Esca,Test
+IMG_1098,esca290.jpg,Vineyard_28,Esca,Train
+IMG_1099,esca291.jpg,Vineyard_28,Esca,Train
+IMG_1100,esca292.jpg,Vineyard_20,Esca,Train
+IMG_1101,esca293.jpg,Vineyard_26,Esca,Train
+IMG_1102,esca294.jpg,Vineyard_28,Esca,Train
+IMG_1103,esca295.jpg,Vineyard_27,Esca,Train
+IMG_1104,esca296.jpg,Vineyard_12,Esca,Train
+IMG_1105,esca297.jpg,Vineyard_25,Esca,Train
+IMG_1106,esca298.jpg,Vineyard_23,Esca,Train
+IMG_1107,esca299.jpg,Vineyard_22,Esca,Validation
+IMG_1108,esca300.jpg,Vineyard_14,Esca,Train
+IMG_1109,esca301.jpg,Vineyard_13,Esca,Validation
+IMG_1110,esca302.jpg,Vineyard_21,Esca,Test
+IMG_1111,esca303.jpg,Vineyard_28,Esca,Train
+IMG_1112,esca304.jpg,Vineyard_10,Esca,Test
+IMG_1113,esca305.jpg,Vineyard_6,Esca,Train
+IMG_1114,esca306.jpg,Vineyard_14,Esca,Train
+IMG_1115,esca307.jpg,Vineyard_5,Esca,Train
+IMG_1116,esca308.jpg,Vineyard_14,Esca,Train
+IMG_1117,esca309.jpg,Vineyard_4,Esca,Train
+IMG_1118,esca310.jpg,Vineyard_3,Esca,Train
+IMG_1119,esca311.jpg,Vineyard_3,Esca,Train
+IMG_1120,esca312.jpg,Vineyard_21,Esca,Test
+IMG_1121,esca313.jpg,Vineyard_11,Esca,Validation
+IMG_1122,esca314.jpg,Vineyard_16,Esca,Train
+IMG_1123,esca315.jpg,Vineyard_3,Esca,Train
+IMG_1124,esca316.jpg,Vineyard_2,Esca,Train
+IMG_1125,esca317.jpg,Vineyard_9,Esca,Train
+IMG_1126,esca318.jpg,Vineyard_15,Esca,Train
+IMG_1127,esca319.jpg,Vineyard_23,Esca,Train
+IMG_1128,esca320.jpg,Vineyard_17,Esca,Test
+IMG_1129,esca321.jpg,Vineyard_24,Esca,Train
+IMG_1130,esca322.jpg,Vineyard_2,Esca,Train
+IMG_1131,esca323.jpg,Vineyard_1,Esca,Train
+IMG_1132,esca324.jpg,Vineyard_11,Esca,Validation
+IMG_1133,esca325.jpg,Vineyard_6,Esca,Train
+IMG_1134,esca326.jpg,Vineyard_24,Esca,Train
+IMG_1135,esca327.jpg,Vineyard_26,Esca,Train
+IMG_1136,esca328.jpg,Vineyard_5,Esca,Train
+IMG_1137,esca329.jpg,Vineyard_10,Esca,Test
+IMG_1138,esca330.jpg,Vineyard_25,Esca,Train
+IMG_1139,esca331.jpg,Vineyard_9,Esca,Train
+IMG_1140,esca332.jpg,Vineyard_11,Esca,Validation
+IMG_1141,esca333.jpg,Vineyard_14,Esca,Train
+IMG_1142,esca334.jpg,Vineyard_26,Esca,Train
+IMG_1143,esca335.jpg,Vineyard_8,Esca,Validation
+IMG_1144,esca336.jpg,Vineyard_12,Esca,Train
+IMG_1145,esca337.jpg,Vineyard_26,Esca,Train
+IMG_1146,esca338.jpg,Vineyard_22,Esca,Validation
+IMG_1147,esca339.jpg,Vineyard_17,Esca,Test
+IMG_1148,esca340.jpg,Vineyard_27,Esca,Train
+IMG_1149,esca341.jpg,Vineyard_3,Esca,Train
+IMG_1150,esca342.jpg,Vineyard_2,Esca,Train
+IMG_1151,esca343.jpg,Vineyard_18,Esca,Train
+IMG_1152,esca344.jpg,Vineyard_15,Esca,Train
+IMG_1153,esca345.jpg,Vineyard_25,Esca,Train
+IMG_1154,esca346.jpg,Vineyard_8,Esca,Validation
+IMG_1155,esca347.jpg,Vineyard_1,Esca,Train
+IMG_1156,esca348.jpg,Vineyard_4,Esca,Train
+IMG_1157,esca349.jpg,Vineyard_23,Esca,Train
+IMG_1158,esca350.jpg,Vineyard_8,Esca,Validation
+IMG_1159,esca351.jpg,Vineyard_21,Esca,Test
+IMG_1160,esca352.jpg,Vineyard_7,Esca,Test
+IMG_1161,esca353.jpg,Vineyard_23,Esca,Train
+IMG_1162,esca354.jpg,Vineyard_18,Esca,Train
+IMG_1163,esca355.jpg,Vineyard_28,Esca,Train
+IMG_1164,esca356.jpg,Vineyard_4,Esca,Train
+IMG_1165,esca357.jpg,Vineyard_10,Esca,Test
+IMG_1166,esca358.jpg,Vineyard_21,Esca,Test
+IMG_1167,esca359.jpg,Vineyard_2,Esca,Train
+IMG_1168,esca360.jpg,Vineyard_22,Esca,Validation
+IMG_1169,esca361.jpg,Vineyard_25,Esca,Train
+IMG_1170,esca362.jpg,Vineyard_14,Esca,Train
+IMG_1171,esca363.jpg,Vineyard_24,Esca,Train
+IMG_1172,esca364.jpg,Vineyard_21,Esca,Test
+IMG_1173,esca365.jpg,Vineyard_19,Esca,Train
+IMG_1174,esca366.jpg,Vineyard_17,Esca,Test
+IMG_1175,esca367.jpg,Vineyard_27,Esca,Train
+IMG_1176,esca368.jpg,Vineyard_28,Esca,Train
+IMG_1177,esca369.jpg,Vineyard_23,Esca,Train
+IMG_1178,esca370.jpg,Vineyard_28,Esca,Train
+IMG_1179,esca371.jpg,Vineyard_15,Esca,Train
+IMG_1180,esca372.jpg,Vineyard_23,Esca,Train
+IMG_1181,esca373.jpg,Vineyard_15,Esca,Train
+IMG_1182,esca374.jpg,Vineyard_12,Esca,Train
+IMG_1183,esca375.jpg,Vineyard_24,Esca,Train
+IMG_1184,esca376.jpg,Vineyard_8,Esca,Validation
+IMG_1185,esca377.jpg,Vineyard_21,Esca,Test
+IMG_1186,esca378.jpg,Vineyard_21,Esca,Test
+IMG_1187,esca379.jpg,Vineyard_1,Esca,Train
+IMG_1188,esca380.jpg,Vineyard_13,Esca,Validation
+IMG_1189,esca381.jpg,Vineyard_9,Esca,Train
+IMG_1190,esca382.jpg,Vineyard_19,Esca,Train
+IMG_1191,esca383.jpg,Vineyard_1,Esca,Train
+IMG_1192,esca384.jpg,Vineyard_20,Esca,Train
+IMG_1193,esca385.jpg,Vineyard_1,Esca,Train
+IMG_1194,esca386.jpg,Vineyard_28,Esca,Train
+IMG_1195,esca387.jpg,Vineyard_15,Esca,Train
+IMG_1196,esca388.jpg,Vineyard_18,Esca,Train
+IMG_1197,esca389.jpg,Vineyard_12,Esca,Train
+IMG_1198,esca390.jpg,Vineyard_5,Esca,Train
+IMG_1199,esca391.jpg,Vineyard_4,Esca,Train
+IMG_1200,esca392.jpg,Vineyard_19,Esca,Train
+IMG_1201,esca393.jpg,Vineyard_21,Esca,Test
+IMG_1202,esca394.jpg,Vineyard_1,Esca,Train
+IMG_1203,esca395.jpg,Vineyard_18,Esca,Train
+IMG_1204,esca396.jpg,Vineyard_18,Esca,Train
+IMG_1205,esca397.jpg,Vineyard_6,Esca,Train
+IMG_1206,esca398.jpg,Vineyard_19,Esca,Train
+IMG_1207,esca399.jpg,Vineyard_10,Esca,Test
+IMG_1208,esca400.jpg,Vineyard_8,Esca,Validation
+IMG_1209,esca401.jpg,Vineyard_10,Esca,Test
+IMG_1210,esca402.jpg,Vineyard_17,Esca,Test
+IMG_1211,esca403.jpg,Vineyard_11,Esca,Validation
+IMG_1212,esca404.jpg,Vineyard_10,Esca,Test
+IMG_1213,esca405.jpg,Vineyard_24,Esca,Train
+IMG_1214,esca406.jpg,Vineyard_1,Esca,Train
+IMG_1215,esca407.jpg,Vineyard_12,Esca,Train
+IMG_1216,esca408.jpg,Vineyard_8,Esca,Validation
+IMG_1217,esca409.jpg,Vineyard_9,Esca,Train
+IMG_1218,esca410.jpg,Vineyard_28,Esca,Train
+IMG_1219,esca411.jpg,Vineyard_24,Esca,Train
+IMG_1220,esca412.jpg,Vineyard_17,Esca,Test
+IMG_1221,esca413.jpg,Vineyard_10,Esca,Test
+IMG_1222,esca414.jpg,Vineyard_15,Esca,Train
+IMG_1223,esca415.jpg,Vineyard_23,Esca,Train
+IMG_1224,esca416.jpg,Vineyard_23,Esca,Train
+IMG_1225,esca417.jpg,Vineyard_3,Esca,Train
+IMG_1226,esca418.jpg,Vineyard_4,Esca,Train
+IMG_1227,esca419.jpg,Vineyard_20,Esca,Train
+IMG_1228,esca420.jpg,Vineyard_24,Esca,Train
+IMG_1229,esca421.jpg,Vineyard_7,Esca,Test
+IMG_1230,esca422.jpg,Vineyard_20,Esca,Train
+IMG_1231,esca423.jpg,Vineyard_15,Esca,Train
+IMG_1232,esca424.jpg,Vineyard_4,Esca,Train
+IMG_1233,esca425.jpg,Vineyard_2,Esca,Train
+IMG_1234,esca426.jpg,Vineyard_9,Esca,Train
+IMG_1235,esca427.jpg,Vineyard_18,Esca,Train
+IMG_1236,esca428.jpg,Vineyard_18,Esca,Train
+IMG_1237,esca429.jpg,Vineyard_7,Esca,Test
+IMG_1238,esca430.jpg,Vineyard_4,Esca,Train
+IMG_1239,esca431.jpg,Vineyard_23,Esca,Train
+IMG_1240,esca432.jpg,Vineyard_16,Esca,Train
+IMG_1241,esca433.jpg,Vineyard_3,Esca,Train
+IMG_1242,esca434.jpg,Vineyard_11,Esca,Validation
+IMG_1243,esca435.jpg,Vineyard_25,Esca,Train
+IMG_1244,esca436.jpg,Vineyard_17,Esca,Test
+IMG_1245,esca437.jpg,Vineyard_8,Esca,Validation
+IMG_1246,esca438.jpg,Vineyard_4,Esca,Train
+IMG_1247,esca439.jpg,Vineyard_12,Esca,Train
+IMG_1248,esca440.jpg,Vineyard_2,Esca,Train
+IMG_1249,esca441.jpg,Vineyard_8,Esca,Validation
+IMG_1250,esca442.jpg,Vineyard_11,Esca,Validation
+IMG_1251,esca443.jpg,Vineyard_3,Esca,Train
+IMG_1252,esca444.jpg,Vineyard_26,Esca,Train
+IMG_1253,esca445.jpg,Vineyard_3,Esca,Train
+IMG_1254,esca446.jpg,Vineyard_26,Esca,Train
+IMG_1255,esca447.jpg,Vineyard_18,Esca,Train
+IMG_1256,esca448.jpg,Vineyard_22,Esca,Validation
+IMG_1257,esca449.jpg,Vineyard_14,Esca,Train
+IMG_1258,esca450.jpg,Vineyard_15,Esca,Train
+IMG_1259,esca451.jpg,Vineyard_3,Esca,Train
+IMG_1260,esca452.jpg,Vineyard_13,Esca,Validation
+IMG_1261,esca453.jpg,Vineyard_12,Esca,Train
+IMG_1262,esca454.jpg,Vineyard_7,Esca,Test
+IMG_1263,esca455.jpg,Vineyard_6,Esca,Train
+IMG_1264,esca456.jpg,Vineyard_1,Esca,Train
+IMG_1265,esca457.jpg,Vineyard_12,Esca,Train
+IMG_1266,esca458.jpg,Vineyard_12,Esca,Train
+IMG_1267,esca459.jpg,Vineyard_7,Esca,Test
+IMG_1268,esca460.jpg,Vineyard_26,Esca,Train
+IMG_1269,esca461.jpg,Vineyard_5,Esca,Train
+IMG_1270,esca462.jpg,Vineyard_6,Esca,Train
+IMG_1271,esca463.jpg,Vineyard_24,Esca,Train
+IMG_1272,esca464.jpg,Vineyard_9,Esca,Train
+IMG_1273,esca465.jpg,Vineyard_12,Esca,Train
+IMG_1274,esca466.jpg,Vineyard_5,Esca,Train
+IMG_1275,esca467.jpg,Vineyard_28,Esca,Train
+IMG_1276,esca468.jpg,Vineyard_1,Esca,Train
+IMG_1277,esca469.jpg,Vineyard_25,Esca,Train
+IMG_1278,esca470.jpg,Vineyard_1,Esca,Train
+IMG_1279,esca471.jpg,Vineyard_17,Esca,Test
+IMG_1280,esca472.jpg,Vineyard_4,Esca,Train
+IMG_1281,esca473.jpg,Vineyard_17,Esca,Test
+IMG_1282,esca474.jpg,Vineyard_11,Esca,Validation
+IMG_1283,esca475.jpg,Vineyard_12,Esca,Train
+IMG_1284,esca476.jpg,Vineyard_18,Esca,Train
+IMG_1285,esca477.jpg,Vineyard_2,Esca,Train
+IMG_1286,esca478.jpg,Vineyard_13,Esca,Validation
+IMG_1287,esca479.jpg,Vineyard_26,Esca,Train
+IMG_1288,esca480.jpg,Vineyard_12,Esca,Train
+IMG_1289,esca481.jpg,Vineyard_5,Esca,Train
+IMG_1290,esca482.jpg,Vineyard_19,Esca,Train
+IMG_1291,esca483.jpg,Vineyard_2,Esca,Train
+IMG_1292,esca484.jpg,Vineyard_16,Esca,Train
+IMG_1293,esca485.jpg,Vineyard_22,Esca,Validation
+IMG_1294,esca486.jpg,Vineyard_8,Esca,Validation
+IMG_1295,esca487.jpg,Vineyard_16,Esca,Train
+IMG_1296,esca488.jpg,Vineyard_10,Esca,Test
+IMG_1297,esca489.jpg,Vineyard_2,Esca,Train
+IMG_1298,esca490.jpg,Vineyard_17,Esca,Test
+IMG_1299,esca491.jpg,Vineyard_23,Esca,Train
+IMG_1300,esca492.jpg,Vineyard_23,Esca,Train
+IMG_1301,esca493.jpg,Vineyard_1,Esca,Train
+IMG_1302,esca494.jpg,Vineyard_8,Esca,Validation
+IMG_1303,esca495.jpg,Vineyard_1,Esca,Train
+IMG_1304,esca496.jpg,Vineyard_24,Esca,Train
+IMG_1305,esca497.jpg,Vineyard_17,Esca,Test
+IMG_1306,esca498.jpg,Vineyard_18,Esca,Train
+IMG_1307,esca499.jpg,Vineyard_22,Esca,Validation
+IMG_1308,esca500.jpg,Vineyard_13,Esca,Validation
+IMG_1309,esca501.jpg,Vineyard_28,Esca,Train
+IMG_1310,esca502.jpg,Vineyard_10,Esca,Test
+IMG_1311,esca503.jpg,Vineyard_16,Esca,Train
+IMG_1312,esca504.jpg,Vineyard_12,Esca,Train
+IMG_1313,esca505.jpg,Vineyard_4,Esca,Train
+IMG_1314,esca506.jpg,Vineyard_6,Esca,Train
+IMG_1315,esca507.jpg,Vineyard_15,Esca,Train
+IMG_1316,esca508.jpg,Vineyard_8,Esca,Validation
+IMG_1317,esca509.jpg,Vineyard_12,Esca,Train
+IMG_1318,esca510.jpg,Vineyard_25,Esca,Train
+IMG_1319,esca511.jpg,Vineyard_18,Esca,Train
+IMG_1320,esca512.jpg,Vineyard_28,Esca,Train
+IMG_1321,esca513.jpg,Vineyard_25,Esca,Train
+IMG_1322,esca514.jpg,Vineyard_26,Esca,Train
+IMG_1323,esca515.jpg,Vineyard_25,Esca,Train
+IMG_1324,esca516.jpg,Vineyard_6,Esca,Train
+IMG_1325,esca517.jpg,Vineyard_1,Esca,Train
+IMG_1326,esca518.jpg,Vineyard_28,Esca,Train
+IMG_1327,esca519.jpg,Vineyard_14,Esca,Train
+IMG_1328,esca520.jpg,Vineyard_25,Esca,Train
+IMG_1329,esca521.jpg,Vineyard_15,Esca,Train
+IMG_1330,esca522.jpg,Vineyard_2,Esca,Train
+IMG_1331,esca523.jpg,Vineyard_24,Esca,Train
+IMG_1332,esca524.jpg,Vineyard_24,Esca,Train
+IMG_1333,esca525.jpg,Vineyard_3,Esca,Train
+IMG_1334,esca526.jpg,Vineyard_9,Esca,Train
+IMG_1335,esca527.jpg,Vineyard_28,Esca,Train
+IMG_1336,esca528.jpg,Vineyard_1,Esca,Train
+IMG_1337,esca529.jpg,Vineyard_26,Esca,Train
+IMG_1338,esca530.jpg,Vineyard_22,Esca,Validation
+IMG_1339,esca531.jpg,Vineyard_20,Esca,Train
+IMG_1340,esca532.jpg,Vineyard_10,Esca,Test
+IMG_1341,esca533.jpg,Vineyard_27,Esca,Train
+IMG_1342,esca534.jpg,Vineyard_28,Esca,Train
+IMG_1343,esca535.jpg,Vineyard_6,Esca,Train
+IMG_1344,esca536.jpg,Vineyard_17,Esca,Test
+IMG_1345,esca537.jpg,Vineyard_1,Esca,Train
+IMG_1346,esca538.jpg,Vineyard_22,Esca,Validation
+IMG_1347,esca539.jpg,Vineyard_18,Esca,Train
+IMG_1348,esca540.jpg,Vineyard_10,Esca,Test
+IMG_1349,esca541.jpg,Vineyard_28,Esca,Train
+IMG_1350,esca542.jpg,Vineyard_24,Esca,Train
+IMG_1351,esca543.jpg,Vineyard_6,Esca,Train
+IMG_1352,esca544.jpg,Vineyard_4,Esca,Train
+IMG_1353,esca545.jpg,Vineyard_6,Esca,Train
+IMG_1354,esca546.jpg,Vineyard_19,Esca,Train
+IMG_1355,esca547.jpg,Vineyard_15,Esca,Train
+IMG_1356,esca548.jpg,Vineyard_3,Esca,Train
+IMG_1357,esca549.jpg,Vineyard_4,Esca,Train
+IMG_1358,esca550.jpg,Vineyard_24,Esca,Train
+IMG_1359,esca551.jpg,Vineyard_2,Esca,Train
+IMG_1360,esca552.jpg,Vineyard_7,Esca,Test
+IMG_1361,esca553.jpg,Vineyard_8,Esca,Validation
+IMG_1362,esca554.jpg,Vineyard_3,Esca,Train
+IMG_1363,esca555.jpg,Vineyard_18,Esca,Train
+IMG_1364,esca556.jpg,Vineyard_11,Esca,Validation
+IMG_1365,esca557.jpg,Vineyard_19,Esca,Train
+IMG_1366,esca558.jpg,Vineyard_8,Esca,Validation
+IMG_1367,esca559.jpg,Vineyard_11,Esca,Validation
+IMG_1368,esca560.jpg,Vineyard_16,Esca,Train
+IMG_1369,esca561.jpg,Vineyard_4,Esca,Train
+IMG_1370,esca562.jpg,Vineyard_4,Esca,Train
+IMG_1371,esca563.jpg,Vineyard_6,Esca,Train
+IMG_1372,esca564.jpg,Vineyard_23,Esca,Train
+IMG_1373,esca565.jpg,Vineyard_18,Esca,Train
+IMG_1374,esca566.jpg,Vineyard_22,Esca,Validation
+IMG_1375,esca567.jpg,Vineyard_18,Esca,Train
+IMG_1376,esca568.jpg,Vineyard_19,Esca,Train
+IMG_1377,esca569.jpg,Vineyard_17,Esca,Test
+IMG_1378,esca570.jpg,Vineyard_27,Esca,Train
+IMG_1379,esca571.jpg,Vineyard_17,Esca,Test
+IMG_1380,esca572.jpg,Vineyard_24,Esca,Train
+IMG_1381,esca573.jpg,Vineyard_1,Esca,Train
+IMG_1382,esca574.jpg,Vineyard_26,Esca,Train
+IMG_1383,esca575.jpg,Vineyard_19,Esca,Train
+IMG_1384,esca576.jpg,Vineyard_9,Esca,Train
+IMG_1385,esca577.jpg,Vineyard_27,Esca,Train
+IMG_1386,esca578.jpg,Vineyard_1,Esca,Train
+IMG_1387,esca579.jpg,Vineyard_23,Esca,Train
+IMG_1388,esca580.jpg,Vineyard_26,Esca,Train
+IMG_1389,esca581.jpg,Vineyard_26,Esca,Train
+IMG_1390,esca582.jpg,Vineyard_3,Esca,Train
+IMG_1391,esca583.jpg,Vineyard_10,Esca,Test
+IMG_1392,esca584.jpg,Vineyard_7,Esca,Test
+IMG_1393,esca585.jpg,Vineyard_11,Esca,Validation
+IMG_1394,esca586.jpg,Vineyard_17,Esca,Test
+IMG_1395,esca587.jpg,Vineyard_15,Esca,Train
+IMG_1396,esca588.jpg,Vineyard_5,Esca,Train
+IMG_1397,esca589.jpg,Vineyard_21,Esca,Test
+IMG_1398,esca590.jpg,Vineyard_11,Esca,Validation
+IMG_1399,esca591.jpg,Vineyard_4,Esca,Train
+IMG_1400,esca592.jpg,Vineyard_21,Esca,Test
+IMG_1401,esca593.jpg,Vineyard_25,Esca,Train
+IMG_1402,esca594.jpg,Vineyard_26,Esca,Train
+IMG_1403,esca595.jpg,Vineyard_14,Esca,Train
+IMG_1404,esca596.jpg,Vineyard_23,Esca,Train
+IMG_1405,esca597.jpg,Vineyard_9,Esca,Train
+IMG_1406,esca598.jpg,Vineyard_23,Esca,Train
+IMG_1407,esca599.jpg,Vineyard_15,Esca,Train
+IMG_1408,esca600.jpg,Vineyard_26,Esca,Train
+IMG_1409,esca601.jpg,Vineyard_22,Esca,Validation
+IMG_1410,esca602.jpg,Vineyard_8,Esca,Validation
+IMG_1411,esca603.jpg,Vineyard_11,Esca,Validation
+IMG_1412,esca604.jpg,Vineyard_24,Esca,Train
+IMG_1413,esca605.jpg,Vineyard_21,Esca,Test
+IMG_1414,esca606.jpg,Vineyard_2,Esca,Train
+IMG_1415,esca607.jpg,Vineyard_21,Esca,Test
+IMG_1416,esca608.jpg,Vineyard_5,Esca,Train
+IMG_1417,esca609.jpg,Vineyard_16,Esca,Train
+IMG_1418,esca610.jpg,Vineyard_24,Esca,Train
+IMG_1419,esca611.jpg,Vineyard_11,Esca,Validation
+IMG_1420,esca612.jpg,Vineyard_3,Esca,Train
+IMG_1421,esca613.jpg,Vineyard_25,Esca,Train
+IMG_1422,esca614.jpg,Vineyard_5,Esca,Train
+IMG_1423,esca615.jpg,Vineyard_19,Esca,Train
+IMG_1424,esca616.jpg,Vineyard_17,Esca,Test
+IMG_1425,esca617.jpg,Vineyard_17,Esca,Test
+IMG_1426,esca618.jpg,Vineyard_17,Esca,Test
+IMG_1427,esca619.jpg,Vineyard_12,Esca,Train
+IMG_1428,esca620.jpg,Vineyard_18,Esca,Train
+IMG_1429,esca621.jpg,Vineyard_19,Esca,Train
+IMG_1430,esca622.jpg,Vineyard_6,Esca,Train
+IMG_1431,esca623.jpg,Vineyard_11,Esca,Validation
+IMG_1432,esca624.jpg,Vineyard_24,Esca,Train
+IMG_1433,esca625.jpg,Vineyard_14,Esca,Train
+IMG_1434,esca626.jpg,Vineyard_24,Esca,Train
+IMG_1435,esca627.jpg,Vineyard_1,Esca,Train
+IMG_1436,esca628.jpg,Vineyard_11,Esca,Validation
+IMG_1437,esca629.jpg,Vineyard_16,Esca,Train
+IMG_1438,esca630.jpg,Vineyard_19,Esca,Train
+IMG_1439,esca631.jpg,Vineyard_28,Esca,Train
+IMG_1440,esca632.jpg,Vineyard_19,Esca,Train
+IMG_1441,esca633.jpg,Vineyard_10,Esca,Test
+IMG_1442,esca634.jpg,Vineyard_13,Esca,Validation
+IMG_1443,esca635.jpg,Vineyard_18,Esca,Train
+IMG_1444,esca636.jpg,Vineyard_21,Esca,Test
+IMG_1445,esca637.jpg,Vineyard_8,Esca,Validation
+IMG_1446,esca638.jpg,Vineyard_22,Esca,Validation
+IMG_1447,esca639.jpg,Vineyard_19,Esca,Train
+IMG_1448,esca640.jpg,Vineyard_8,Esca,Validation
+IMG_1449,esca641.jpg,Vineyard_14,Esca,Train
+IMG_1450,esca642.jpg,Vineyard_23,Esca,Train
+IMG_1451,esca643.jpg,Vineyard_10,Esca,Test
+IMG_1452,esca644.jpg,Vineyard_28,Esca,Train
+IMG_1453,esca645.jpg,Vineyard_18,Esca,Train
+IMG_1454,esca646.jpg,Vineyard_1,Esca,Train
+IMG_1455,esca647.jpg,Vineyard_24,Esca,Train
+IMG_1456,esca648.jpg,Vineyard_25,Esca,Train
+IMG_1457,esca649.jpg,Vineyard_23,Esca,Train
+IMG_1458,esca650.jpg,Vineyard_19,Esca,Train
+IMG_1459,esca651.jpg,Vineyard_17,Esca,Test
+IMG_1460,esca652.jpg,Vineyard_21,Esca,Test
+IMG_1461,esca653.jpg,Vineyard_27,Esca,Train
+IMG_1462,esca654.jpg,Vineyard_5,Esca,Train
+IMG_1463,esca655.jpg,Vineyard_2,Esca,Train
+IMG_1464,esca656.jpg,Vineyard_26,Esca,Train
+IMG_1465,esca657.jpg,Vineyard_2,Esca,Train
+IMG_1466,esca658.jpg,Vineyard_15,Esca,Train
+IMG_1467,esca659.jpg,Vineyard_15,Esca,Train
+IMG_1468,esca660.jpg,Vineyard_10,Esca,Test
+IMG_1469,esca661.jpg,Vineyard_2,Esca,Train
+IMG_1470,esca662.jpg,Vineyard_8,Esca,Validation
+IMG_1471,esca663.jpg,Vineyard_9,Esca,Train
+IMG_1472,esca664.jpg,Vineyard_21,Esca,Test
+IMG_1473,esca665.jpg,Vineyard_10,Esca,Test
+IMG_1474,esca666.jpg,Vineyard_6,Esca,Train
+IMG_1475,esca667.jpg,Vineyard_24,Esca,Train
+IMG_1476,esca668.jpg,Vineyard_13,Esca,Validation
+IMG_1477,esca669.jpg,Vineyard_10,Esca,Test
+IMG_1478,esca670.jpg,Vineyard_23,Esca,Train
+IMG_1479,esca671.jpg,Vineyard_16,Esca,Train
+IMG_1480,esca672.jpg,Vineyard_16,Esca,Train
+IMG_1481,esca673.jpg,Vineyard_14,Esca,Train
+IMG_1482,esca674.jpg,Vineyard_1,Esca,Train
+IMG_1483,esca675.jpg,Vineyard_24,Esca,Train
+IMG_1484,esca676.jpg,Vineyard_14,Esca,Train
+IMG_1485,esca677.jpg,Vineyard_9,Esca,Train
+IMG_1486,esca678.jpg,Vineyard_8,Esca,Validation
+IMG_1487,esca679.jpg,Vineyard_15,Esca,Train
+IMG_1488,esca680.jpg,Vineyard_25,Esca,Train
+IMG_1489,esca681.jpg,Vineyard_5,Esca,Train
+IMG_1490,esca682.jpg,Vineyard_7,Esca,Test
+IMG_1491,esca683.jpg,Vineyard_11,Esca,Validation
+IMG_1492,esca684.jpg,Vineyard_7,Esca,Test
+IMG_1493,esca685.jpg,Vineyard_25,Esca,Train
+IMG_1494,esca686.jpg,Vineyard_22,Esca,Validation
+IMG_1495,esca687.jpg,Vineyard_19,Esca,Train
+IMG_1496,esca688.jpg,Vineyard_14,Esca,Train
+IMG_1497,esca689.jpg,Vineyard_28,Esca,Train
+IMG_1498,esca690.jpg,Vineyard_7,Esca,Test
+IMG_1499,esca691.jpg,Vineyard_26,Esca,Train
+IMG_1500,esca692.jpg,Vineyard_23,Esca,Train
+IMG_1501,esca693.jpg,Vineyard_2,Esca,Train
+IMG_1502,esca694.jpg,Vineyard_17,Esca,Test
+IMG_1503,esca695.jpg,Vineyard_12,Esca,Train
+IMG_1504,esca696.jpg,Vineyard_6,Esca,Train
+IMG_1505,esca697.jpg,Vineyard_11,Esca,Validation
+IMG_1506,esca698.jpg,Vineyard_8,Esca,Validation
+IMG_1507,esca699.jpg,Vineyard_8,Esca,Validation
+IMG_1508,esca700.jpg,Vineyard_27,Esca,Train
+IMG_1509,esca701.jpg,Vineyard_5,Esca,Train
+IMG_1510,esca702.jpg,Vineyard_16,Esca,Train
+IMG_1511,esca703.jpg,Vineyard_14,Esca,Train
+IMG_1512,esca704.jpg,Vineyard_19,Esca,Train
+IMG_1513,esca705.jpg,Vineyard_5,Esca,Train
+IMG_1514,esca706.jpg,Vineyard_13,Esca,Validation
+IMG_1515,esca707.jpg,Vineyard_26,Esca,Train
+IMG_1516,esca708.jpg,Vineyard_18,Esca,Train
+IMG_1517,esca709.jpg,Vineyard_14,Esca,Train
+IMG_1518,esca710.jpg,Vineyard_28,Esca,Train
+IMG_1519,esca711.jpg,Vineyard_3,Esca,Train
+IMG_1520,esca712.jpg,Vineyard_24,Esca,Train
+IMG_1521,esca713.jpg,Vineyard_8,Esca,Validation
+IMG_1522,esca714.jpg,Vineyard_14,Esca,Train
+IMG_1523,esca715.jpg,Vineyard_28,Esca,Train
+IMG_1524,esca716.jpg,Vineyard_8,Esca,Validation
+IMG_1525,esca717.jpg,Vineyard_5,Esca,Train
+IMG_1526,esca718.jpg,Vineyard_18,Esca,Train
+IMG_1527,esca719.jpg,Vineyard_10,Esca,Test
+IMG_1528,esca720.jpg,Vineyard_20,Esca,Train
+IMG_1529,esca721.jpg,Vineyard_18,Esca,Train
+IMG_1530,esca722.jpg,Vineyard_19,Esca,Train
+IMG_1531,esca723.jpg,Vineyard_25,Esca,Train
+IMG_1532,esca724.jpg,Vineyard_6,Esca,Train
+IMG_1533,esca725.jpg,Vineyard_10,Esca,Test
+IMG_1534,esca726.jpg,Vineyard_4,Esca,Train
+IMG_1535,esca727.jpg,Vineyard_28,Esca,Train
+IMG_1536,esca728.jpg,Vineyard_6,Esca,Train
+IMG_1537,esca729.jpg,Vineyard_6,Esca,Train
+IMG_1538,esca730.jpg,Vineyard_18,Esca,Train
+IMG_1539,esca731.jpg,Vineyard_12,Esca,Train
+IMG_1540,esca732.jpg,Vineyard_6,Esca,Train
+IMG_1541,esca733.jpg,Vineyard_27,Esca,Train
+IMG_1542,esca734.jpg,Vineyard_21,Esca,Test
+IMG_1543,esca735.jpg,Vineyard_1,Esca,Train
+IMG_1544,esca736.jpg,Vineyard_4,Esca,Train
+IMG_1545,esca737.jpg,Vineyard_25,Esca,Train
+IMG_1546,esca738.jpg,Vineyard_21,Esca,Test
+IMG_1547,esca739.jpg,Vineyard_16,Esca,Train
+IMG_1548,esca740.jpg,Vineyard_9,Esca,Train
+IMG_1549,esca741.jpg,Vineyard_25,Esca,Train
+IMG_1550,esca742.jpg,Vineyard_10,Esca,Test
+IMG_1551,esca743.jpg,Vineyard_14,Esca,Train
+IMG_1552,esca744.jpg,Vineyard_12,Esca,Train
+IMG_1553,esca745.jpg,Vineyard_20,Esca,Train
+IMG_1554,esca746.jpg,Vineyard_26,Esca,Train
+IMG_1555,esca747.jpg,Vineyard_13,Esca,Validation
+IMG_1556,esca748.jpg,Vineyard_18,Esca,Train
+IMG_1557,esca749.jpg,Vineyard_28,Esca,Train
+IMG_1558,esca750.jpg,Vineyard_19,Esca,Train
+IMG_1559,esca751.jpg,Vineyard_23,Esca,Train
+IMG_1560,esca752.jpg,Vineyard_27,Esca,Train
+IMG_1561,esca753.jpg,Vineyard_19,Esca,Train
+IMG_1562,esca754.jpg,Vineyard_23,Esca,Train
+IMG_1563,esca755.jpg,Vineyard_10,Esca,Test
+IMG_1564,esca756.jpg,Vineyard_25,Esca,Train
+IMG_1565,esca757.jpg,Vineyard_11,Esca,Validation
+IMG_1566,esca758.jpg,Vineyard_11,Esca,Validation
+IMG_1567,esca759.jpg,Vineyard_8,Esca,Validation
+IMG_1568,esca760.jpg,Vineyard_26,Esca,Train
+IMG_1569,esca761.jpg,Vineyard_24,Esca,Train
+IMG_1570,esca762.jpg,Vineyard_15,Esca,Train
+IMG_1571,esca763.jpg,Vineyard_26,Esca,Train
+IMG_1572,esca764.jpg,Vineyard_19,Esca,Train
+IMG_1573,esca765.jpg,Vineyard_2,Esca,Train
+IMG_1574,esca766.jpg,Vineyard_28,Esca,Train
+IMG_1575,esca767.jpg,Vineyard_2,Esca,Train
+IMG_1576,esca768.jpg,Vineyard_22,Esca,Validation
+IMG_1577,esca769.jpg,Vineyard_1,Esca,Train
+IMG_1578,esca770.jpg,Vineyard_18,Esca,Train
+IMG_1579,esca771.jpg,Vineyard_3,Esca,Train
+IMG_1580,esca772.jpg,Vineyard_24,Esca,Train
+IMG_1581,esca773.jpg,Vineyard_10,Esca,Test
+IMG_1582,esca774.jpg,Vineyard_7,Esca,Test
+IMG_1583,esca775.jpg,Vineyard_17,Esca,Test
+IMG_1584,esca776.jpg,Vineyard_3,Esca,Train
+IMG_1585,esca777.jpg,Vineyard_16,Esca,Train
+IMG_1586,esca778.jpg,Vineyard_5,Esca,Train
+IMG_1587,esca779.jpg,Vineyard_4,Esca,Train
+IMG_1588,esca780.jpg,Vineyard_11,Esca,Validation
+IMG_1589,esca781.jpg,Vineyard_21,Esca,Test
+IMG_1590,esca782.jpg,Vineyard_2,Esca,Train
+IMG_1591,esca783.jpg,Vineyard_19,Esca,Train
+IMG_1592,esca784.jpg,Vineyard_10,Esca,Test
+IMG_1593,esca785.jpg,Vineyard_9,Esca,Train
+IMG_1594,esca786.jpg,Vineyard_9,Esca,Train
+IMG_1595,esca787.jpg,Vineyard_4,Esca,Train
+IMG_1596,esca788.jpg,Vineyard_13,Esca,Validation
+IMG_1597,esca789.jpg,Vineyard_7,Esca,Test
+IMG_1598,esca790.jpg,Vineyard_9,Esca,Train
+IMG_1599,esca791.jpg,Vineyard_19,Esca,Train
+IMG_1600,esca792.jpg,Vineyard_10,Esca,Test
+IMG_1601,esca793.jpg,Vineyard_1,Esca,Train
+IMG_1602,esca794.jpg,Vineyard_22,Esca,Validation
+IMG_1603,esca795.jpg,Vineyard_23,Esca,Train
+IMG_1604,esca796.jpg,Vineyard_8,Esca,Validation
+IMG_1605,esca797.jpg,Vineyard_14,Esca,Train
+IMG_1606,esca798.jpg,Vineyard_11,Esca,Validation
+IMG_1607,esca799.jpg,Vineyard_16,Esca,Train
+IMG_1608,esca800.jpg,Vineyard_13,Esca,Validation
+IMG_1609,esca801.jpg,Vineyard_5,Esca,Train
+IMG_1610,esca802.jpg,Vineyard_21,Esca,Test
+IMG_1611,esca803.jpg,Vineyard_1,Esca,Train
+IMG_1612,esca804.jpg,Vineyard_1,Esca,Train
+IMG_1613,esca805.jpg,Vineyard_7,Esca,Test
+IMG_1614,esca806.jpg,Vineyard_26,Esca,Train
+IMG_1615,esca807.jpg,Vineyard_13,Esca,Validation
+IMG_1616,esca808.jpg,Vineyard_8,Esca,Validation
+IMG_1617,esca809.jpg,Vineyard_26,Esca,Train
+IMG_1618,esca810.jpg,Vineyard_12,Esca,Train
+IMG_1619,esca811.jpg,Vineyard_24,Esca,Train
+IMG_1620,esca812.jpg,Vineyard_11,Esca,Validation
+IMG_1621,esca813.jpg,Vineyard_8,Esca,Validation
+IMG_1622,esca814.jpg,Vineyard_15,Esca,Train
+IMG_1623,esca815.jpg,Vineyard_25,Esca,Train
+IMG_1624,esca816.jpg,Vineyard_25,Esca,Train
+IMG_1625,esca817.jpg,Vineyard_24,Esca,Train
+IMG_1626,esca818.jpg,Vineyard_19,Esca,Train
+IMG_1627,esca819.jpg,Vineyard_3,Esca,Train
+IMG_1628,esca820.jpg,Vineyard_5,Esca,Train
+IMG_1629,esca821.jpg,Vineyard_5,Esca,Train
+IMG_1630,esca822.jpg,Vineyard_3,Esca,Train
+IMG_1631,esca823.jpg,Vineyard_6,Esca,Train
+IMG_1632,esca824.jpg,Vineyard_28,Esca,Train
+IMG_1633,esca825.jpg,Vineyard_22,Esca,Validation
+IMG_1634,esca826.jpg,Vineyard_17,Esca,Test
+IMG_1635,esca827.jpg,Vineyard_10,Esca,Test
+IMG_1636,esca828.jpg,Vineyard_20,Esca,Train
+IMG_1637,esca829.jpg,Vineyard_22,Esca,Validation
+IMG_1638,esca830.jpg,Vineyard_19,Esca,Train
+IMG_1639,esca831.jpg,Vineyard_22,Esca,Validation
+IMG_1640,esca832.jpg,Vineyard_14,Esca,Train
+IMG_1641,esca833.jpg,Vineyard_19,Esca,Train
+IMG_1642,esca834.jpg,Vineyard_11,Esca,Validation
+IMG_1643,esca835.jpg,Vineyard_25,Esca,Train
+IMG_1644,esca836.jpg,Vineyard_6,Esca,Train
+IMG_1645,esca837.jpg,Vineyard_17,Esca,Test
+IMG_1646,esca838.jpg,Vineyard_14,Esca,Train
+IMG_1647,esca839.jpg,Vineyard_26,Esca,Train
+IMG_1648,esca840.jpg,Vineyard_12,Esca,Train
+IMG_1649,esca841.jpg,Vineyard_25,Esca,Train
+IMG_1650,esca842.jpg,Vineyard_23,Esca,Train
+IMG_1651,esca843.jpg,Vineyard_11,Esca,Validation
+IMG_1652,esca844.jpg,Vineyard_10,Esca,Test
+IMG_1653,esca845.jpg,Vineyard_3,Esca,Train
+IMG_1654,esca846.jpg,Vineyard_24,Esca,Train
+IMG_1655,esca847.jpg,Vineyard_25,Esca,Train
+IMG_1656,esca848.jpg,Vineyard_18,Esca,Train
+IMG_1657,esca849.jpg,Vineyard_16,Esca,Train
+IMG_1658,esca850.jpg,Vineyard_22,Esca,Validation
+IMG_1659,esca851.jpg,Vineyard_26,Esca,Train
+IMG_1660,esca852.jpg,Vineyard_3,Esca,Train
+IMG_1661,esca853.jpg,Vineyard_16,Esca,Train
+IMG_1662,esca854.jpg,Vineyard_12,Esca,Train
+IMG_1663,esca855.jpg,Vineyard_3,Esca,Train
+IMG_1664,esca856.jpg,Vineyard_20,Esca,Train
+IMG_1665,esca857.jpg,Vineyard_26,Esca,Train
+IMG_1666,esca858.jpg,Vineyard_28,Esca,Train
+IMG_1667,esca859.jpg,Vineyard_9,Esca,Train
+IMG_1668,esca860.jpg,Vineyard_15,Esca,Train
+IMG_1669,esca861.jpg,Vineyard_5,Esca,Train
+IMG_1670,esca862.jpg,Vineyard_1,Esca,Train
+IMG_1671,esca863.jpg,Vineyard_10,Esca,Test
+IMG_1672,esca864.jpg,Vineyard_3,Esca,Train
+IMG_1673,esca865.jpg,Vineyard_22,Esca,Validation
+IMG_1674,esca866.jpg,Vineyard_28,Esca,Train
+IMG_1675,esca867.jpg,Vineyard_17,Esca,Test
+IMG_1676,esca868.jpg,Vineyard_6,Esca,Train
+IMG_1677,esca869.jpg,Vineyard_25,Esca,Train
+IMG_1678,esca870.jpg,Vineyard_20,Esca,Train
+IMG_1679,esca871.jpg,Vineyard_1,Esca,Train
+IMG_1680,esca872.jpg,Vineyard_23,Esca,Train
+IMG_1681,esca873.jpg,Vineyard_13,Esca,Validation
+IMG_1682,esca874.jpg,Vineyard_27,Esca,Train
+IMG_1683,esca875.jpg,Vineyard_16,Esca,Train
+IMG_1684,esca876.jpg,Vineyard_13,Esca,Validation
+IMG_1685,esca877.jpg,Vineyard_12,Esca,Train
+IMG_1686,esca878.jpg,Vineyard_24,Esca,Train
+IMG_1687,esca879.jpg,Vineyard_11,Esca,Validation
+IMG_1688,esca880.jpg,Vineyard_5,Esca,Train
+IMG_1689,esca881.jpg,Vineyard_11,Esca,Validation
+IMG_1690,esca882.jpg,Vineyard_11,Esca,Validation
+IMG_1691,esca883.jpg,Vineyard_5,Esca,Train
+IMG_1692,esca884.jpg,Vineyard_21,Esca,Test
+IMG_1693,esca885.jpg,Vineyard_2,Esca,Train
+IMG_1694,esca886.jpg,Vineyard_26,Esca,Train
+IMG_1695,esca887.jpg,Vineyard_18,Esca,Train
+IMG_1696,esca888.jpg,Vineyard_20,Esca,Train
+IMG_1697,leaf blight001.jpg,Vineyard_5,Esca,Train
+IMG_1698,leaf blight002.jpg,Vineyard_12,Healthy,Train
+IMG_1699,leaf blight003.jpg,Vineyard_19,Healthy,Train
+IMG_1700,leaf blight004.jpg,Vineyard_16,Healthy,Train
+IMG_1701,leaf blight005.jpg,Vineyard_18,Healthy,Train
+IMG_1702,leaf blight006.jpg,Vineyard_10,Healthy,Test
+IMG_1703,leaf blight007.jpg,Vineyard_18,Healthy,Train
+IMG_1704,leaf blight008.jpg,Vineyard_6,Healthy,Train
+IMG_1705,leaf blight009.jpg,Vineyard_18,Healthy,Train
+IMG_1706,leaf blight010.jpg,Vineyard_12,Healthy,Train
+IMG_1707,leaf blight011.jpg,Vineyard_13,Healthy,Validation
+IMG_1708,leaf blight012.jpg,Vineyard_2,Healthy,Train
+IMG_1709,leaf blight013.jpg,Vineyard_7,Healthy,Test
+IMG_1710,leaf blight014.jpg,Vineyard_6,Healthy,Train
+IMG_1711,leaf blight015.jpg,Vineyard_8,Healthy,Validation
+IMG_1712,leaf blight016.jpg,Vineyard_25,Healthy,Train
+IMG_1713,leaf blight017.jpg,Vineyard_1,Healthy,Train
+IMG_1714,leaf blight018.jpg,Vineyard_19,Healthy,Train
+IMG_1715,leaf blight019.jpg,Vineyard_1,Healthy,Train
+IMG_1716,leaf blight020.jpg,Vineyard_23,Healthy,Train
+IMG_1717,leaf blight021.jpg,Vineyard_18,Healthy,Train
+IMG_1718,leaf blight022.jpg,Vineyard_23,Healthy,Train
+IMG_1719,leaf blight023.jpg,Vineyard_21,Healthy,Test
+IMG_1720,leaf blight024.jpg,Vineyard_15,Healthy,Train
+IMG_1721,leaf blight025.jpg,Vineyard_22,Healthy,Validation
+IMG_1722,leaf blight026.jpg,Vineyard_13,Healthy,Validation
+IMG_1723,leaf blight027.jpg,Vineyard_22,Healthy,Validation
+IMG_1724,leaf blight028.jpg,Vineyard_9,Healthy,Train
+IMG_1725,leaf blight029.jpg,Vineyard_13,Healthy,Validation
+IMG_1726,leaf blight030.jpg,Vineyard_28,Healthy,Train
+IMG_1727,leaf blight031.jpg,Vineyard_5,Healthy,Train
+IMG_1728,leaf blight032.jpg,Vineyard_6,Healthy,Train
+IMG_1729,leaf blight033.jpg,Vineyard_26,Healthy,Train
+IMG_1730,leaf blight034.jpg,Vineyard_27,Healthy,Train
+IMG_1731,leaf blight035.jpg,Vineyard_6,Healthy,Train
+IMG_1732,leaf blight036.jpg,Vineyard_13,Healthy,Validation
+IMG_1733,leaf blight037.jpg,Vineyard_11,Healthy,Validation
+IMG_1734,leaf blight038.jpg,Vineyard_13,Healthy,Validation
+IMG_1735,leaf blight039.jpg,Vineyard_19,Healthy,Train
+IMG_1736,leaf blight040.jpg,Vineyard_20,Healthy,Train
+IMG_1737,leaf blight041.jpg,Vineyard_14,Healthy,Train
+IMG_1738,leaf blight042.jpg,Vineyard_20,Healthy,Train
+IMG_1739,leaf blight043.jpg,Vineyard_3,Healthy,Train
+IMG_1740,leaf blight044.jpg,Vineyard_12,Healthy,Train
+IMG_1741,leaf blight045.jpg,Vineyard_3,Healthy,Train
+IMG_1742,leaf blight046.jpg,Vineyard_21,Healthy,Test
+IMG_1743,leaf blight047.jpg,Vineyard_22,Healthy,Validation
+IMG_1744,leaf blight048.jpg,Vineyard_10,Healthy,Test
+IMG_1745,leaf blight049.jpg,Vineyard_16,Healthy,Train
+IMG_1746,leaf blight050.jpg,Vineyard_9,Healthy,Train
+IMG_1747,leaf blight051.jpg,Vineyard_5,Healthy,Train
+IMG_1748,leaf blight052.jpg,Vineyard_13,Healthy,Validation
+IMG_1749,leaf blight053.jpg,Vineyard_22,Healthy,Validation
+IMG_1750,leaf blight054.jpg,Vineyard_27,Healthy,Train
+IMG_1751,leaf blight055.jpg,Vineyard_16,Healthy,Train
+IMG_1752,leaf blight056.jpg,Vineyard_3,Healthy,Train
+IMG_1753,leaf blight057.jpg,Vineyard_4,Healthy,Train
+IMG_1754,leaf blight058.jpg,Vineyard_14,Healthy,Train
+IMG_1755,leaf blight059.jpg,Vineyard_14,Healthy,Train
+IMG_1756,leaf blight060.jpg,Vineyard_25,Healthy,Train
+IMG_1757,leaf blight061.jpg,Vineyard_27,Healthy,Train
+IMG_1758,leaf blight062.jpg,Vineyard_18,Healthy,Train
+IMG_1759,leaf blight063.jpg,Vineyard_19,Healthy,Train
+IMG_1760,leaf blight064.jpg,Vineyard_13,Healthy,Validation
+IMG_1761,leaf blight065.jpg,Vineyard_23,Healthy,Train
+IMG_1762,leaf blight066.jpg,Vineyard_18,Healthy,Train
+IMG_1763,leaf blight067.jpg,Vineyard_13,Healthy,Validation
+IMG_1764,leaf blight068.jpg,Vineyard_22,Healthy,Validation
+IMG_1765,leaf blight069.jpg,Vineyard_23,Healthy,Train
+IMG_1766,leaf blight070.jpg,Vineyard_26,Healthy,Train
+IMG_1767,leaf blight071.jpg,Vineyard_6,Healthy,Train
+IMG_1768,leaf blight072.jpg,Vineyard_16,Healthy,Train
+IMG_1769,leaf blight073.jpg,Vineyard_11,Healthy,Validation
+IMG_1770,leaf blight074.jpg,Vineyard_9,Healthy,Train
+IMG_1771,leaf blight075.jpg,Vineyard_22,Healthy,Validation
+IMG_1772,leaf blight076.jpg,Vineyard_4,Healthy,Train
+IMG_1773,leaf blight077.jpg,Vineyard_21,Healthy,Test
+IMG_1774,leaf blight078.jpg,Vineyard_21,Healthy,Test
+IMG_1775,leaf blight079.jpg,Vineyard_11,Healthy,Validation
+IMG_1776,leaf blight080.jpg,Vineyard_18,Healthy,Train
+IMG_1777,leaf blight081.jpg,Vineyard_1,Healthy,Train
+IMG_1778,leaf blight082.jpg,Vineyard_21,Healthy,Test
+IMG_1779,leaf blight083.jpg,Vineyard_16,Healthy,Train
+IMG_1780,leaf blight084.jpg,Vineyard_12,Healthy,Train
+IMG_1781,leaf blight085.jpg,Vineyard_17,Healthy,Test
+IMG_1782,leaf blight086.jpg,Vineyard_28,Healthy,Train
+IMG_1783,leaf blight087.jpg,Vineyard_18,Healthy,Train
+IMG_1784,leaf blight088.jpg,Vineyard_22,Healthy,Validation
+IMG_1785,leaf blight089.jpg,Vineyard_12,Healthy,Train
+IMG_1786,leaf blight090.jpg,Vineyard_25,Healthy,Train
+IMG_1787,leaf blight091.jpg,Vineyard_2,Healthy,Train
+IMG_1788,leaf blight092.jpg,Vineyard_5,Healthy,Train
+IMG_1789,leaf blight093.jpg,Vineyard_8,Healthy,Validation
+IMG_1790,leaf blight094.jpg,Vineyard_2,Healthy,Train
+IMG_1791,leaf blight095.jpg,Vineyard_22,Healthy,Validation
+IMG_1792,leaf blight096.jpg,Vineyard_9,Healthy,Train
+IMG_1793,leaf blight097.jpg,Vineyard_6,Healthy,Train
+IMG_1794,leaf blight098.jpg,Vineyard_13,Healthy,Validation
+IMG_1795,leaf blight099.jpg,Vineyard_25,Healthy,Train
+IMG_1796,leaf blight100.jpg,Vineyard_15,Healthy,Train
+IMG_1797,leaf blight101.jpg,Vineyard_18,Healthy,Train
+IMG_1798,leaf blight102.jpg,Vineyard_24,Healthy,Train
+IMG_1799,leaf blight103.jpg,Vineyard_6,Healthy,Train
+IMG_1800,leaf blight104.jpg,Vineyard_9,Healthy,Train
+IMG_1801,leaf blight105.jpg,Vineyard_9,Healthy,Train
+IMG_1802,leaf blight106.jpg,Vineyard_27,Healthy,Train
+IMG_1803,leaf blight107.jpg,Vineyard_27,Healthy,Train
+IMG_1804,leaf blight108.jpg,Vineyard_23,Healthy,Train
+IMG_1805,leaf blight109.jpg,Vineyard_28,Healthy,Train
+IMG_1806,leaf blight110.jpg,Vineyard_16,Healthy,Train
+IMG_1807,leaf blight111.jpg,Vineyard_22,Healthy,Validation
+IMG_1808,leaf blight112.jpg,Vineyard_17,Healthy,Test
+IMG_1809,leaf blight113.jpg,Vineyard_9,Healthy,Train
+IMG_1810,leaf blight114.jpg,Vineyard_4,Healthy,Train
+IMG_1811,leaf blight115.jpg,Vineyard_13,Healthy,Validation
+IMG_1812,leaf blight116.jpg,Vineyard_14,Healthy,Train
+IMG_1813,leaf blight117.jpg,Vineyard_15,Healthy,Train
+IMG_1814,leaf blight118.jpg,Vineyard_6,Healthy,Train
+IMG_1815,leaf blight119.jpg,Vineyard_23,Healthy,Train
+IMG_1816,leaf blight120.jpg,Vineyard_5,Healthy,Train
+IMG_1817,leaf blight121.jpg,Vineyard_23,Healthy,Train
+IMG_1818,leaf blight122.jpg,Vineyard_21,Healthy,Test
+IMG_1819,leaf blight123.jpg,Vineyard_26,Healthy,Train
+IMG_1820,leaf blight124.jpg,Vineyard_28,Healthy,Train
+IMG_1821,leaf blight125.jpg,Vineyard_21,Healthy,Test
+IMG_1822,leaf blight126.jpg,Vineyard_15,Healthy,Train
+IMG_1823,leaf blight127.jpg,Vineyard_28,Healthy,Train
+IMG_1824,leaf blight128.jpg,Vineyard_18,Healthy,Train
+IMG_1825,leaf blight129.jpg,Vineyard_4,Healthy,Train
+IMG_1826,leaf blight130.jpg,Vineyard_5,Healthy,Train
+IMG_1827,leaf blight131.jpg,Vineyard_9,Healthy,Train
+IMG_1828,leaf blight132.jpg,Vineyard_17,Healthy,Test
+IMG_1829,leaf blight133.jpg,Vineyard_14,Healthy,Train
+IMG_1830,leaf blight134.jpg,Vineyard_2,Healthy,Train
+IMG_1831,leaf blight135.jpg,Vineyard_27,Healthy,Train
+IMG_1832,leaf blight136.jpg,Vineyard_1,Healthy,Train
+IMG_1833,leaf blight137.jpg,Vineyard_7,Healthy,Test
+IMG_1834,leaf blight138.jpg,Vineyard_17,Healthy,Test
+IMG_1835,leaf blight139.jpg,Vineyard_11,Healthy,Validation
+IMG_1836,leaf blight140.jpg,Vineyard_18,Healthy,Train
+IMG_1837,leaf blight141.jpg,Vineyard_17,Healthy,Test
+IMG_1838,leaf blight142.jpg,Vineyard_12,Healthy,Train
+IMG_1839,leaf blight143.jpg,Vineyard_21,Healthy,Test
+IMG_1840,leaf blight144.jpg,Vineyard_19,Healthy,Train
+IMG_1841,leaf blight145.jpg,Vineyard_4,Healthy,Train
+IMG_1842,leaf blight146.jpg,Vineyard_5,Healthy,Train
+IMG_1843,leaf blight147.jpg,Vineyard_8,Healthy,Validation
+IMG_1844,leaf blight148.jpg,Vineyard_22,Healthy,Validation
+IMG_1845,leaf blight149.jpg,Vineyard_6,Healthy,Train
+IMG_1846,leaf blight150.jpg,Vineyard_22,Healthy,Validation
+IMG_1847,leaf blight151.jpg,Vineyard_26,Healthy,Train
+IMG_1848,leaf blight152.jpg,Vineyard_6,Healthy,Train
+IMG_1849,leaf blight153.jpg,Vineyard_12,Healthy,Train
+IMG_1850,leaf blight154.jpg,Vineyard_19,Healthy,Train
+IMG_1851,leaf blight155.jpg,Vineyard_28,Healthy,Train
+IMG_1852,leaf blight156.jpg,Vineyard_3,Healthy,Train
+IMG_1853,leaf blight157.jpg,Vineyard_10,Healthy,Test
+IMG_1854,leaf blight158.jpg,Vineyard_20,Healthy,Train
+IMG_1855,leaf blight159.jpg,Vineyard_26,Healthy,Train
+IMG_1856,leaf blight160.jpg,Vineyard_11,Healthy,Validation
+IMG_1857,leaf blight161.jpg,Vineyard_25,Healthy,Train
+IMG_1858,leaf blight162.jpg,Vineyard_6,Healthy,Train
+IMG_1859,leaf blight163.jpg,Vineyard_24,Healthy,Train
+IMG_1860,leaf blight164.jpg,Vineyard_22,Healthy,Validation
+IMG_1861,leaf blight165.jpg,Vineyard_6,Healthy,Train
+IMG_1862,leaf blight166.jpg,Vineyard_16,Healthy,Train
+IMG_1863,leaf blight167.jpg,Vineyard_6,Healthy,Train
+IMG_1864,leaf blight168.jpg,Vineyard_18,Healthy,Train
+IMG_1865,leaf blight169.jpg,Vineyard_26,Healthy,Train
+IMG_1866,leaf blight170.jpg,Vineyard_17,Healthy,Test
+IMG_1867,leaf blight171.jpg,Vineyard_11,Healthy,Validation
+IMG_1868,leaf blight172.jpg,Vineyard_3,Healthy,Train
+IMG_1869,leaf blight173.jpg,Vineyard_4,Healthy,Train
+IMG_1870,leaf blight174.jpg,Vineyard_1,Healthy,Train
+IMG_1871,leaf blight175.jpg,Vineyard_5,Healthy,Train
+IMG_1872,leaf blight176.jpg,Vineyard_1,Healthy,Train
+IMG_1873,leaf blight177.jpg,Vineyard_21,Healthy,Test
+IMG_1874,leaf blight178.jpg,Vineyard_16,Healthy,Train
+IMG_1875,leaf blight179.jpg,Vineyard_16,Healthy,Train
+IMG_1876,leaf blight180.jpg,Vineyard_12,Healthy,Train
+IMG_1877,leaf blight181.jpg,Vineyard_4,Healthy,Train
+IMG_1878,leaf blight182.jpg,Vineyard_5,Healthy,Train
+IMG_1879,leaf blight183.jpg,Vineyard_25,Healthy,Train
+IMG_1880,leaf blight184.jpg,Vineyard_18,Healthy,Train
+IMG_1881,leaf blight185.jpg,Vineyard_1,Healthy,Train
+IMG_1882,leaf blight186.jpg,Vineyard_7,Healthy,Test
+IMG_1883,leaf blight187.jpg,Vineyard_21,Healthy,Test
+IMG_1884,leaf blight188.jpg,Vineyard_13,Healthy,Validation
+IMG_1885,leaf blight189.jpg,Vineyard_24,Healthy,Train
+IMG_1886,leaf blight190.jpg,Vineyard_27,Healthy,Train
+IMG_1887,leaf blight191.jpg,Vineyard_13,Healthy,Validation
+IMG_1888,leaf blight192.jpg,Vineyard_9,Healthy,Train
+IMG_1889,leaf blight193.jpg,Vineyard_15,Healthy,Train
+IMG_1890,leaf blight194.jpg,Vineyard_23,Healthy,Train
+IMG_1891,leaf blight195.jpg,Vineyard_23,Healthy,Train
+IMG_1892,leaf blight196.jpg,Vineyard_3,Healthy,Train
+IMG_1893,leaf blight197.jpg,Vineyard_7,Healthy,Test
+IMG_1894,leaf blight198.jpg,Vineyard_15,Healthy,Train
+IMG_1895,leaf blight199.jpg,Vineyard_24,Healthy,Train
+IMG_1896,leaf blight200.jpg,Vineyard_19,Healthy,Train
+IMG_1897,leaf blight201.jpg,Vineyard_5,Healthy,Train
+IMG_1898,leaf blight202.jpg,Vineyard_12,Healthy,Train
+IMG_1899,leaf blight203.jpg,Vineyard_15,Healthy,Train
+IMG_1900,leaf blight204.jpg,Vineyard_8,Healthy,Validation
+IMG_1901,leaf blight205.jpg,Vineyard_24,Healthy,Train
+IMG_1902,leaf blight206.jpg,Vineyard_2,Healthy,Train
+IMG_1903,leaf blight207.jpg,Vineyard_22,Healthy,Validation
+IMG_1904,leaf blight208.jpg,Vineyard_12,Healthy,Train
+IMG_1905,leaf blight209.jpg,Vineyard_10,Healthy,Test
+IMG_1906,leaf blight210.jpg,Vineyard_20,Healthy,Train
+IMG_1907,leaf blight211.jpg,Vineyard_16,Healthy,Train
+IMG_1908,leaf blight212.jpg,Vineyard_4,Healthy,Train
+IMG_1909,leaf blight213.jpg,Vineyard_21,Healthy,Test
+IMG_1910,leaf blight214.jpg,Vineyard_18,Healthy,Train
+IMG_1911,leaf blight215.jpg,Vineyard_20,Healthy,Train
+IMG_1912,leaf blight216.jpg,Vineyard_11,Healthy,Validation
+IMG_1913,leaf blight217.jpg,Vineyard_4,Healthy,Train
+IMG_1914,leaf blight218.jpg,Vineyard_7,Healthy,Test
+IMG_1915,leaf blight219.jpg,Vineyard_5,Healthy,Train
+IMG_1916,leaf blight220.jpg,Vineyard_14,Healthy,Train
+IMG_1917,leaf blight221.jpg,Vineyard_26,Healthy,Train
+IMG_1918,leaf blight222.jpg,Vineyard_25,Healthy,Train
+IMG_1919,leaf blight223.jpg,Vineyard_24,Healthy,Train
+IMG_1920,leaf blight224.jpg,Vineyard_25,Healthy,Train
+IMG_1921,leaf blight225.jpg,Vineyard_23,Healthy,Train
+IMG_1922,leaf blight226.jpg,Vineyard_11,Healthy,Validation
+IMG_1923,leaf blight227.jpg,Vineyard_23,Healthy,Train
+IMG_1924,leaf blight228.jpg,Vineyard_16,Healthy,Train
+IMG_1925,leaf blight229.jpg,Vineyard_4,Healthy,Train
+IMG_1926,leaf blight230.jpg,Vineyard_2,Healthy,Train
+IMG_1927,leaf blight231.jpg,Vineyard_15,Healthy,Train
+IMG_1928,leaf blight232.jpg,Vineyard_4,Healthy,Train
+IMG_1929,leaf blight233.jpg,Vineyard_20,Healthy,Train
+IMG_1930,leaf blight234.jpg,Vineyard_14,Healthy,Train
+IMG_1931,leaf blight235.jpg,Vineyard_7,Healthy,Test
+IMG_1932,leaf blight236.jpg,Vineyard_2,Healthy,Train
+IMG_1933,leaf blight237.jpg,Vineyard_28,Healthy,Train
+IMG_1934,leaf blight238.jpg,Vineyard_9,Healthy,Train
+IMG_1935,leaf blight239.jpg,Vineyard_3,Healthy,Train
+IMG_1936,leaf blight240.jpg,Vineyard_1,Healthy,Train
+IMG_1937,leaf blight241.jpg,Vineyard_1,Healthy,Train
+IMG_1938,leaf blight242.jpg,Vineyard_13,Healthy,Validation
+IMG_1939,leaf blight243.jpg,Vineyard_28,Healthy,Train
+IMG_1940,leaf blight244.jpg,Vineyard_24,Healthy,Train
+IMG_1941,leaf blight245.jpg,Vineyard_21,Healthy,Test
+IMG_1942,leaf blight246.jpg,Vineyard_1,Healthy,Train
+IMG_1943,leaf blight247.jpg,Vineyard_8,Healthy,Validation
+IMG_1944,leaf blight248.jpg,Vineyard_20,Healthy,Train
+IMG_1945,leaf blight249.jpg,Vineyard_22,Healthy,Validation
+IMG_1946,leaf blight250.jpg,Vineyard_4,Healthy,Train
+IMG_1947,leaf blight251.jpg,Vineyard_19,Healthy,Train
+IMG_1948,leaf blight252.jpg,Vineyard_9,Healthy,Train
+IMG_1949,leaf blight253.jpg,Vineyard_19,Healthy,Train
+IMG_1950,leaf blight254.jpg,Vineyard_20,Healthy,Train
+IMG_1951,leaf blight255.jpg,Vineyard_2,Healthy,Train
+IMG_1952,leaf blight256.jpg,Vineyard_16,Healthy,Train
+IMG_1953,leaf blight257.jpg,Vineyard_11,Healthy,Validation
+IMG_1954,leaf blight258.jpg,Vineyard_12,Healthy,Train
+IMG_1955,leaf blight259.jpg,Vineyard_25,Healthy,Train
+IMG_1956,leaf blight260.jpg,Vineyard_23,Healthy,Train
+IMG_1957,leaf blight261.jpg,Vineyard_3,Healthy,Train
+IMG_1958,leaf blight262.jpg,Vineyard_26,Healthy,Train
+IMG_1959,leaf blight263.jpg,Vineyard_5,Healthy,Train
+IMG_1960,leaf blight264.jpg,Vineyard_9,Healthy,Train
+IMG_1961,leaf blight265.jpg,Vineyard_12,Healthy,Train
+IMG_1962,leaf blight266.jpg,Vineyard_22,Healthy,Validation
+IMG_1963,leaf blight267.jpg,Vineyard_16,Healthy,Train
+IMG_1964,leaf blight268.jpg,Vineyard_10,Healthy,Test
+IMG_1965,leaf blight269.jpg,Vineyard_4,Healthy,Train
+IMG_1966,leaf blight270.jpg,Vineyard_9,Healthy,Train
+IMG_1967,leaf blight271.jpg,Vineyard_22,Healthy,Validation
+IMG_1968,leaf blight272.jpg,Vineyard_28,Healthy,Train
+IMG_1969,leaf blight273.jpg,Vineyard_8,Healthy,Validation
+IMG_1970,leaf blight274.jpg,Vineyard_16,Healthy,Train
+IMG_1971,leaf blight275.jpg,Vineyard_24,Healthy,Train
+IMG_1972,leaf blight276.jpg,Vineyard_20,Healthy,Train
+IMG_1973,leaf blight277.jpg,Vineyard_2,Healthy,Train
+IMG_1974,leaf blight278.jpg,Vineyard_20,Healthy,Train
+IMG_1975,leaf blight279.jpg,Vineyard_3,Healthy,Train
+IMG_1976,leaf blight280.jpg,Vineyard_22,Healthy,Validation
+IMG_1977,leaf blight281.jpg,Vineyard_9,Healthy,Train
+IMG_1978,leaf blight282.jpg,Vineyard_20,Healthy,Train
+IMG_1979,leaf blight283.jpg,Vineyard_17,Healthy,Test
+IMG_1980,leaf blight284.jpg,Vineyard_12,Healthy,Train
+IMG_1981,leaf blight285.jpg,Vineyard_11,Healthy,Validation
+IMG_1982,leaf blight286.jpg,Vineyard_9,Healthy,Train
+IMG_1983,leaf blight287.jpg,Vineyard_22,Healthy,Validation
+IMG_1984,leaf blight288.jpg,Vineyard_1,Healthy,Train
+IMG_1985,leaf blight289.jpg,Vineyard_1,Healthy,Train
+IMG_1986,leaf blight290.jpg,Vineyard_26,Healthy,Train
+IMG_1987,leaf blight291.jpg,Vineyard_6,Healthy,Train
+IMG_1988,leaf blight292.jpg,Vineyard_25,Healthy,Train
+IMG_1989,leaf blight293.jpg,Vineyard_18,Healthy,Train
+IMG_1990,leaf blight294.jpg,Vineyard_4,Healthy,Train
+IMG_1991,leaf blight295.jpg,Vineyard_9,Healthy,Train
+IMG_1992,leaf blight296.jpg,Vineyard_4,Healthy,Train
+IMG_1993,leaf blight297.jpg,Vineyard_6,Healthy,Train
+IMG_1994,leaf blight298.jpg,Vineyard_19,Healthy,Train
+IMG_1995,leaf blight299.jpg,Vineyard_2,Healthy,Train
+IMG_1996,leaf blight300.jpg,Vineyard_6,Healthy,Train
+IMG_1997,leaf blight301.jpg,Vineyard_28,Healthy,Train
+IMG_1998,leaf blight302.jpg,Vineyard_22,Healthy,Validation
+IMG_1999,leaf blight303.jpg,Vineyard_22,Healthy,Validation
+IMG_2000,leaf blight304.jpg,Vineyard_11,Healthy,Validation
+IMG_2001,leaf blight305.jpg,Vineyard_25,Healthy,Train
+IMG_2002,leaf blight306.jpg,Vineyard_18,Healthy,Train
+IMG_2003,leaf blight307.jpg,Vineyard_26,Healthy,Train
+IMG_2004,leaf blight308.jpg,Vineyard_11,Healthy,Validation
+IMG_2005,leaf blight309.jpg,Vineyard_26,Healthy,Train
+IMG_2006,leaf blight310.jpg,Vineyard_15,Healthy,Train
+IMG_2007,leaf blight311.jpg,Vineyard_16,Healthy,Train
+IMG_2008,leaf blight312.jpg,Vineyard_6,Healthy,Train
+IMG_2009,leaf blight313.jpg,Vineyard_2,Healthy,Train
+IMG_2010,leaf blight314.jpg,Vineyard_18,Healthy,Train
+IMG_2011,leaf blight315.jpg,Vineyard_6,Healthy,Train
+IMG_2012,leaf blight316.jpg,Vineyard_6,Healthy,Train
+IMG_2013,leaf blight317.jpg,Vineyard_26,Healthy,Train
+IMG_2014,leaf blight318.jpg,Vineyard_24,Healthy,Train
+IMG_2015,leaf blight319.jpg,Vineyard_7,Healthy,Test
+IMG_2016,leaf blight320.jpg,Vineyard_21,Healthy,Test
+IMG_2017,leaf blight321.jpg,Vineyard_17,Healthy,Test
+IMG_2018,leaf blight322.jpg,Vineyard_6,Healthy,Train
+IMG_2019,leaf blight323.jpg,Vineyard_7,Healthy,Test
+IMG_2020,leaf blight324.jpg,Vineyard_20,Healthy,Train
+IMG_2021,leaf blight325.jpg,Vineyard_26,Healthy,Train
+IMG_2022,leaf blight326.jpg,Vineyard_27,Healthy,Train
+IMG_2023,leaf blight327.jpg,Vineyard_2,Healthy,Train
+IMG_2024,leaf blight328.jpg,Vineyard_2,Healthy,Train
+IMG_2025,leaf blight329.jpg,Vineyard_19,Healthy,Train
+IMG_2026,leaf blight330.jpg,Vineyard_5,Healthy,Train
+IMG_2027,leaf blight331.jpg,Vineyard_27,Healthy,Train
+IMG_2028,leaf blight332.jpg,Vineyard_2,Healthy,Train
+IMG_2029,leaf blight333.jpg,Vineyard_5,Healthy,Train
+IMG_2030,leaf blight334.jpg,Vineyard_22,Healthy,Validation
+IMG_2031,leaf blight335.jpg,Vineyard_10,Healthy,Test
+IMG_2032,leaf blight336.jpg,Vineyard_8,Healthy,Validation
+IMG_2033,leaf blight337.jpg,Vineyard_20,Healthy,Train
+IMG_2034,leaf blight338.jpg,Vineyard_24,Healthy,Train
+IMG_2035,leaf blight339.jpg,Vineyard_20,Healthy,Train
+IMG_2036,leaf blight340.jpg,Vineyard_7,Healthy,Test
+IMG_2037,leaf blight341.jpg,Vineyard_18,Healthy,Train
+IMG_2038,leaf blight342.jpg,Vineyard_1,Healthy,Train
+IMG_2039,leaf blight343.jpg,Vineyard_20,Healthy,Train
+IMG_2040,leaf blight344.jpg,Vineyard_22,Healthy,Validation
+IMG_2041,leaf blight345.jpg,Vineyard_15,Healthy,Train
+IMG_2042,leaf blight346.jpg,Vineyard_23,Healthy,Train
+IMG_2043,leaf blight347.jpg,Vineyard_15,Healthy,Train
+IMG_2044,leaf blight348.jpg,Vineyard_27,Healthy,Train
+IMG_2045,leaf blight349.jpg,Vineyard_15,Healthy,Train
+IMG_2046,leaf blight350.jpg,Vineyard_14,Healthy,Train
+IMG_2047,leaf blight351.jpg,Vineyard_24,Healthy,Train
+IMG_2048,leaf blight352.jpg,Vineyard_19,Healthy,Train
+IMG_2049,leaf blight353.jpg,Vineyard_13,Healthy,Validation
+IMG_2050,leaf blight354.jpg,Vineyard_23,Healthy,Train
+IMG_2051,leaf blight355.jpg,Vineyard_8,Healthy,Validation
+IMG_2052,leaf blight356.jpg,Vineyard_20,Healthy,Train
+IMG_2053,leaf blight357.jpg,Vineyard_17,Healthy,Test
+IMG_2054,leaf blight358.jpg,Vineyard_2,Healthy,Train
+IMG_2055,leaf blight359.jpg,Vineyard_1,Healthy,Train
+IMG_2056,leaf blight360.jpg,Vineyard_9,Healthy,Train
+IMG_2057,leaf blight361.jpg,Vineyard_24,Healthy,Train
+IMG_2058,leaf blight362.jpg,Vineyard_3,Healthy,Train
+IMG_2059,leaf blight363.jpg,Vineyard_23,Healthy,Train
+IMG_2060,leaf blight364.jpg,Vineyard_25,Healthy,Train
+IMG_2061,leaf blight365.jpg,Vineyard_22,Healthy,Validation
+IMG_2062,leaf blight366.jpg,Vineyard_27,Healthy,Train
+IMG_2063,leaf blight367.jpg,Vineyard_10,Healthy,Test
+IMG_2064,leaf blight368.jpg,Vineyard_23,Healthy,Train
+IMG_2065,leaf blight369.jpg,Vineyard_20,Healthy,Train
+IMG_2066,leaf blight370.jpg,Vineyard_18,Healthy,Train
+IMG_2067,leaf blight371.jpg,Vineyard_8,Healthy,Validation
+IMG_2068,leaf blight372.jpg,Vineyard_11,Healthy,Validation
+IMG_2069,leaf blight373.jpg,Vineyard_1,Healthy,Train
+IMG_2070,leaf blight374.jpg,Vineyard_14,Healthy,Train
+IMG_2071,leaf blight375.jpg,Vineyard_5,Healthy,Train
+IMG_2072,leaf blight376.jpg,Vineyard_23,Healthy,Train
+IMG_2073,leaf blight377.jpg,Vineyard_20,Healthy,Train
+IMG_2074,leaf blight378.jpg,Vineyard_26,Healthy,Train
+IMG_2075,leaf blight379.jpg,Vineyard_21,Healthy,Test
+IMG_2076,leaf blight380.jpg,Vineyard_10,Healthy,Test
+IMG_2077,leaf blight381.jpg,Vineyard_2,Healthy,Train
+IMG_2078,leaf blight382.jpg,Vineyard_25,Healthy,Train
+IMG_2079,leaf blight383.jpg,Vineyard_4,Healthy,Train
+IMG_2080,leaf blight384.jpg,Vineyard_15,Healthy,Train
+IMG_2081,leaf blight385.jpg,Vineyard_5,Healthy,Train
+IMG_2082,leaf blight386.jpg,Vineyard_21,Healthy,Test
+IMG_2083,leaf blight387.jpg,Vineyard_28,Healthy,Train
+IMG_2084,leaf blight388.jpg,Vineyard_2,Healthy,Train
+IMG_2085,leaf blight389.jpg,Vineyard_11,Healthy,Validation
+IMG_2086,leaf blight390.jpg,Vineyard_27,Healthy,Train
+IMG_2087,leaf blight391.jpg,Vineyard_13,Healthy,Validation
+IMG_2088,leaf blight392.jpg,Vineyard_11,Healthy,Validation
+IMG_2089,leaf blight393.jpg,Vineyard_15,Healthy,Train
+IMG_2090,leaf blight394.jpg,Vineyard_21,Healthy,Test
+IMG_2091,leaf blight395.jpg,Vineyard_22,Healthy,Validation
+IMG_2092,leaf blight396.jpg,Vineyard_24,Healthy,Train
+IMG_2093,leaf blight397.jpg,Vineyard_20,Healthy,Train
+IMG_2094,leaf blight398.jpg,Vineyard_4,Healthy,Train
+IMG_2095,leaf blight399.jpg,Vineyard_13,Healthy,Validation
+IMG_2096,leaf blight400.jpg,Vineyard_26,Healthy,Train
+IMG_2097,leaf blight401.jpg,Vineyard_1,Healthy,Train
+IMG_2098,leaf blight402.jpg,Vineyard_18,Healthy,Train
+IMG_2099,leaf blight403.jpg,Vineyard_25,Healthy,Train
+IMG_2100,leaf blight404.jpg,Vineyard_12,Healthy,Train
+IMG_2101,leaf blight405.jpg,Vineyard_11,Healthy,Validation
+IMG_2102,leaf blight406.jpg,Vineyard_9,Healthy,Train
+IMG_2103,leaf blight407.jpg,Vineyard_7,Healthy,Test
+IMG_2104,leaf blight408.jpg,Vineyard_18,Healthy,Train
+IMG_2105,leaf blight409.jpg,Vineyard_2,Healthy,Train
+IMG_2106,leaf blight410.jpg,Vineyard_28,Healthy,Train
+IMG_2107,leaf blight411.jpg,Vineyard_28,Healthy,Train
+IMG_2108,leaf blight412.jpg,Vineyard_24,Healthy,Train
+IMG_2109,leaf blight413.jpg,Vineyard_1,Healthy,Train
+IMG_2110,leaf blight414.jpg,Vineyard_17,Healthy,Test
+IMG_2111,leaf blight415.jpg,Vineyard_3,Healthy,Train
+IMG_2112,leaf blight416.jpg,Vineyard_15,Healthy,Train
+IMG_2113,leaf blight417.jpg,Vineyard_15,Healthy,Train
+IMG_2114,leaf blight418.jpg,Vineyard_14,Healthy,Train
+IMG_2115,leaf blight419.jpg,Vineyard_19,Healthy,Train
+IMG_2116,leaf blight420.jpg,Vineyard_23,Healthy,Train
+IMG_2117,leaf blight421.jpg,Vineyard_20,Healthy,Train
+IMG_2118,leaf blight422.jpg,Vineyard_26,Healthy,Train
+IMG_2119,leaf blight423.jpg,Vineyard_10,Healthy,Test
+IMG_2120,leaf blight424.jpg,Vineyard_22,Healthy,Validation
+IMG_2121,leaf blight425.jpg,Vineyard_2,Healthy,Train
+IMG_2122,leaf blight426.jpg,Vineyard_27,Healthy,Train
+IMG_2123,leaf blight427.jpg,Vineyard_16,Healthy,Train
+IMG_2124,leaf blight428.jpg,Vineyard_25,Healthy,Train
+IMG_2125,leaf blight429.jpg,Vineyard_17,Healthy,Test
+IMG_2126,leaf blight430.jpg,Vineyard_12,Healthy,Train
+IMG_2127,leaf blight431.jpg,Vineyard_8,Healthy,Validation
+IMG_2128,leaf blight432.jpg,Vineyard_5,Healthy,Train
+IMG_2129,leaf blight433.jpg,Vineyard_22,Healthy,Validation
+IMG_2130,leaf blight434.jpg,Vineyard_6,Healthy,Train
+IMG_2131,leaf blight435.jpg,Vineyard_7,Healthy,Test
+IMG_2132,leaf blight436.jpg,Vineyard_27,Healthy,Train
+IMG_2133,leaf blight437.jpg,Vineyard_17,Healthy,Test
+IMG_2134,leaf blight438.jpg,Vineyard_9,Healthy,Train
+IMG_2135,leaf blight439.jpg,Vineyard_21,Healthy,Test
+IMG_2136,leaf blight440.jpg,Vineyard_6,Healthy,Train
+IMG_2137,leaf blight441.jpg,Vineyard_19,Healthy,Train
+IMG_2138,leaf blight442.jpg,Vineyard_25,Healthy,Train
+IMG_2139,leaf blight443.jpg,Vineyard_26,Healthy,Train
+IMG_2140,leaf blight444.jpg,Vineyard_7,Healthy,Test
+IMG_2141,leaf blight445.jpg,Vineyard_28,Healthy,Train
+IMG_2142,leaf blight446.jpg,Vineyard_22,Healthy,Validation
+IMG_2143,leaf blight447.jpg,Vineyard_11,Healthy,Validation
+IMG_2144,leaf blight448.jpg,Vineyard_11,Healthy,Validation
+IMG_2145,leaf blight449.jpg,Vineyard_2,Healthy,Train
+IMG_2146,leaf blight450.jpg,Vineyard_14,Healthy,Train
+IMG_2147,leaf blight451.jpg,Vineyard_5,Healthy,Train
+IMG_2148,leaf blight452.jpg,Vineyard_24,Healthy,Train
+IMG_2149,leaf blight453.jpg,Vineyard_4,Healthy,Train
+IMG_2150,leaf blight454.jpg,Vineyard_26,Healthy,Train
+IMG_2151,leaf blight455.jpg,Vineyard_27,Healthy,Train
+IMG_2152,leaf blight456.jpg,Vineyard_28,Healthy,Train
+IMG_2153,leaf blight457.jpg,Vineyard_5,Healthy,Train
+IMG_2154,leaf blight458.jpg,Vineyard_12,Healthy,Train
+IMG_2155,leaf blight459.jpg,Vineyard_12,Healthy,Train
+IMG_2156,leaf blight460.jpg,Vineyard_3,Healthy,Train
+IMG_2157,leaf blight461.jpg,Vineyard_7,Healthy,Test
+IMG_2158,leaf blight462.jpg,Vineyard_18,Healthy,Train
+IMG_2159,leaf blight463.jpg,Vineyard_21,Healthy,Test
+IMG_2160,leaf blight464.jpg,Vineyard_14,Healthy,Train
+IMG_2161,leaf blight465.jpg,Vineyard_17,Healthy,Test
+IMG_2162,leaf blight466.jpg,Vineyard_16,Healthy,Train
+IMG_2163,leaf blight467.jpg,Vineyard_2,Healthy,Train
+IMG_2164,leaf blight468.jpg,Vineyard_27,Healthy,Train
+IMG_2165,leaf blight469.jpg,Vineyard_20,Healthy,Train
+IMG_2166,leaf blight470.jpg,Vineyard_15,Healthy,Train
+IMG_2167,leaf blight471.jpg,Vineyard_26,Healthy,Train
+IMG_2168,leaf blight472.jpg,Vineyard_21,Healthy,Test
+IMG_2169,leaf blight473.jpg,Vineyard_4,Healthy,Train
+IMG_2170,leaf blight474.jpg,Vineyard_27,Healthy,Train
+IMG_2171,leaf blight475.jpg,Vineyard_20,Healthy,Train
+IMG_2172,leaf blight476.jpg,Vineyard_7,Healthy,Test
+IMG_2173,leaf blight477.jpg,Vineyard_17,Healthy,Test
+IMG_2174,leaf blight478.jpg,Vineyard_4,Healthy,Train
+IMG_2175,leaf blight479.jpg,Vineyard_18,Healthy,Train
+IMG_2176,leaf blight480.jpg,Vineyard_11,Healthy,Validation
+IMG_2177,leaf blight481.jpg,Vineyard_6,Healthy,Train
+IMG_2178,leaf blight482.jpg,Vineyard_19,Healthy,Train
+IMG_2179,leaf blight483.jpg,Vineyard_5,Healthy,Train
+IMG_2180,leaf blight484.jpg,Vineyard_25,Healthy,Train
+IMG_2181,leaf blight485.jpg,Vineyard_1,Healthy,Train
+IMG_2182,leaf blight486.jpg,Vineyard_3,Healthy,Train
+IMG_2183,leaf blight487.jpg,Vineyard_28,Healthy,Train
+IMG_2184,leaf blight488.jpg,Vineyard_24,Healthy,Train
+IMG_2185,leaf blight489.jpg,Vineyard_14,Healthy,Train
+IMG_2186,leaf blight490.jpg,Vineyard_24,Healthy,Train
+IMG_2187,leaf blight491.jpg,Vineyard_16,Healthy,Train
+IMG_2188,leaf blight492.jpg,Vineyard_2,Healthy,Train
+IMG_2189,leaf blight493.jpg,Vineyard_9,Healthy,Train
+IMG_2190,leaf blight494.jpg,Vineyard_6,Healthy,Train
+IMG_2191,leaf blight495.jpg,Vineyard_14,Healthy,Train
+IMG_2192,leaf blight496.jpg,Vineyard_12,Healthy,Train
+IMG_2193,leaf blight497.jpg,Vineyard_15,Healthy,Train
+IMG_2194,leaf blight498.jpg,Vineyard_22,Healthy,Validation
+IMG_2195,leaf blight499.jpg,Vineyard_16,Healthy,Train
+IMG_2196,leaf blight500.jpg,Vineyard_5,Healthy,Train
+IMG_2197,leaf blight501.jpg,Vineyard_17,Healthy,Test
+IMG_2198,leaf blight502.jpg,Vineyard_5,Healthy,Train
+IMG_2199,leaf blight503.jpg,Vineyard_19,Healthy,Train
+IMG_2200,leaf blight504.jpg,Vineyard_15,Healthy,Train
+IMG_2201,leaf blight505.jpg,Vineyard_11,Healthy,Validation
+IMG_2202,leaf blight506.jpg,Vineyard_5,Healthy,Train
+IMG_2203,leaf blight507.jpg,Vineyard_12,Healthy,Train
+IMG_2204,leaf blight508.jpg,Vineyard_23,Healthy,Train
+IMG_2205,leaf blight509.jpg,Vineyard_4,Healthy,Train
+IMG_2206,leaf blight510.jpg,Vineyard_4,Healthy,Train
+IMG_2207,leaf blight511.jpg,Vineyard_15,Healthy,Train
+IMG_2208,leaf blight512.jpg,Vineyard_25,Healthy,Train
+IMG_2209,leaf blight513.jpg,Vineyard_11,Healthy,Validation
+IMG_2210,leaf blight514.jpg,Vineyard_28,Healthy,Train
+IMG_2211,leaf blight515.jpg,Vineyard_13,Healthy,Validation
+IMG_2212,leaf blight516.jpg,Vineyard_12,Healthy,Train
+IMG_2213,leaf blight517.jpg,Vineyard_15,Healthy,Train
+IMG_2214,leaf blight518.jpg,Vineyard_22,Healthy,Validation
+IMG_2215,leaf blight519.jpg,Vineyard_27,Healthy,Train
+IMG_2216,leaf blight520.jpg,Vineyard_10,Healthy,Test
+IMG_2217,leaf blight521.jpg,Vineyard_14,Healthy,Train
+IMG_2218,leaf blight522.jpg,Vineyard_16,Healthy,Train
+IMG_2219,leaf blight523.jpg,Vineyard_1,Healthy,Train
+IMG_2220,leaf blight524.jpg,Vineyard_1,Healthy,Train
+IMG_2221,leaf blight525.jpg,Vineyard_8,Healthy,Validation
+IMG_2222,leaf blight526.jpg,Vineyard_21,Healthy,Test
+IMG_2223,leaf blight527.jpg,Vineyard_27,Healthy,Train
+IMG_2224,leaf blight528.jpg,Vineyard_18,Healthy,Train
+IMG_2225,leaf blight529.jpg,Vineyard_1,Healthy,Train
+IMG_2226,leaf blight530.jpg,Vineyard_25,Healthy,Train
+IMG_2227,leaf blight531.jpg,Vineyard_24,Healthy,Train
+IMG_2228,leaf blight532.jpg,Vineyard_20,Healthy,Train
+IMG_2229,leaf blight533.jpg,Vineyard_9,Healthy,Train
+IMG_2230,leaf blight534.jpg,Vineyard_24,Healthy,Train
+IMG_2231,leaf blight535.jpg,Vineyard_18,Healthy,Train
+IMG_2232,leaf blight536.jpg,Vineyard_27,Healthy,Train
+IMG_2233,leaf blight537.jpg,Vineyard_26,Healthy,Train
+IMG_2234,leaf blight538.jpg,Vineyard_6,Healthy,Train
+IMG_2235,leaf blight539.jpg,Vineyard_11,Healthy,Validation
+IMG_2236,leaf blight540.jpg,Vineyard_11,Healthy,Validation
+IMG_2237,leaf blight541.jpg,Vineyard_3,Healthy,Train
+IMG_2238,leaf blight542.jpg,Vineyard_9,Healthy,Train
+IMG_2239,leaf blight543.jpg,Vineyard_17,Healthy,Test
+IMG_2240,leaf blight544.jpg,Vineyard_27,Healthy,Train
+IMG_2241,leaf blight545.jpg,Vineyard_5,Healthy,Train
+IMG_2242,leaf blight546.jpg,Vineyard_10,Healthy,Test
+IMG_2243,leaf blight547.jpg,Vineyard_4,Healthy,Train
+IMG_2244,leaf blight548.jpg,Vineyard_19,Healthy,Train
+IMG_2245,leaf blight549.jpg,Vineyard_6,Healthy,Train
+IMG_2246,leaf blight550.jpg,Vineyard_2,Healthy,Train
+IMG_2247,leaf blight551.jpg,Vineyard_27,Healthy,Train
+IMG_2248,leaf blight552.jpg,Vineyard_10,Healthy,Test
+IMG_2249,leaf blight553.jpg,Vineyard_28,Healthy,Train
+IMG_2250,leaf blight554.jpg,Vineyard_16,Healthy,Train
+IMG_2251,leaf blight555.jpg,Vineyard_8,Healthy,Validation
+IMG_2252,leaf blight556.jpg,Vineyard_9,Healthy,Train
+IMG_2253,leaf blight557.jpg,Vineyard_24,Healthy,Train
+IMG_2254,leaf blight558.jpg,Vineyard_24,Healthy,Train
+IMG_2255,leaf blight559.jpg,Vineyard_3,Healthy,Train
+IMG_2256,leaf blight560.jpg,Vineyard_16,Healthy,Train
+IMG_2257,leaf blight561.jpg,Vineyard_18,Healthy,Train
+IMG_2258,leaf blight562.jpg,Vineyard_6,Healthy,Train
+IMG_2259,leaf blight563.jpg,Vineyard_5,Healthy,Train
+IMG_2260,leaf blight564.jpg,Vineyard_9,Healthy,Train
+IMG_2261,leaf blight565.jpg,Vineyard_18,Healthy,Train
+IMG_2262,leaf blight566.jpg,Vineyard_4,Healthy,Train
+IMG_2263,leaf blight567.jpg,Vineyard_20,Healthy,Train
+IMG_2264,leaf blight568.jpg,Vineyard_22,Healthy,Validation
+IMG_2265,leaf blight569.jpg,Vineyard_18,Healthy,Train
+IMG_2266,leaf blight570.jpg,Vineyard_6,Healthy,Train
+IMG_2267,leaf blight571.jpg,Vineyard_16,Healthy,Train
+IMG_2268,leaf blight572.jpg,Vineyard_10,Healthy,Test
+IMG_2269,leaf blight573.jpg,Vineyard_8,Healthy,Validation
+IMG_2270,leaf blight574.jpg,Vineyard_4,Healthy,Train
+IMG_2271,leaf blight575.jpg,Vineyard_9,Healthy,Train
+IMG_2272,leaf blight576.jpg,Vineyard_6,Healthy,Train
+IMG_2273,leaf blight577.jpg,Vineyard_17,Healthy,Test
+IMG_2274,leaf blight578.jpg,Vineyard_3,Healthy,Train
+IMG_2275,leaf blight579.jpg,Vineyard_6,Healthy,Train
+IMG_2276,leaf blight580.jpg,Vineyard_2,Healthy,Train
+IMG_2277,leaf blight581.jpg,Vineyard_15,Healthy,Train
+IMG_2278,leaf blight582.jpg,Vineyard_28,Healthy,Train
+IMG_2279,leaf blight583.jpg,Vineyard_3,Healthy,Train
+IMG_2280,leaf blight584.jpg,Vineyard_18,Healthy,Train
+IMG_2281,leaf blight585.jpg,Vineyard_15,Healthy,Train
+IMG_2282,leaf blight586.jpg,Vineyard_13,Healthy,Validation
+IMG_2283,leaf blight587.jpg,Vineyard_10,Healthy,Test
+IMG_2284,leaf blight588.jpg,Vineyard_1,Healthy,Train
+IMG_2285,leaf blight589.jpg,Vineyard_1,Healthy,Train
+IMG_2286,leaf blight590.jpg,Vineyard_17,Healthy,Test
+IMG_2287,leaf blight591.jpg,Vineyard_15,Healthy,Train
+IMG_2288,leaf blight592.jpg,Vineyard_1,Healthy,Train
+IMG_2289,leaf blight593.jpg,Vineyard_1,Healthy,Train
+IMG_2290,leaf blight594.jpg,Vineyard_22,Healthy,Validation
+IMG_2291,leaf blight595.jpg,Vineyard_9,Healthy,Train
+IMG_2292,leaf blight596.jpg,Vineyard_17,Healthy,Test
+IMG_2293,leaf blight597.jpg,Vineyard_24,Healthy,Train
+IMG_2294,leaf blight598.jpg,Vineyard_10,Healthy,Test
+IMG_2295,leaf blight599.jpg,Vineyard_27,Healthy,Train
+IMG_2296,leaf blight600.jpg,Vineyard_26,Healthy,Train
+IMG_2297,leaf blight601.jpg,Vineyard_8,Healthy,Validation
+IMG_2298,leaf blight602.jpg,Vineyard_5,Healthy,Train
+IMG_2299,leaf blight603.jpg,Vineyard_26,Healthy,Train
+IMG_2300,leaf blight604.jpg,Vineyard_12,Healthy,Train
+IMG_2301,leaf blight605.jpg,Vineyard_20,Healthy,Train
+IMG_2302,leaf blight606.jpg,Vineyard_6,Healthy,Train
+IMG_2303,leaf blight607.jpg,Vineyard_12,Healthy,Train
+IMG_2304,leaf blight608.jpg,Vineyard_10,Healthy,Test
+IMG_2305,leaf blight609.jpg,Vineyard_13,Healthy,Validation
+IMG_2306,leaf blight610.jpg,Vineyard_9,Healthy,Train
+IMG_2307,leaf blight611.jpg,Vineyard_28,Healthy,Train
+IMG_2308,leaf blight612.jpg,Vineyard_20,Healthy,Train
+IMG_2309,leaf blight613.jpg,Vineyard_14,Healthy,Train
+IMG_2310,leaf blight614.jpg,Vineyard_25,Healthy,Train
+IMG_2311,leaf blight615.jpg,Vineyard_14,Healthy,Train
+IMG_2312,leaf blight616.jpg,Vineyard_6,Healthy,Train
+IMG_2313,leaf blight617.jpg,Vineyard_17,Healthy,Test
+IMG_2314,leaf blight618.jpg,Vineyard_28,Healthy,Train
+IMG_2315,leaf blight619.jpg,Vineyard_22,Healthy,Validation
+IMG_2316,leaf blight620.jpg,Vineyard_27,Healthy,Train
+IMG_2317,leaf blight621.jpg,Vineyard_9,Healthy,Train
+IMG_2318,leaf blight622.jpg,Vineyard_4,Healthy,Train
+IMG_2319,leaf blight623.jpg,Vineyard_25,Healthy,Train
+IMG_2320,leaf blight624.jpg,Vineyard_28,Healthy,Train
+IMG_2321,leaf blight625.jpg,Vineyard_27,Healthy,Train
+IMG_2322,leaf blight626.jpg,Vineyard_26,Healthy,Train
+IMG_2323,leaf blight627.jpg,Vineyard_25,Healthy,Train
+IMG_2324,leaf blight628.jpg,Vineyard_10,Healthy,Test
+IMG_2325,leaf blight629.jpg,Vineyard_12,Healthy,Train
+IMG_2326,leaf blight630.jpg,Vineyard_19,Healthy,Train
+IMG_2327,leaf blight631.jpg,Vineyard_20,Healthy,Train
+IMG_2328,leaf blight632.jpg,Vineyard_3,Healthy,Train
+IMG_2329,leaf blight633.jpg,Vineyard_8,Healthy,Validation
+IMG_2330,leaf blight634.jpg,Vineyard_17,Healthy,Test
+IMG_2331,leaf blight635.jpg,Vineyard_18,Healthy,Train
+IMG_2332,leaf blight636.jpg,Vineyard_24,Healthy,Train
+IMG_2333,leaf blight637.jpg,Vineyard_26,Healthy,Train
+IMG_2334,leaf blight638.jpg,Vineyard_24,Healthy,Train
+IMG_2335,leaf blight639.jpg,Vineyard_24,Healthy,Train
+IMG_2336,leaf blight640.jpg,Vineyard_12,Healthy,Train
+IMG_2337,leaf blight641.jpg,Vineyard_22,Healthy,Validation
+IMG_2338,leaf blight642.jpg,Vineyard_11,Healthy,Validation
+IMG_2339,leaf blight643.jpg,Vineyard_19,Healthy,Train
+IMG_2340,leaf blight644.jpg,Vineyard_15,Healthy,Train
+IMG_2341,leaf blight645.jpg,Vineyard_22,Healthy,Validation
+IMG_2342,leaf blight646.jpg,Vineyard_21,Healthy,Test
+IMG_2343,leaf blight647.jpg,Vineyard_27,Healthy,Train
+IMG_2344,leaf blight648.jpg,Vineyard_17,Healthy,Test
+IMG_2345,leaf blight649.jpg,Vineyard_27,Healthy,Train
+IMG_2346,leaf blight650.jpg,Vineyard_14,Healthy,Train
+IMG_2347,leaf blight651.jpg,Vineyard_22,Healthy,Validation
+IMG_2348,leaf blight652.jpg,Vineyard_13,Healthy,Validation
+IMG_2349,leaf blight653.jpg,Vineyard_15,Healthy,Train
+IMG_2350,leaf blight654.jpg,Vineyard_7,Healthy,Test
+IMG_2351,leaf blight655.jpg,Vineyard_3,Healthy,Train
+IMG_2352,leaf blight656.jpg,Vineyard_27,Healthy,Train
+IMG_2353,leaf blight657.jpg,Vineyard_6,Healthy,Train
+IMG_2354,leaf blight658.jpg,Vineyard_27,Healthy,Train
+IMG_2355,leaf blight659.jpg,Vineyard_5,Healthy,Train
+IMG_2356,leaf blight660.jpg,Vineyard_6,Healthy,Train
+IMG_2357,leaf blight661.jpg,Vineyard_23,Healthy,Train
+IMG_2358,leaf blight662.jpg,Vineyard_26,Healthy,Train
+IMG_2359,leaf blight663.jpg,Vineyard_2,Healthy,Train
+IMG_2360,leaf blight664.jpg,Vineyard_17,Healthy,Test
+IMG_2361,leaf blight665.jpg,Vineyard_26,Healthy,Train
+IMG_2362,leaf blight666.jpg,Vineyard_10,Healthy,Test
+IMG_2363,leaf blight667.jpg,Vineyard_10,Healthy,Test
+IMG_2364,leaf blight668.jpg,Vineyard_5,Healthy,Train
+IMG_2365,leaf blight669.jpg,Vineyard_16,Healthy,Train
+IMG_2366,leaf blight670.jpg,Vineyard_1,Healthy,Train
+IMG_2367,leaf blight671.jpg,Vineyard_23,Healthy,Train
+IMG_2368,leaf blight672.jpg,Vineyard_25,Healthy,Train
+IMG_2369,healthy001.jpg,Vineyard_27,Healthy,Train
+IMG_2370,healthy002.jpg,Vineyard_13,Healthy,Validation
+IMG_2371,healthy003.jpg,Vineyard_28,Healthy,Train
+IMG_2372,healthy004.jpg,Vineyard_23,Healthy,Train
+IMG_2373,healthy005.jpg,Vineyard_19,Healthy,Train
+IMG_2374,healthy006.jpg,Vineyard_17,Healthy,Test
+IMG_2375,healthy007.jpg,Vineyard_7,Healthy,Test
+IMG_2376,healthy008.jpg,Vineyard_19,Healthy,Train
+IMG_2377,healthy009.jpg,Vineyard_8,Healthy,Validation
+IMG_2378,healthy010.jpg,Vineyard_19,Healthy,Train
+IMG_2379,healthy011.jpg,Vineyard_17,Healthy,Test
+IMG_2380,healthy012.jpg,Vineyard_5,Healthy,Train
+IMG_2381,healthy013.jpg,Vineyard_6,Healthy,Train
+IMG_2382,healthy014.jpg,Vineyard_2,Healthy,Train
+IMG_2383,healthy015.jpg,Vineyard_9,Healthy,Train
+IMG_2384,healthy016.jpg,Vineyard_25,Healthy,Train
+IMG_2385,healthy017.jpg,Vineyard_18,Healthy,Train
+IMG_2386,healthy018.jpg,Vineyard_3,Healthy,Train
+IMG_2387,healthy019.jpg,Vineyard_13,Healthy,Validation
+IMG_2388,healthy020.jpg,Vineyard_4,Healthy,Train
+IMG_2389,healthy021.jpg,Vineyard_16,Healthy,Train
+IMG_2390,healthy022.jpg,Vineyard_28,Healthy,Train
+IMG_2391,healthy023.jpg,Vineyard_23,Healthy,Train
+IMG_2392,healthy024.jpg,Vineyard_1,Healthy,Train
+IMG_2393,healthy025.jpg,Vineyard_14,Healthy,Train
+IMG_2394,healthy026.jpg,Vineyard_21,Healthy,Test
+IMG_2395,healthy027.jpg,Vineyard_5,Healthy,Train
+IMG_2396,healthy028.jpg,Vineyard_7,Healthy,Test
+IMG_2397,healthy029.jpg,Vineyard_15,Healthy,Train
+IMG_2398,healthy030.jpg,Vineyard_11,Healthy,Validation
+IMG_2399,healthy031.jpg,Vineyard_22,Healthy,Validation
+IMG_2400,healthy032.jpg,Vineyard_28,Healthy,Train
+IMG_2401,healthy033.jpg,Vineyard_27,Healthy,Train
+IMG_2402,healthy034.jpg,Vineyard_7,Healthy,Test
+IMG_2403,healthy035.jpg,Vineyard_21,Healthy,Test
+IMG_2404,healthy036.jpg,Vineyard_11,Healthy,Validation
+IMG_2405,healthy037.jpg,Vineyard_18,Healthy,Train
+IMG_2406,healthy038.jpg,Vineyard_28,Healthy,Train
+IMG_2407,healthy039.jpg,Vineyard_20,Healthy,Train
+IMG_2408,healthy040.jpg,Vineyard_21,Healthy,Test
+IMG_2409,healthy041.jpg,Vineyard_13,Healthy,Validation
+IMG_2410,healthy042.jpg,Vineyard_24,Healthy,Train
+IMG_2411,healthy043.jpg,Vineyard_28,Healthy,Train
+IMG_2412,healthy044.jpg,Vineyard_7,Healthy,Test
+IMG_2413,healthy045.jpg,Vineyard_27,Healthy,Train
+IMG_2414,healthy046.jpg,Vineyard_5,Healthy,Train
+IMG_2415,healthy047.jpg,Vineyard_2,Healthy,Train
+IMG_2416,healthy048.jpg,Vineyard_2,Healthy,Train
+IMG_2417,healthy049.jpg,Vineyard_12,Healthy,Train
+IMG_2418,healthy050.jpg,Vineyard_12,Healthy,Train
+IMG_2419,healthy051.jpg,Vineyard_12,Healthy,Train
+IMG_2420,healthy052.jpg,Vineyard_3,Healthy,Train
+IMG_2421,healthy053.jpg,Vineyard_12,Healthy,Train
+IMG_2422,healthy054.jpg,Vineyard_25,Healthy,Train
+IMG_2423,healthy055.jpg,Vineyard_20,Healthy,Train
+IMG_2424,healthy056.jpg,Vineyard_25,Healthy,Train
+IMG_2425,healthy057.jpg,Vineyard_11,Healthy,Validation
+IMG_2426,healthy058.jpg,Vineyard_8,Healthy,Validation
+IMG_2427,healthy059.jpg,Vineyard_7,Healthy,Test
+IMG_2428,healthy060.jpg,Vineyard_24,Healthy,Train
+IMG_2429,healthy061.jpg,Vineyard_6,Healthy,Train
+IMG_2430,healthy062.jpg,Vineyard_6,Healthy,Train
+IMG_2431,healthy063.jpg,Vineyard_4,Healthy,Train
+IMG_2432,healthy064.jpg,Vineyard_14,Healthy,Train
+IMG_2433,healthy065.jpg,Vineyard_24,Healthy,Train
+IMG_2434,healthy066.jpg,Vineyard_10,Healthy,Test
+IMG_2435,healthy067.jpg,Vineyard_10,Healthy,Test
+IMG_2436,healthy068.jpg,Vineyard_11,Healthy,Validation
+IMG_2437,healthy069.jpg,Vineyard_7,Healthy,Test
+IMG_2438,healthy070.jpg,Vineyard_9,Healthy,Train
+IMG_2439,healthy071.jpg,Vineyard_23,Healthy,Train
+IMG_2440,healthy072.jpg,Vineyard_4,Healthy,Train
+IMG_2441,healthy073.jpg,Vineyard_15,Healthy,Train
+IMG_2442,healthy074.jpg,Vineyard_22,Healthy,Validation
+IMG_2443,healthy075.jpg,Vineyard_27,Healthy,Train
+IMG_2444,healthy076.jpg,Vineyard_11,Healthy,Validation
+IMG_2445,healthy077.jpg,Vineyard_16,Healthy,Train
+IMG_2446,healthy078.jpg,Vineyard_20,Healthy,Train
+IMG_2447,healthy079.jpg,Vineyard_3,Healthy,Train
+IMG_2448,healthy080.jpg,Vineyard_21,Healthy,Test
+IMG_2449,healthy081.jpg,Vineyard_27,Healthy,Train
+IMG_2450,healthy082.jpg,Vineyard_16,Healthy,Train
+IMG_2451,healthy083.jpg,Vineyard_14,Healthy,Train
+IMG_2452,healthy084.jpg,Vineyard_14,Healthy,Train
+IMG_2453,healthy085.jpg,Vineyard_25,Healthy,Train
+IMG_2454,healthy086.jpg,Vineyard_15,Healthy,Train
+IMG_2455,healthy087.jpg,Vineyard_22,Healthy,Validation
+IMG_2456,healthy088.jpg,Vineyard_9,Healthy,Train
+IMG_2457,healthy089.jpg,Vineyard_13,Healthy,Validation
+IMG_2458,healthy090.jpg,Vineyard_21,Healthy,Test
+IMG_2459,healthy091.jpg,Vineyard_2,Healthy,Train
+IMG_2460,healthy092.jpg,Vineyard_10,Healthy,Test
+IMG_2461,healthy093.jpg,Vineyard_12,Healthy,Train
+IMG_2462,healthy094.jpg,Vineyard_7,Healthy,Test
+IMG_2463,healthy095.jpg,Vineyard_26,Healthy,Train
+IMG_2464,healthy096.jpg,Vineyard_10,Healthy,Test
+IMG_2465,healthy097.jpg,Vineyard_8,Healthy,Validation
+IMG_2466,healthy098.jpg,Vineyard_14,Healthy,Train
+IMG_2467,healthy099.jpg,Vineyard_12,Healthy,Train
+IMG_2468,healthy100.jpg,Vineyard_19,Healthy,Train
+IMG_2469,healthy1000.jpg,Vineyard_23,Healthy,Train
+IMG_2470,healthy1001.jpg,Vineyard_28,Healthy,Train
+IMG_2471,healthy1002.jpg,Vineyard_17,Healthy,Test
+IMG_2472,healthy1003.jpg,Vineyard_13,Healthy,Validation
+IMG_2473,healthy1004.jpg,Vineyard_12,Healthy,Train
+IMG_2474,healthy1005.jpg,Vineyard_5,Healthy,Train
+IMG_2475,healthy1006.jpg,Vineyard_27,Healthy,Train
+IMG_2476,healthy1007.jpg,Vineyard_9,Healthy,Train
+IMG_2477,healthy1008.jpg,Vineyard_10,Healthy,Test
+IMG_2478,healthy1009.jpg,Vineyard_28,Healthy,Train
+IMG_2479,healthy101.jpg,Vineyard_26,Healthy,Train
+IMG_2480,healthy1010.jpg,Vineyard_24,Healthy,Train
+IMG_2481,healthy1011.jpg,Vineyard_23,Healthy,Train
+IMG_2482,healthy1012.jpg,Vineyard_16,Healthy,Train
+IMG_2483,healthy1013.jpg,Vineyard_6,Healthy,Train
+IMG_2484,healthy1014.jpg,Vineyard_5,Healthy,Train
+IMG_2485,healthy1015.jpg,Vineyard_1,Healthy,Train
+IMG_2486,healthy1016.jpg,Vineyard_2,Healthy,Train
+IMG_2487,healthy1017.jpg,Vineyard_27,Healthy,Train
+IMG_2488,healthy1018.jpg,Vineyard_14,Healthy,Train
+IMG_2489,healthy1019.jpg,Vineyard_25,Healthy,Train
+IMG_2490,healthy102.jpg,Vineyard_9,Healthy,Train
+IMG_2491,healthy1020.jpg,Vineyard_1,Healthy,Train
+IMG_2492,healthy1021.jpg,Vineyard_5,Healthy,Train
+IMG_2493,healthy1022.jpg,Vineyard_19,Healthy,Train
+IMG_2494,healthy1023.jpg,Vineyard_27,Healthy,Train
+IMG_2495,healthy1024.jpg,Vineyard_18,Healthy,Train
+IMG_2496,healthy1025.jpg,Vineyard_28,Healthy,Train
+IMG_2497,healthy1026.jpg,Vineyard_8,Healthy,Validation
+IMG_2498,healthy1027.jpg,Vineyard_6,Healthy,Train
+IMG_2499,healthy1028.jpg,Vineyard_9,Healthy,Train
+IMG_2500,healthy1029.jpg,Vineyard_3,Healthy,Train
+IMG_2501,healthy103.jpg,Vineyard_4,Healthy,Train
+IMG_2502,healthy1030.jpg,Vineyard_19,Healthy,Train
+IMG_2503,healthy1031.jpg,Vineyard_7,Healthy,Test
+IMG_2504,healthy1032.jpg,Vineyard_21,Healthy,Test
+IMG_2505,healthy1033.jpg,Vineyard_17,Healthy,Test
+IMG_2506,healthy1034.jpg,Vineyard_9,Healthy,Train
+IMG_2507,healthy1035.jpg,Vineyard_25,Healthy,Train
+IMG_2508,healthy1036.jpg,Vineyard_9,Healthy,Train
+IMG_2509,healthy1037.jpg,Vineyard_2,Healthy,Train
+IMG_2510,healthy1038.jpg,Vineyard_7,Healthy,Test
+IMG_2511,healthy1039.jpg,Vineyard_26,Healthy,Train
+IMG_2512,healthy104.jpg,Vineyard_22,Healthy,Validation
+IMG_2513,healthy1040.jpg,Vineyard_5,Healthy,Train
+IMG_2514,healthy1041.jpg,Vineyard_9,Healthy,Train
+IMG_2515,healthy1042.jpg,Vineyard_11,Healthy,Validation
+IMG_2516,healthy1043.jpg,Vineyard_21,Healthy,Test
+IMG_2517,healthy1044.jpg,Vineyard_25,Healthy,Train
+IMG_2518,healthy1045.jpg,Vineyard_1,Healthy,Train
+IMG_2519,healthy1046.jpg,Vineyard_16,Healthy,Train
+IMG_2520,healthy1047.jpg,Vineyard_5,Healthy,Train
+IMG_2521,healthy1048.jpg,Vineyard_10,Healthy,Test
+IMG_2522,healthy1049.jpg,Vineyard_2,Healthy,Train
+IMG_2523,healthy105.jpg,Vineyard_10,Healthy,Test
+IMG_2524,healthy1050.jpg,Vineyard_20,Healthy,Train
+IMG_2525,healthy1051.jpg,Vineyard_26,Healthy,Train
+IMG_2526,healthy1052.jpg,Vineyard_18,Healthy,Train
+IMG_2527,healthy1053.jpg,Vineyard_18,Healthy,Train
+IMG_2528,healthy1054.jpg,Vineyard_15,Healthy,Train
+IMG_2529,healthy1055.jpg,Vineyard_28,Healthy,Train
+IMG_2530,healthy1056.jpg,Vineyard_12,Healthy,Train
+IMG_2531,healthy1057.jpg,Vineyard_10,Healthy,Test
+IMG_2532,healthy1058.jpg,Vineyard_11,Healthy,Validation
+IMG_2533,healthy1059.jpg,Vineyard_28,Healthy,Train
+IMG_2534,healthy106.jpg,Vineyard_4,Healthy,Train
+IMG_2535,healthy1060.jpg,Vineyard_13,Healthy,Validation
+IMG_2536,healthy1061.jpg,Vineyard_15,Healthy,Train
+IMG_2537,healthy1062.jpg,Vineyard_2,Healthy,Train
+IMG_2538,healthy1063.jpg,Vineyard_10,Healthy,Test
+IMG_2539,healthy1064.jpg,Vineyard_26,Healthy,Train
+IMG_2540,healthy1065.jpg,Vineyard_22,Healthy,Validation
+IMG_2541,healthy1066.jpg,Vineyard_16,Healthy,Train
+IMG_2542,healthy1067.jpg,Vineyard_18,Healthy,Train
+IMG_2543,healthy1068.jpg,Vineyard_11,Healthy,Validation
+IMG_2544,healthy1069.jpg,Vineyard_20,Healthy,Train
+IMG_2545,healthy107.jpg,Vineyard_17,Healthy,Test
+IMG_2546,healthy1070.jpg,Vineyard_28,Healthy,Train
+IMG_2547,healthy1071.jpg,Vineyard_3,Healthy,Train
+IMG_2548,healthy1072.jpg,Vineyard_17,Healthy,Test
+IMG_2549,healthy1073.jpg,Vineyard_14,Healthy,Train
+IMG_2550,healthy1074.jpg,Vineyard_22,Healthy,Validation
+IMG_2551,healthy1075.jpg,Vineyard_5,Healthy,Train
+IMG_2552,healthy1076.jpg,Vineyard_7,Healthy,Test
+IMG_2553,healthy1077.jpg,Vineyard_14,Healthy,Train
+IMG_2554,healthy1078.jpg,Vineyard_18,Healthy,Train
+IMG_2555,healthy1079.jpg,Vineyard_14,Healthy,Train
+IMG_2556,healthy108.jpg,Vineyard_12,Healthy,Train
+IMG_2557,healthy1080.jpg,Vineyard_2,Healthy,Train
+IMG_2558,healthy1081.jpg,Vineyard_27,Healthy,Train
+IMG_2559,healthy1082.jpg,Vineyard_28,Healthy,Train
+IMG_2560,healthy1083.jpg,Vineyard_9,Healthy,Train
+IMG_2561,healthy1084.jpg,Vineyard_5,Healthy,Train
+IMG_2562,healthy1085.jpg,Vineyard_9,Healthy,Train
+IMG_2563,healthy1086.jpg,Vineyard_21,Healthy,Test
+IMG_2564,healthy1087.jpg,Vineyard_24,Healthy,Train
+IMG_2565,healthy1088.jpg,Vineyard_6,Healthy,Train
+IMG_2566,healthy1089.jpg,Vineyard_23,Healthy,Train
+IMG_2567,healthy109.jpg,Vineyard_3,Healthy,Train
+IMG_2568,healthy1090.jpg,Vineyard_14,Healthy,Train
+IMG_2569,healthy1091.jpg,Vineyard_21,Healthy,Test
+IMG_2570,healthy1092.jpg,Vineyard_8,Healthy,Validation
+IMG_2571,healthy1093.jpg,Vineyard_11,Healthy,Validation
+IMG_2572,healthy1094.jpg,Vineyard_1,Healthy,Train
+IMG_2573,healthy1095.jpg,Vineyard_6,Healthy,Train
+IMG_2574,healthy1096.jpg,Vineyard_4,Healthy,Train
+IMG_2575,healthy1097.jpg,Vineyard_20,Healthy,Train
+IMG_2576,healthy1098.jpg,Vineyard_4,Healthy,Train
+IMG_2577,healthy1099.jpg,Vineyard_9,Healthy,Train
+IMG_2578,healthy110.jpg,Vineyard_3,Healthy,Train
+IMG_2579,healthy1100.jpg,Vineyard_2,Healthy,Train
+IMG_2580,healthy1101.jpg,Vineyard_27,Healthy,Train
+IMG_2581,healthy1102.jpg,Vineyard_21,Healthy,Test
+IMG_2582,healthy1103.jpg,Vineyard_5,Healthy,Train
+IMG_2583,healthy1104.jpg,Vineyard_23,Healthy,Train
+IMG_2584,healthy1105.jpg,Vineyard_11,Healthy,Validation
+IMG_2585,healthy1106.jpg,Vineyard_10,Healthy,Test
+IMG_2586,healthy1107.jpg,Vineyard_12,Healthy,Train
+IMG_2587,healthy1108.jpg,Vineyard_18,Healthy,Train
+IMG_2588,healthy1109.jpg,Vineyard_5,Healthy,Train
+IMG_2589,healthy111.jpg,Vineyard_17,Healthy,Test
+IMG_2590,healthy112.jpg,Vineyard_25,Healthy,Train
+IMG_2591,healthy113.jpg,Vineyard_18,Healthy,Train
+IMG_2592,healthy114.jpg,Vineyard_26,Healthy,Train
+IMG_2593,healthy115.jpg,Vineyard_4,Healthy,Train
+IMG_2594,healthy116.jpg,Vineyard_25,Healthy,Train
+IMG_2595,healthy117.jpg,Vineyard_17,Healthy,Test
+IMG_2596,healthy118.jpg,Vineyard_7,Healthy,Test
+IMG_2597,healthy119.jpg,Vineyard_28,Healthy,Train
+IMG_2598,healthy120.jpg,Vineyard_2,Healthy,Train
+IMG_2599,healthy121.jpg,Vineyard_20,Healthy,Train
+IMG_2600,healthy122.jpg,Vineyard_16,Healthy,Train
+IMG_2601,healthy123.jpg,Vineyard_15,Healthy,Train
+IMG_2602,healthy124.jpg,Vineyard_23,Healthy,Train
+IMG_2603,healthy125.jpg,Vineyard_7,Healthy,Test
+IMG_2604,healthy126.jpg,Vineyard_22,Healthy,Validation
+IMG_2605,healthy127.jpg,Vineyard_16,Healthy,Train
+IMG_2606,healthy128.jpg,Vineyard_18,Healthy,Train
+IMG_2607,healthy129.jpg,Vineyard_12,Healthy,Train
+IMG_2608,healthy130.jpg,Vineyard_11,Healthy,Validation
+IMG_2609,healthy131.jpg,Vineyard_8,Healthy,Validation
+IMG_2610,healthy132.jpg,Vineyard_16,Healthy,Train
+IMG_2611,healthy133.jpg,Vineyard_1,Healthy,Train
+IMG_2612,healthy134.jpg,Vineyard_17,Healthy,Test
+IMG_2613,healthy135.jpg,Vineyard_21,Healthy,Test
+IMG_2614,healthy136.jpg,Vineyard_19,Healthy,Train
+IMG_2615,healthy137.jpg,Vineyard_12,Healthy,Train
+IMG_2616,healthy138.jpg,Vineyard_14,Healthy,Train
+IMG_2617,healthy139.jpg,Vineyard_26,Healthy,Train
+IMG_2618,healthy140.jpg,Vineyard_13,Healthy,Validation
+IMG_2619,healthy141.jpg,Vineyard_21,Healthy,Test
+IMG_2620,healthy142.jpg,Vineyard_23,Healthy,Train
+IMG_2621,healthy143.jpg,Vineyard_4,Healthy,Train
+IMG_2622,healthy144.jpg,Vineyard_26,Healthy,Train
+IMG_2623,healthy145.jpg,Vineyard_17,Healthy,Test
+IMG_2624,healthy146.jpg,Vineyard_22,Healthy,Validation
+IMG_2625,healthy147.jpg,Vineyard_27,Healthy,Train
+IMG_2626,healthy148.jpg,Vineyard_1,Healthy,Train
+IMG_2627,healthy149.jpg,Vineyard_22,Healthy,Validation
+IMG_2628,healthy150.jpg,Vineyard_11,Healthy,Validation
+IMG_2629,healthy151.jpg,Vineyard_13,Healthy,Validation
+IMG_2630,healthy152.jpg,Vineyard_16,Healthy,Train
+IMG_2631,healthy153.jpg,Vineyard_14,Healthy,Train
+IMG_2632,healthy154.jpg,Vineyard_1,Healthy,Train
+IMG_2633,healthy155.jpg,Vineyard_3,Healthy,Train
+IMG_2634,healthy156.jpg,Vineyard_26,Healthy,Train
+IMG_2635,healthy157.jpg,Vineyard_26,Healthy,Train
+IMG_2636,healthy158.jpg,Vineyard_4,Healthy,Train
+IMG_2637,healthy159.jpg,Vineyard_8,Healthy,Validation
+IMG_2638,healthy160.jpg,Vineyard_16,Healthy,Train
+IMG_2639,healthy161.jpg,Vineyard_6,Healthy,Train
+IMG_2640,healthy162.jpg,Vineyard_21,Healthy,Test
+IMG_2641,healthy163.jpg,Vineyard_14,Healthy,Train
+IMG_2642,healthy164.jpg,Vineyard_13,Healthy,Validation
+IMG_2643,healthy165.jpg,Vineyard_22,Healthy,Validation
+IMG_2644,healthy166.jpg,Vineyard_11,Healthy,Validation
+IMG_2645,healthy167.jpg,Vineyard_13,Healthy,Validation
+IMG_2646,healthy168.jpg,Vineyard_4,Healthy,Train
+IMG_2647,healthy169.jpg,Vineyard_13,Healthy,Validation
+IMG_2648,healthy170.jpg,Vineyard_7,Healthy,Test
+IMG_2649,healthy171.jpg,Vineyard_3,Healthy,Train
+IMG_2650,healthy172.jpg,Vineyard_3,Healthy,Train
+IMG_2651,healthy173.jpg,Vineyard_25,Healthy,Train
+IMG_2652,healthy174.jpg,Vineyard_14,Healthy,Train
+IMG_2653,healthy175.jpg,Vineyard_24,Healthy,Train
+IMG_2654,healthy176.jpg,Vineyard_9,Healthy,Train
+IMG_2655,healthy177.jpg,Vineyard_12,Healthy,Train
+IMG_2656,healthy178.jpg,Vineyard_13,Healthy,Validation
+IMG_2657,healthy179.jpg,Vineyard_27,Healthy,Train
+IMG_2658,healthy180.jpg,Vineyard_27,Healthy,Train
+IMG_2659,healthy181.jpg,Vineyard_9,Healthy,Train
+IMG_2660,healthy182.jpg,Vineyard_20,Healthy,Train
+IMG_2661,healthy183.jpg,Vineyard_24,Healthy,Train
+IMG_2662,healthy184.jpg,Vineyard_26,Healthy,Train
+IMG_2663,healthy185.jpg,Vineyard_5,Healthy,Train
+IMG_2664,healthy186.jpg,Vineyard_6,Healthy,Train
+IMG_2665,healthy187.jpg,Vineyard_27,Healthy,Train
+IMG_2666,healthy188.jpg,Vineyard_27,Healthy,Train
+IMG_2667,healthy189.jpg,Vineyard_21,Healthy,Test
+IMG_2668,healthy190.jpg,Vineyard_23,Healthy,Train
+IMG_2669,healthy191.jpg,Vineyard_27,Healthy,Train
+IMG_2670,healthy192.jpg,Vineyard_28,Healthy,Train
+IMG_2671,healthy193.jpg,Vineyard_2,Healthy,Train
+IMG_2672,healthy194.jpg,Vineyard_16,Healthy,Train
+IMG_2673,healthy195.jpg,Vineyard_10,Healthy,Test
+IMG_2674,healthy196.jpg,Vineyard_21,Healthy,Test
+IMG_2675,healthy197.jpg,Vineyard_25,Healthy,Train
+IMG_2676,healthy198.jpg,Vineyard_10,Healthy,Test
+IMG_2677,healthy199.jpg,Vineyard_24,Healthy,Train
+IMG_2678,healthy200.jpg,Vineyard_9,Healthy,Train
+IMG_2679,healthy201.jpg,Vineyard_20,Healthy,Train
+IMG_2680,healthy202.jpg,Vineyard_1,Healthy,Train
+IMG_2681,healthy203.jpg,Vineyard_23,Healthy,Train
+IMG_2682,healthy204.jpg,Vineyard_7,Healthy,Test
+IMG_2683,healthy205.jpg,Vineyard_24,Healthy,Train
+IMG_2684,healthy206.jpg,Vineyard_20,Healthy,Train
+IMG_2685,healthy207.jpg,Vineyard_7,Healthy,Test
+IMG_2686,healthy208.jpg,Vineyard_5,Healthy,Train
+IMG_2687,healthy209.jpg,Vineyard_4,Healthy,Train
+IMG_2688,healthy210.jpg,Vineyard_6,Healthy,Train
+IMG_2689,healthy211.jpg,Vineyard_13,Healthy,Validation
+IMG_2690,healthy212.jpg,Vineyard_10,Healthy,Test
+IMG_2691,healthy213.jpg,Vineyard_14,Healthy,Train
+IMG_2692,healthy214.jpg,Vineyard_8,Healthy,Validation
+IMG_2693,healthy215.jpg,Vineyard_14,Healthy,Train
+IMG_2694,healthy216.jpg,Vineyard_6,Healthy,Train
+IMG_2695,healthy217.jpg,Vineyard_10,Healthy,Test
+IMG_2696,healthy218.jpg,Vineyard_8,Healthy,Validation
+IMG_2697,healthy219.jpg,Vineyard_26,Healthy,Train
+IMG_2698,healthy220.jpg,Vineyard_23,Healthy,Train
+IMG_2699,healthy221.jpg,Vineyard_21,Healthy,Test
+IMG_2700,healthy222.jpg,Vineyard_16,Healthy,Train
+IMG_2701,healthy223.jpg,Vineyard_1,Healthy,Train
+IMG_2702,healthy224.jpg,Vineyard_27,Healthy,Train
+IMG_2703,healthy225.jpg,Vineyard_24,Healthy,Train
+IMG_2704,healthy226.jpg,Vineyard_2,Healthy,Train
+IMG_2705,healthy227.jpg,Vineyard_12,Healthy,Train
+IMG_2706,healthy228.jpg,Vineyard_13,Healthy,Validation
+IMG_2707,healthy229.jpg,Vineyard_5,Healthy,Train
+IMG_2708,healthy230.jpg,Vineyard_26,Healthy,Train
+IMG_2709,healthy231.jpg,Vineyard_10,Healthy,Test
+IMG_2710,healthy232.jpg,Vineyard_16,Healthy,Train
+IMG_2711,healthy233.jpg,Vineyard_7,Healthy,Test
+IMG_2712,healthy234.jpg,Vineyard_11,Healthy,Validation
+IMG_2713,healthy235.jpg,Vineyard_19,Healthy,Train
+IMG_2714,healthy236.jpg,Vineyard_8,Healthy,Validation
+IMG_2715,healthy237.jpg,Vineyard_24,Healthy,Train
+IMG_2716,healthy238.jpg,Vineyard_9,Healthy,Train
+IMG_2717,healthy239.jpg,Vineyard_9,Healthy,Train
+IMG_2718,healthy240.jpg,Vineyard_23,Healthy,Train
+IMG_2719,healthy241.jpg,Vineyard_9,Healthy,Train
+IMG_2720,healthy242.jpg,Vineyard_21,Healthy,Test
+IMG_2721,healthy243.jpg,Vineyard_28,Healthy,Train
+IMG_2722,healthy244.jpg,Vineyard_4,Healthy,Train
+IMG_2723,healthy245.jpg,Vineyard_26,Healthy,Train
+IMG_2724,healthy246.jpg,Vineyard_17,Healthy,Test
+IMG_2725,healthy247.jpg,Vineyard_8,Healthy,Validation
+IMG_2726,healthy248.jpg,Vineyard_1,Healthy,Train
+IMG_2727,healthy249.jpg,Vineyard_27,Healthy,Train
+IMG_2728,healthy250.jpg,Vineyard_3,Healthy,Train
+IMG_2729,healthy251.jpg,Vineyard_16,Healthy,Train
+IMG_2730,healthy252.jpg,Vineyard_13,Healthy,Validation
+IMG_2731,healthy253.jpg,Vineyard_18,Healthy,Train
+IMG_2732,healthy254.jpg,Vineyard_26,Healthy,Train
+IMG_2733,healthy255.jpg,Vineyard_6,Healthy,Train
+IMG_2734,healthy256.jpg,Vineyard_8,Healthy,Validation
+IMG_2735,healthy257.jpg,Vineyard_6,Healthy,Train
+IMG_2736,healthy258.jpg,Vineyard_26,Healthy,Train
+IMG_2737,healthy259.jpg,Vineyard_13,Healthy,Validation
+IMG_2738,healthy260.jpg,Vineyard_9,Healthy,Train
+IMG_2739,healthy261.jpg,Vineyard_24,Healthy,Train
+IMG_2740,healthy262.jpg,Vineyard_11,Healthy,Validation
+IMG_2741,healthy263.jpg,Vineyard_16,Healthy,Train
+IMG_2742,healthy264.jpg,Vineyard_28,Healthy,Train
+IMG_2743,healthy265.jpg,Vineyard_24,Healthy,Train
+IMG_2744,healthy266.jpg,Vineyard_28,Healthy,Train
+IMG_2745,healthy267.jpg,Vineyard_3,Healthy,Train
+IMG_2746,healthy268.jpg,Vineyard_20,Healthy,Train
+IMG_2747,healthy269.jpg,Vineyard_5,Healthy,Train
+IMG_2748,healthy270.jpg,Vineyard_1,Healthy,Train
+IMG_2749,healthy271.jpg,Vineyard_18,Healthy,Train
+IMG_2750,healthy272.jpg,Vineyard_16,Healthy,Train
+IMG_2751,healthy273.jpg,Vineyard_26,Healthy,Train
+IMG_2752,healthy274.jpg,Vineyard_28,Healthy,Train
+IMG_2753,healthy275.jpg,Vineyard_23,Healthy,Train
+IMG_2754,healthy276.jpg,Vineyard_9,Healthy,Train
+IMG_2755,healthy277.jpg,Vineyard_13,Healthy,Validation
+IMG_2756,healthy278.jpg,Vineyard_3,Healthy,Train
+IMG_2757,healthy279.jpg,Vineyard_21,Healthy,Test
+IMG_2758,healthy280.jpg,Vineyard_24,Healthy,Train
+IMG_2759,healthy281.jpg,Vineyard_15,Healthy,Train
+IMG_2760,healthy282.jpg,Vineyard_20,Healthy,Train
+IMG_2761,healthy283.jpg,Vineyard_8,Healthy,Validation
+IMG_2762,healthy284.jpg,Vineyard_7,Healthy,Test
+IMG_2763,healthy285.jpg,Vineyard_25,Healthy,Train
+IMG_2764,healthy286.jpg,Vineyard_4,Healthy,Train
+IMG_2765,healthy287.jpg,Vineyard_26,Healthy,Train
+IMG_2766,healthy288.jpg,Vineyard_26,Healthy,Train
+IMG_2767,healthy289.jpg,Vineyard_4,Healthy,Train
+IMG_2768,healthy290.jpg,Vineyard_13,Healthy,Validation
+IMG_2769,healthy291.jpg,Vineyard_7,Healthy,Test
+IMG_2770,healthy292.jpg,Vineyard_21,Healthy,Test
+IMG_2771,healthy293.jpg,Vineyard_13,Healthy,Validation
+IMG_2772,healthy294.jpg,Vineyard_12,Healthy,Train
+IMG_2773,healthy295.jpg,Vineyard_16,Healthy,Train
+IMG_2774,healthy296.jpg,Vineyard_4,Healthy,Train
+IMG_2775,healthy297.jpg,Vineyard_21,Healthy,Test
+IMG_2776,healthy298.jpg,Vineyard_23,Healthy,Train
+IMG_2777,healthy299.jpg,Vineyard_12,Healthy,Train
+IMG_2778,healthy300.jpg,Vineyard_15,Healthy,Train
+IMG_2779,healthy301.jpg,Vineyard_13,Healthy,Validation
+IMG_2780,healthy302.jpg,Vineyard_8,Healthy,Validation
+IMG_2781,healthy303.jpg,Vineyard_25,Healthy,Train
+IMG_2782,healthy304.jpg,Vineyard_18,Healthy,Train
+IMG_2783,healthy305.jpg,Vineyard_7,Healthy,Test
+IMG_2784,healthy306.jpg,Vineyard_13,Healthy,Validation
+IMG_2785,healthy307.jpg,Vineyard_26,Healthy,Train
+IMG_2786,healthy308.jpg,Vineyard_14,Healthy,Train
+IMG_2787,healthy309.jpg,Vineyard_20,Healthy,Train
+IMG_2788,healthy310.jpg,Vineyard_17,Healthy,Test
+IMG_2789,healthy311.jpg,Vineyard_16,Healthy,Train
+IMG_2790,healthy312.jpg,Vineyard_4,Healthy,Train
+IMG_2791,healthy313.jpg,Vineyard_6,Healthy,Train
+IMG_2792,healthy314.jpg,Vineyard_16,Healthy,Train
+IMG_2793,healthy315.jpg,Vineyard_15,Healthy,Train
+IMG_2794,healthy316.jpg,Vineyard_12,Healthy,Train
+IMG_2795,healthy317.jpg,Vineyard_11,Healthy,Validation
+IMG_2796,healthy318.jpg,Vineyard_23,Healthy,Train
+IMG_2797,healthy319.jpg,Vineyard_28,Healthy,Train
+IMG_2798,healthy320.jpg,Vineyard_2,Healthy,Train
+IMG_2799,healthy321.jpg,Vineyard_22,Healthy,Validation
+IMG_2800,healthy322.jpg,Vineyard_22,Healthy,Validation
+IMG_2801,healthy323.jpg,Vineyard_24,Healthy,Train
+IMG_2802,healthy324.jpg,Vineyard_8,Healthy,Validation
+IMG_2803,healthy325.jpg,Vineyard_23,Healthy,Train
+IMG_2804,healthy326.jpg,Vineyard_23,Healthy,Train
+IMG_2805,healthy327.jpg,Vineyard_26,Healthy,Train
+IMG_2806,healthy328.jpg,Vineyard_20,Healthy,Train
+IMG_2807,healthy329.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_2808,healthy330.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_2809,healthy331.jpg,Vineyard_2,Leaf Blight,Train
+IMG_2810,healthy332.jpg,Vineyard_3,Leaf Blight,Train
+IMG_2811,healthy333.jpg,Vineyard_18,Leaf Blight,Train
+IMG_2812,healthy334.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2813,healthy335.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_2814,healthy336.jpg,Vineyard_16,Leaf Blight,Train
+IMG_2815,healthy337.jpg,Vineyard_12,Leaf Blight,Train
+IMG_2816,healthy338.jpg,Vineyard_6,Leaf Blight,Train
+IMG_2817,healthy339.jpg,Vineyard_12,Leaf Blight,Train
+IMG_2818,healthy340.jpg,Vineyard_7,Leaf Blight,Test
+IMG_2819,healthy341.jpg,Vineyard_19,Leaf Blight,Train
+IMG_2820,healthy342.jpg,Vineyard_21,Leaf Blight,Test
+IMG_2821,healthy343.jpg,Vineyard_20,Leaf Blight,Train
+IMG_2822,healthy344.jpg,Vineyard_3,Leaf Blight,Train
+IMG_2823,healthy345.jpg,Vineyard_1,Leaf Blight,Train
+IMG_2824,healthy346.jpg,Vineyard_5,Leaf Blight,Train
+IMG_2825,healthy347.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_2826,healthy348.jpg,Vineyard_19,Leaf Blight,Train
+IMG_2827,healthy349.jpg,Vineyard_23,Leaf Blight,Train
+IMG_2828,healthy350.jpg,Vineyard_3,Leaf Blight,Train
+IMG_2829,healthy351.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_2830,healthy352.jpg,Vineyard_4,Leaf Blight,Train
+IMG_2831,healthy353.jpg,Vineyard_19,Leaf Blight,Train
+IMG_2832,healthy354.jpg,Vineyard_5,Leaf Blight,Train
+IMG_2833,healthy355.jpg,Vineyard_2,Leaf Blight,Train
+IMG_2834,healthy356.jpg,Vineyard_26,Leaf Blight,Train
+IMG_2835,healthy357.jpg,Vineyard_2,Leaf Blight,Train
+IMG_2836,healthy358.jpg,Vineyard_4,Leaf Blight,Train
+IMG_2837,healthy359.jpg,Vineyard_3,Leaf Blight,Train
+IMG_2838,healthy360.jpg,Vineyard_14,Leaf Blight,Train
+IMG_2839,healthy361.jpg,Vineyard_17,Leaf Blight,Test
+IMG_2840,healthy362.jpg,Vineyard_4,Leaf Blight,Train
+IMG_2841,healthy363.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_2842,healthy364.jpg,Vineyard_4,Leaf Blight,Train
+IMG_2843,healthy365.jpg,Vineyard_9,Leaf Blight,Train
+IMG_2844,healthy366.jpg,Vineyard_26,Leaf Blight,Train
+IMG_2845,healthy367.jpg,Vineyard_14,Leaf Blight,Train
+IMG_2846,healthy368.jpg,Vineyard_10,Leaf Blight,Test
+IMG_2847,healthy369.jpg,Vineyard_18,Leaf Blight,Train
+IMG_2848,healthy370.jpg,Vineyard_23,Leaf Blight,Train
+IMG_2849,healthy371.jpg,Vineyard_1,Leaf Blight,Train
+IMG_2850,healthy372.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2851,healthy373.jpg,Vineyard_16,Leaf Blight,Train
+IMG_2852,healthy374.jpg,Vineyard_26,Leaf Blight,Train
+IMG_2853,healthy375.jpg,Vineyard_7,Leaf Blight,Test
+IMG_2854,healthy376.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_2855,healthy377.jpg,Vineyard_20,Leaf Blight,Train
+IMG_2856,healthy378.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_2857,healthy379.jpg,Vineyard_5,Leaf Blight,Train
+IMG_2858,healthy380.jpg,Vineyard_5,Leaf Blight,Train
+IMG_2859,healthy381.jpg,Vineyard_7,Leaf Blight,Test
+IMG_2860,healthy382.jpg,Vineyard_6,Leaf Blight,Train
+IMG_2861,healthy383.jpg,Vineyard_5,Leaf Blight,Train
+IMG_2862,healthy384.jpg,Vineyard_5,Leaf Blight,Train
+IMG_2863,healthy385.jpg,Vineyard_4,Leaf Blight,Train
+IMG_2864,healthy386.jpg,Vineyard_17,Leaf Blight,Test
+IMG_2865,healthy387.jpg,Vineyard_6,Leaf Blight,Train
+IMG_2866,healthy388.jpg,Vineyard_7,Leaf Blight,Test
+IMG_2867,healthy389.jpg,Vineyard_17,Leaf Blight,Test
+IMG_2868,healthy390.jpg,Vineyard_26,Leaf Blight,Train
+IMG_2869,healthy391.jpg,Vineyard_9,Leaf Blight,Train
+IMG_2870,healthy392.jpg,Vineyard_12,Leaf Blight,Train
+IMG_2871,healthy393.jpg,Vineyard_23,Leaf Blight,Train
+IMG_2872,healthy394.jpg,Vineyard_9,Leaf Blight,Train
+IMG_2873,healthy395.jpg,Vineyard_1,Leaf Blight,Train
+IMG_2874,healthy396.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2875,healthy397.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_2876,healthy398.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2877,healthy399.jpg,Vineyard_12,Leaf Blight,Train
+IMG_2878,healthy400.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2879,healthy401.jpg,Vineyard_23,Leaf Blight,Train
+IMG_2880,healthy402.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_2881,healthy403.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2882,healthy404.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2883,healthy405.jpg,Vineyard_16,Leaf Blight,Train
+IMG_2884,healthy406.jpg,Vineyard_28,Leaf Blight,Train
+IMG_2885,healthy407.jpg,Vineyard_20,Leaf Blight,Train
+IMG_2886,healthy408.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2887,healthy409.jpg,Vineyard_21,Leaf Blight,Test
+IMG_2888,healthy410.jpg,Vineyard_25,Leaf Blight,Train
+IMG_2889,healthy411.jpg,Vineyard_6,Leaf Blight,Train
+IMG_2890,healthy412.jpg,Vineyard_7,Leaf Blight,Test
+IMG_2891,healthy413.jpg,Vineyard_2,Leaf Blight,Train
+IMG_2892,healthy414.jpg,Vineyard_17,Leaf Blight,Test
+IMG_2893,healthy415.jpg,Vineyard_9,Leaf Blight,Train
+IMG_2894,healthy416.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_2895,healthy417.jpg,Vineyard_17,Leaf Blight,Test
+IMG_2896,healthy418.jpg,Vineyard_4,Leaf Blight,Train
+IMG_2897,healthy419.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2898,healthy420.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_2899,healthy421.jpg,Vineyard_18,Leaf Blight,Train
+IMG_2900,healthy422.jpg,Vineyard_18,Leaf Blight,Train
+IMG_2901,healthy423.jpg,Vineyard_23,Leaf Blight,Train
+IMG_2902,healthy424.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_2903,healthy425.jpg,Vineyard_2,Leaf Blight,Train
+IMG_2904,healthy426.jpg,Vineyard_2,Leaf Blight,Train
+IMG_2905,healthy427.jpg,Vineyard_1,Leaf Blight,Train
+IMG_2906,healthy428.jpg,Vineyard_25,Leaf Blight,Train
+IMG_2907,healthy429.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2908,healthy430.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2909,healthy431.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_2910,healthy432.jpg,Vineyard_4,Leaf Blight,Train
+IMG_2911,healthy433.jpg,Vineyard_3,Leaf Blight,Train
+IMG_2912,healthy434.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_2913,healthy435.jpg,Vineyard_19,Leaf Blight,Train
+IMG_2914,healthy436.jpg,Vineyard_19,Leaf Blight,Train
+IMG_2915,healthy437.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2916,healthy438.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2917,healthy439.jpg,Vineyard_12,Leaf Blight,Train
+IMG_2918,healthy440.jpg,Vineyard_16,Leaf Blight,Train
+IMG_2919,healthy441.jpg,Vineyard_21,Leaf Blight,Test
+IMG_2920,healthy442.jpg,Vineyard_5,Leaf Blight,Train
+IMG_2921,healthy443.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2922,healthy444.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2923,healthy445.jpg,Vineyard_7,Leaf Blight,Test
+IMG_2924,healthy446.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2925,healthy447.jpg,Vineyard_16,Leaf Blight,Train
+IMG_2926,healthy448.jpg,Vineyard_27,Leaf Blight,Train
+IMG_2927,healthy449.jpg,Vineyard_28,Leaf Blight,Train
+IMG_2928,healthy450.jpg,Vineyard_19,Leaf Blight,Train
+IMG_2929,healthy451.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2930,healthy452.jpg,Vineyard_4,Leaf Blight,Train
+IMG_2931,healthy453.jpg,Vineyard_10,Leaf Blight,Test
+IMG_2932,healthy454.jpg,Vineyard_20,Leaf Blight,Train
+IMG_2933,healthy455.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_2934,healthy456.jpg,Vineyard_23,Leaf Blight,Train
+IMG_2935,healthy457.jpg,Vineyard_2,Leaf Blight,Train
+IMG_2936,healthy458.jpg,Vineyard_12,Leaf Blight,Train
+IMG_2937,healthy459.jpg,Vineyard_10,Leaf Blight,Test
+IMG_2938,healthy460.jpg,Vineyard_6,Leaf Blight,Train
+IMG_2939,healthy461.jpg,Vineyard_2,Leaf Blight,Train
+IMG_2940,healthy462.jpg,Vineyard_4,Leaf Blight,Train
+IMG_2941,healthy463.jpg,Vineyard_10,Leaf Blight,Test
+IMG_2942,healthy464.jpg,Vineyard_14,Leaf Blight,Train
+IMG_2943,healthy465.jpg,Vineyard_6,Leaf Blight,Train
+IMG_2944,healthy466.jpg,Vineyard_17,Leaf Blight,Test
+IMG_2945,healthy467.jpg,Vineyard_14,Leaf Blight,Train
+IMG_2946,healthy468.jpg,Vineyard_3,Leaf Blight,Train
+IMG_2947,healthy469.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2948,healthy470.jpg,Vineyard_16,Leaf Blight,Train
+IMG_2949,healthy471.jpg,Vineyard_23,Leaf Blight,Train
+IMG_2950,healthy472.jpg,Vineyard_27,Leaf Blight,Train
+IMG_2951,healthy473.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2952,healthy474.jpg,Vineyard_23,Leaf Blight,Train
+IMG_2953,healthy475.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2954,healthy476.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_2955,healthy477.jpg,Vineyard_21,Leaf Blight,Test
+IMG_2956,healthy478.jpg,Vineyard_1,Leaf Blight,Train
+IMG_2957,healthy479.jpg,Vineyard_17,Leaf Blight,Test
+IMG_2958,healthy480.jpg,Vineyard_27,Leaf Blight,Train
+IMG_2959,healthy481.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_2960,healthy482.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_2961,healthy483.jpg,Vineyard_21,Leaf Blight,Test
+IMG_2962,healthy484.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2963,healthy485.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_2964,healthy486.jpg,Vineyard_28,Leaf Blight,Train
+IMG_2965,healthy487.jpg,Vineyard_26,Leaf Blight,Train
+IMG_2966,healthy488.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_2967,healthy489.jpg,Vineyard_25,Leaf Blight,Train
+IMG_2968,healthy490.jpg,Vineyard_16,Leaf Blight,Train
+IMG_2969,healthy491.jpg,Vineyard_14,Leaf Blight,Train
+IMG_2970,healthy492.jpg,Vineyard_27,Leaf Blight,Train
+IMG_2971,healthy493.jpg,Vineyard_6,Leaf Blight,Train
+IMG_2972,healthy494.jpg,Vineyard_6,Leaf Blight,Train
+IMG_2973,healthy495.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_2974,healthy496.jpg,Vineyard_9,Leaf Blight,Train
+IMG_2975,healthy497.jpg,Vineyard_14,Leaf Blight,Train
+IMG_2976,healthy498.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2977,healthy499.jpg,Vineyard_26,Leaf Blight,Train
+IMG_2978,healthy500.jpg,Vineyard_28,Leaf Blight,Train
+IMG_2979,healthy501.jpg,Vineyard_21,Leaf Blight,Test
+IMG_2980,healthy502.jpg,Vineyard_5,Leaf Blight,Train
+IMG_2981,healthy503.jpg,Vineyard_1,Leaf Blight,Train
+IMG_2982,healthy504.jpg,Vineyard_9,Leaf Blight,Train
+IMG_2983,healthy505.jpg,Vineyard_3,Leaf Blight,Train
+IMG_2984,healthy506.jpg,Vineyard_18,Leaf Blight,Train
+IMG_2985,healthy507.jpg,Vineyard_20,Leaf Blight,Train
+IMG_2986,healthy508.jpg,Vineyard_2,Leaf Blight,Train
+IMG_2987,healthy509.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_2988,healthy510.jpg,Vineyard_24,Leaf Blight,Train
+IMG_2989,healthy511.jpg,Vineyard_9,Leaf Blight,Train
+IMG_2990,healthy512.jpg,Vineyard_3,Leaf Blight,Train
+IMG_2991,healthy513.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_2992,healthy514.jpg,Vineyard_6,Leaf Blight,Train
+IMG_2993,healthy515.jpg,Vineyard_26,Leaf Blight,Train
+IMG_2994,healthy516.jpg,Vineyard_16,Leaf Blight,Train
+IMG_2995,healthy517.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2996,healthy518.jpg,Vineyard_18,Leaf Blight,Train
+IMG_2997,healthy519.jpg,Vineyard_15,Leaf Blight,Train
+IMG_2998,healthy520.jpg,Vineyard_27,Leaf Blight,Train
+IMG_2999,healthy521.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3000,healthy522.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3001,healthy523.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3002,healthy524.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3003,healthy525.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3004,healthy526.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3005,healthy527.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3006,healthy528.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3007,healthy529.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3008,healthy530.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3009,healthy531.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3010,healthy532.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3011,healthy533.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3012,healthy534.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3013,healthy535.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3014,healthy536.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3015,healthy537.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3016,healthy538.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3017,healthy539.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3018,healthy540.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3019,healthy541.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3020,healthy542.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3021,healthy543.jpg,Vineyard_18,Leaf Blight,Train
+IMG_3022,healthy544.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3023,healthy545.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3024,healthy546.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3025,healthy547.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3026,healthy548.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3027,healthy549.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3028,healthy550.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3029,healthy551.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3030,healthy552.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3031,healthy553.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3032,healthy554.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3033,healthy555.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3034,healthy556.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3035,healthy557.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3036,healthy558.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3037,healthy559.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3038,healthy560.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3039,healthy561.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_3040,healthy562.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3041,healthy563.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3042,healthy564.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3043,healthy565.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3044,healthy566.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3045,healthy567.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3046,healthy568.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3047,healthy569.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3048,healthy570.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3049,healthy571.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3050,healthy572.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3051,healthy573.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3052,healthy574.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3053,healthy575.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3054,healthy576.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3055,healthy577.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3056,healthy578.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3057,healthy579.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3058,healthy580.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3059,healthy581.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3060,healthy582.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3061,healthy583.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3062,healthy584.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3063,healthy585.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_3064,healthy586.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3065,healthy587.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3066,healthy588.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3067,healthy589.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3068,healthy590.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3069,healthy591.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3070,healthy592.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3071,healthy593.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3072,healthy594.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3073,healthy595.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3074,healthy596.jpg,Vineyard_18,Leaf Blight,Train
+IMG_3075,healthy597.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3076,healthy598.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3077,healthy599.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3078,healthy600.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3079,healthy601.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3080,healthy602.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3081,healthy603.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3082,healthy604.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3083,healthy605.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3084,healthy606.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3085,healthy607.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3086,healthy608.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3087,healthy609.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3088,healthy610.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3089,healthy611.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3090,healthy612.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3091,healthy613.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3092,healthy614.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3093,healthy615.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3094,healthy616.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3095,healthy617.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3096,healthy618.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3097,healthy619.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3098,healthy620.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3099,healthy621.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3100,healthy622.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3101,healthy623.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3102,healthy624.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3103,healthy625.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3104,healthy626.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3105,healthy627.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3106,healthy628.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3107,healthy629.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3108,healthy630.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3109,healthy631.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3110,healthy632.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3111,healthy633.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3112,healthy634.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3113,healthy635.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3114,healthy636.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3115,healthy637.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3116,healthy638.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3117,healthy639.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3118,healthy640.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3119,healthy641.jpg,Vineyard_18,Leaf Blight,Train
+IMG_3120,healthy642.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3121,healthy643.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3122,healthy644.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3123,healthy645.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3124,healthy646.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3125,healthy647.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_3126,healthy648.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3127,healthy649.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3128,healthy650.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3129,healthy651.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3130,healthy652.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3131,healthy653.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3132,healthy654.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3133,healthy655.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3134,healthy656.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3135,healthy657.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3136,healthy658.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3137,healthy659.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3138,healthy660.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3139,healthy661.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3140,healthy662.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3141,healthy663.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3142,healthy664.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3143,healthy665.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3144,healthy666.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3145,healthy667.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3146,healthy668.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3147,healthy669.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3148,healthy670.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3149,healthy671.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3150,healthy672.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3151,healthy673.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_3152,healthy674.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3153,healthy675.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3154,healthy676.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3155,healthy677.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3156,healthy678.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3157,healthy679.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3158,healthy680.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3159,healthy681.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3160,healthy682.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3161,healthy683.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3162,healthy684.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3163,healthy685.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3164,healthy686.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3165,healthy687.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3166,healthy688.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_3167,healthy689.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3168,healthy690.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3169,healthy691.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3170,healthy692.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3171,healthy693.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3172,healthy694.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3173,healthy695.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3174,healthy696.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3175,healthy697.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3176,healthy698.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3177,healthy699.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3178,healthy700.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3179,healthy701.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3180,healthy702.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3181,healthy703.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3182,healthy704.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3183,healthy705.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3184,healthy706.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3185,healthy707.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3186,healthy708.jpg,Vineyard_18,Leaf Blight,Train
+IMG_3187,healthy709.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3188,healthy710.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3189,healthy711.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3190,healthy712.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3191,healthy713.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3192,healthy714.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3193,healthy715.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3194,healthy716.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3195,healthy717.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3196,healthy718.jpg,Vineyard_18,Leaf Blight,Train
+IMG_3197,healthy719.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3198,healthy720.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3199,healthy721.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3200,healthy722.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3201,healthy723.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3202,healthy724.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3203,healthy725.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3204,healthy726.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3205,healthy727.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3206,healthy728.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3207,healthy729.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3208,healthy730.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3209,healthy731.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3210,healthy732.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3211,healthy733.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3212,healthy734.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3213,healthy735.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3214,healthy736.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_3215,healthy737.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3216,healthy738.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3217,healthy739.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3218,healthy740.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3219,healthy741.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3220,healthy742.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3221,healthy743.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3222,healthy744.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3223,healthy745.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3224,healthy746.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3225,healthy747.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3226,healthy748.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3227,healthy749.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3228,healthy750.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3229,healthy751.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3230,healthy752.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3231,healthy753.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3232,healthy754.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3233,healthy755.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3234,healthy756.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3235,healthy757.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3236,healthy758.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3237,healthy759.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3238,healthy760.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3239,healthy761.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3240,healthy762.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3241,healthy763.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3242,healthy764.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3243,healthy765.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3244,healthy766.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3245,healthy767.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3246,healthy768.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3247,healthy769.jpg,Vineyard_18,Leaf Blight,Train
+IMG_3248,healthy770.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3249,healthy771.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3250,healthy772.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3251,healthy773.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3252,healthy774.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3253,healthy775.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3254,healthy776.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3255,healthy777.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3256,healthy778.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3257,healthy779.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3258,healthy780.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3259,healthy781.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3260,healthy782.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3261,healthy783.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3262,healthy784.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3263,healthy785.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3264,healthy786.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3265,healthy787.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3266,healthy788.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3267,healthy789.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3268,healthy790.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3269,healthy791.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3270,healthy792.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3271,healthy793.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3272,healthy794.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3273,healthy795.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3274,healthy796.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3275,healthy797.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3276,healthy798.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3277,healthy799.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3278,healthy800.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3279,healthy801.jpg,Vineyard_18,Leaf Blight,Train
+IMG_3280,healthy802.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3281,healthy803.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3282,healthy804.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3283,healthy805.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3284,healthy806.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3285,healthy807.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3286,healthy808.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3287,healthy809.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3288,healthy810.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3289,healthy811.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3290,healthy812.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3291,healthy813.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3292,healthy814.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3293,healthy815.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3294,healthy816.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3295,healthy817.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3296,healthy818.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3297,healthy819.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3298,healthy820.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3299,healthy821.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3300,healthy822.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3301,healthy823.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3302,healthy824.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3303,healthy825.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3304,healthy826.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3305,healthy827.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3306,healthy828.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3307,healthy829.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3308,healthy830.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3309,healthy831.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3310,healthy832.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3311,healthy833.jpg,Vineyard_18,Leaf Blight,Train
+IMG_3312,healthy834.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3313,healthy835.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3314,healthy836.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3315,healthy837.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3316,healthy838.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3317,healthy839.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3318,healthy840.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3319,healthy841.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3320,healthy842.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3321,healthy843.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3322,healthy844.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3323,healthy845.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3324,healthy846.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3325,healthy847.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3326,healthy848.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3327,healthy849.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3328,healthy850.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3329,healthy851.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3330,healthy852.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3331,healthy853.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3332,healthy854.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3333,healthy855.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3334,healthy856.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3335,healthy857.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3336,healthy858.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3337,healthy859.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3338,healthy860.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3339,healthy861.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3340,healthy862.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3341,healthy863.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3342,healthy864.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3343,healthy865.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3344,healthy866.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3345,healthy867.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3346,healthy868.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3347,healthy869.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3348,healthy870.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3349,healthy871.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3350,healthy872.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3351,healthy873.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3352,healthy874.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3353,healthy875.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3354,healthy876.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3355,healthy877.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3356,healthy878.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3357,healthy879.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3358,healthy880.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3359,healthy881.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3360,healthy882.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3361,healthy883.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3362,healthy884.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3363,healthy885.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3364,healthy886.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3365,healthy887.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3366,healthy888.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3367,healthy889.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3368,healthy890.jpg,Vineyard_5,Leaf Blight,Train
+IMG_3369,healthy891.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3370,healthy892.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3371,healthy893.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3372,healthy894.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3373,healthy895.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3374,healthy896.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3375,healthy897.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3376,healthy898.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3377,healthy899.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3378,healthy900.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3379,healthy901.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3380,healthy902.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3381,healthy903.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3382,healthy904.jpg,Vineyard_28,Leaf Blight,Train
+IMG_3383,healthy905.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3384,healthy906.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3385,healthy907.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3386,healthy908.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3387,healthy909.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3388,healthy910.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3389,healthy911.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3390,healthy912.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3391,healthy913.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3392,healthy914.jpg,Vineyard_27,Leaf Blight,Train
+IMG_3393,healthy915.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3394,healthy916.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3395,healthy917.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3396,healthy918.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3397,healthy919.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3398,healthy920.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3399,healthy921.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3400,healthy922.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3401,healthy923.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3402,healthy924.jpg,Vineyard_16,Leaf Blight,Train
+IMG_3403,healthy925.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_3404,healthy926.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3405,healthy927.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3406,healthy928.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3407,healthy929.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3408,healthy930.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3409,healthy931.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3410,healthy932.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3411,healthy933.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3412,healthy934.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3413,healthy935.jpg,Vineyard_19,Leaf Blight,Train
+IMG_3414,healthy936.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3415,healthy937.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3416,healthy938.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3417,healthy939.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3418,healthy940.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3419,healthy941.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3420,healthy942.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3421,healthy943.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3422,healthy944.jpg,Vineyard_3,Leaf Blight,Train
+IMG_3423,healthy945.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3424,healthy946.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3425,healthy947.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3426,healthy948.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3427,healthy949.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3428,healthy950.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3429,healthy951.jpg,Vineyard_10,Leaf Blight,Test
+IMG_3430,healthy952.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3431,healthy953.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3432,healthy954.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3433,healthy955.jpg,Vineyard_7,Leaf Blight,Test
+IMG_3434,healthy956.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3435,healthy957.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3436,healthy958.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3437,healthy959.jpg,Vineyard_17,Leaf Blight,Test
+IMG_3438,healthy960.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3439,healthy961.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3440,healthy962.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3441,healthy963.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3442,healthy964.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3443,healthy965.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3444,healthy966.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_3445,healthy967.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_3446,healthy968.jpg,Vineyard_11,Leaf Blight,Validation
+IMG_3447,healthy969.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3448,healthy970.jpg,Vineyard_14,Leaf Blight,Train
+IMG_3449,healthy971.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3450,healthy972.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3451,healthy973.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3452,healthy974.jpg,Vineyard_13,Leaf Blight,Validation
+IMG_3453,healthy975.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3454,healthy976.jpg,Vineyard_12,Leaf Blight,Train
+IMG_3455,healthy977.jpg,Vineyard_22,Leaf Blight,Validation
+IMG_3456,healthy978.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3457,healthy979.jpg,Vineyard_20,Leaf Blight,Train
+IMG_3458,healthy980.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3459,healthy981.jpg,Vineyard_26,Leaf Blight,Train
+IMG_3460,healthy982.jpg,Vineyard_8,Leaf Blight,Validation
+IMG_3461,healthy983.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3462,healthy984.jpg,Vineyard_6,Leaf Blight,Train
+IMG_3463,healthy985.jpg,Vineyard_1,Leaf Blight,Train
+IMG_3464,healthy986.jpg,Vineyard_23,Leaf Blight,Train
+IMG_3465,healthy987.jpg,Vineyard_18,Leaf Blight,Train
+IMG_3466,healthy988.jpg,Vineyard_21,Leaf Blight,Test
+IMG_3467,healthy989.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3468,healthy990.jpg,Vineyard_25,Leaf Blight,Train
+IMG_3469,healthy991.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3470,healthy992.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3471,healthy993.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3472,healthy994.jpg,Vineyard_24,Leaf Blight,Train
+IMG_3473,healthy995.jpg,Vineyard_15,Leaf Blight,Train
+IMG_3474,healthy996.jpg,Vineyard_9,Leaf Blight,Train
+IMG_3475,healthy997.jpg,Vineyard_2,Leaf Blight,Train
+IMG_3476,healthy998.jpg,Vineyard_4,Leaf Blight,Train
+IMG_3477,healthy999.jpg,Vineyard_10,Leaf Blight,Test
