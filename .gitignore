@@ -27,6 +27,7 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/dataset_split.csv
 
 # Trained model artifacts
 *.keras
