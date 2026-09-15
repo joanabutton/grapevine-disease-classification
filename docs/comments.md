@@ -1,0 +1,2 @@
+- **Business canvas:** we are still referring to the old dataset in Evidence from Reality.
+- **Eval:** Evaluation is using the original metadata column and not the reconstructed test labels - we need to fix it.
