@@ -1,0 +1,8 @@
+Metric,Score
+Test loss,0.6031185984611511
+Test accuracy,0.7347368421052631
+Macro precision,0.7244034822159822
+Macro recall,0.6968484933261974
+Macro F1,0.69857152281493
+Weighted F1,0.7411924753770442
+Majority-class accuracy baseline,0.32210526315789473

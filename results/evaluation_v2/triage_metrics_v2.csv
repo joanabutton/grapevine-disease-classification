@@ -1,0 +1,5 @@
+Metric,Score
+Disease precision,0.9755351681957186
+Disease recall,0.9906832298136646
+Disease F1,0.9830508474576272
+Proportion flagged for review,0.6884210526315789
