@@ -1,363 +1,363 @@
 Image_ID,image_filename,Vineyard,Disease_Type,Target_Class,metadata_agrees_with_target,Predicted_Class,Confidence,Correct,Probability_Black Rot,Probability_Esca,Probability_Healthy,Probability_Leaf Blight
-esca796.jpg,esca796.jpg,Vineyard_8,,Esca,,Esca,0.51048326,True,0.04575868,0.51048326,0.0015520857,0.44220597
-healthy826.jpg,healthy826.jpg,Vineyard_4,,Healthy,,Healthy,0.6286022,True,0.08576789,0.20399146,0.6286022,0.081638396
-healthy243.jpg,healthy243.jpg,Vineyard_28,,Healthy,,Healthy,0.9942891,True,6.940058e-07,0.005632491,0.9942891,7.7773526e-05
-esca151.jpg,esca151.jpg,Vineyard_28,,Esca,,Esca,0.95657414,True,6.3076895e-06,0.95657414,0.007348829,0.036070693
-healthy137.jpg,healthy137.jpg,Vineyard_12,,Healthy,,Healthy,0.9999818,True,7.73195e-12,1.807997e-05,0.9999818,2.245337e-08
-esca838.jpg,esca838.jpg,Vineyard_14,,Esca,,Esca,0.7227805,True,0.00527453,0.7227805,0.17554708,0.09639789
-esca326.jpg,esca326.jpg,Vineyard_24,,Esca,,Esca,0.7766224,True,0.0047596693,0.7766224,0.06858921,0.15002875
-black rot269.jpg,black rot269.jpg,Vineyard_19,,Black Rot,,Esca,0.40793288,False,0.25022435,0.40793288,0.04849636,0.29334635
-leaf blight239.jpg,leaf blight239.jpg,Vineyard_3,,Leaf Blight,,Leaf Blight,0.49607813,True,0.10920252,0.39321557,0.0015036992,0.49607813
-leaf blight411.jpg,leaf blight411.jpg,Vineyard_28,,Leaf Blight,,Esca,0.77831364,False,0.0008347613,0.77831364,0.00052011205,0.22033146
-esca482.jpg,esca482.jpg,Vineyard_19,,Esca,,Esca,0.56262267,True,0.10158783,0.56262267,0.061346173,0.2744433
-healthy458.jpg,healthy458.jpg,Vineyard_12,,Healthy,,Healthy,0.99991184,True,9.457872e-10,8.769232e-05,0.99991184,3.7641863e-07
-healthy792.jpg,healthy792.jpg,Vineyard_28,,Healthy,,Healthy,0.9995877,True,3.9907406e-09,0.0004101222,0.9995877,2.111293e-06
-leaf blight503.jpg,leaf blight503.jpg,Vineyard_19,,Leaf Blight,,Esca,0.76449484,False,0.0002145404,0.76449484,2.1395083e-05,0.2352692
-healthy771.jpg,healthy771.jpg,Vineyard_8,,Healthy,,Healthy,0.999834,True,3.3016074e-09,0.00016501965,0.999834,9.284736e-07
-leaf blight273.jpg,leaf blight273.jpg,Vineyard_8,,Leaf Blight,,Leaf Blight,0.62804216,True,0.009432112,0.36252365,2.0713544e-06,0.62804216
-healthy699.jpg,healthy699.jpg,Vineyard_11,,Healthy,,Healthy,0.99992806,True,4.3054185e-10,7.1679155e-05,0.99992806,2.414602e-07
-esca872.jpg,esca872.jpg,Vineyard_23,,Esca,,Esca,0.7900541,True,0.00015307638,0.7900541,6.886322e-05,0.209724
-healthy145.jpg,healthy145.jpg,Vineyard_17,,Healthy,,Healthy,0.941925,True,0.002887099,0.047769226,0.941925,0.0074186022
-leaf blight463.jpg,leaf blight463.jpg,Vineyard_21,,Leaf Blight,,Esca,0.5511089,False,0.010710129,0.5511089,0.00012939781,0.43805152
-black rot377.jpg,black rot377.jpg,Vineyard_6,,Black Rot,,Leaf Blight,0.637334,False,0.08272568,0.27982348,0.000116862895,0.637334
-healthy199.jpg,healthy199.jpg,Vineyard_24,,Healthy,,Healthy,0.99881154,True,1.91339e-09,0.0011838967,0.99881154,4.5266233e-06
-healthy952.jpg,healthy952.jpg,Vineyard_6,,Healthy,,Healthy,0.78011674,True,2.0403581e-06,0.21619938,0.78011674,0.0036817733
-healthy734.jpg,healthy734.jpg,Vineyard_9,,Healthy,,Healthy,0.98152304,True,0.0005871456,0.016188059,0.98152304,0.0017016961
-esca120.jpg,esca120.jpg,Vineyard_16,,Esca,,Esca,0.8143645,True,6.144203e-05,0.8143645,0.15191746,0.033656638
-esca338.jpg,esca338.jpg,Vineyard_22,,Esca,,Esca,0.9439365,True,3.9674064e-06,0.9439365,0.00033032778,0.05572913
-esca284.jpg,esca284.jpg,Vineyard_16,,Esca,,Esca,0.7119483,True,0.01137836,0.7119483,0.0058746296,0.27079865
-healthy811.jpg,healthy811.jpg,Vineyard_1,,Healthy,,Healthy,0.9974238,True,2.2647693e-09,0.0025648521,0.9974238,1.1248102e-05
-esca852.jpg,esca852.jpg,Vineyard_3,,Esca,,Esca,0.7744119,True,0.00086568506,0.7744119,0.00096530543,0.22375716
-healthy643.jpg,healthy643.jpg,Vineyard_21,,Healthy,,Esca,0.84156466,False,6.632213e-06,0.84156466,0.1386528,0.01977593
-healthy230.jpg,healthy230.jpg,Vineyard_26,,Healthy,,Healthy,0.998313,True,2.126961e-10,0.001683895,0.998313,3.127755e-06
-healthy415.jpg,healthy415.jpg,Vineyard_9,,Healthy,,Healthy,0.99960285,True,3.2888787e-09,0.0003950875,0.99960285,2.0590203e-06
-healthy280.jpg,healthy280.jpg,Vineyard_24,,Healthy,,Healthy,0.98283,True,6.794541e-05,0.016146064,0.98283,0.0009558994
-healthy292.jpg,healthy292.jpg,Vineyard_21,,Healthy,,Healthy,0.98106843,True,7.603119e-07,0.018601224,0.98106843,0.00032957635
-healthy107.jpg,healthy107.jpg,Vineyard_17,,Healthy,,Healthy,0.83713883,True,0.000471826,0.1512659,0.83713883,0.011123457
-esca819.jpg,esca819.jpg,Vineyard_3,,Esca,,Esca,0.9250022,True,6.3247576e-06,0.9250022,0.00014034128,0.07485108
-healthy963.jpg,healthy963.jpg,Vineyard_6,,Healthy,,Healthy,0.99999744,True,1.688725e-13,2.541772e-06,0.99999744,1.0948118e-09
-esca491.jpg,esca491.jpg,Vineyard_23,,Esca,,Healthy,0.8343069,False,7.602026e-06,0.16247621,0.8343069,0.0032092684
-esca458.jpg,esca458.jpg,Vineyard_12,,Esca,,Esca,0.553294,True,0.0029012104,0.553294,9.587457e-06,0.44379523
-healthy367.jpg,healthy367.jpg,Vineyard_14,,Healthy,,Healthy,0.9997882,True,3.2823547e-10,0.00021102792,0.9997882,6.6074585e-07
-esca575.jpg,esca575.jpg,Vineyard_19,,Esca,,Esca,0.6989036,True,6.211018e-06,0.6989036,2.606343e-08,0.30109006
-healthy164.jpg,healthy164.jpg,Vineyard_13,,Healthy,,Healthy,0.9977338,True,5.343507e-06,0.00218615,0.9977338,7.47834e-05
-healthy198.jpg,healthy198.jpg,Vineyard_10,,Healthy,,Healthy,0.99976724,True,1.5928878e-09,0.0002318546,0.99976724,9.631709e-07
-healthy390.jpg,healthy390.jpg,Vineyard_26,,Healthy,,Healthy,0.9460717,True,1.2026637e-06,0.05333405,0.9460717,0.00059295073
-healthy003.jpg,healthy003.jpg,Vineyard_28,,Healthy,,Healthy,0.99991053,True,1.4158061e-10,8.920697e-05,0.99991053,2.0910025e-07
-healthy245.jpg,healthy245.jpg,Vineyard_26,,Healthy,,Healthy,0.99955386,True,1.0768984e-08,0.0004429066,0.99955386,3.27458e-06
-healthy398.jpg,healthy398.jpg,Vineyard_24,,Healthy,,Healthy,0.99734503,True,2.790076e-06,0.0025755074,0.99734503,7.670683e-05
-healthy028.jpg,healthy028.jpg,Vineyard_7,,Healthy,,Healthy,0.99995404,True,1.2556381e-11,4.5867495e-05,0.99995404,5.123502e-08
-healthy569.jpg,healthy569.jpg,Vineyard_28,,Healthy,,Healthy,0.9949885,True,4.28285e-05,0.0047075404,0.9949885,0.00026103389
-leaf blight241.jpg,leaf blight241.jpg,Vineyard_1,,Leaf Blight,,Leaf Blight,0.60128844,True,0.30950034,0.08918406,2.7078062e-05,0.60128844
-esca027.jpg,esca027.jpg,Vineyard_23,,Esca,,Esca,0.8114644,True,4.9749644e-05,0.8114644,5.0738072e-05,0.18843502
-esca262.jpg,esca262.jpg,Vineyard_27,,Esca,,Esca,0.781553,True,0.0019915965,0.781553,0.0014631223,0.21499236
-esca227.jpg,esca227.jpg,Vineyard_13,,Esca,,Esca,0.70218277,True,0.0011651829,0.70218277,7.31882e-05,0.29657894
-healthy516.jpg,healthy516.jpg,Vineyard_16,,Healthy,,Healthy,0.99792117,True,3.5634233e-07,0.0020458035,0.99792117,3.266428e-05
-leaf blight041.jpg,leaf blight041.jpg,Vineyard_14,,Leaf Blight,,Esca,0.5047741,False,0.0020297167,0.5047741,4.2210518e-06,0.493192
-esca139.jpg,esca139.jpg,Vineyard_23,,Esca,,Esca,0.75440717,True,0.006628496,0.75440717,0.0085188765,0.23044556
-healthy936.jpg,healthy936.jpg,Vineyard_11,,Healthy,,Healthy,0.9999915,True,1.5658037e-12,8.426335e-06,0.9999915,6.6804886e-09
-esca539.jpg,esca539.jpg,Vineyard_18,,Esca,,Esca,0.6990961,True,0.004838229,0.6990961,0.00094213267,0.2951235
-black rot337.jpg,black rot337.jpg,Vineyard_2,,Black Rot,,Black Rot,0.6809317,True,0.6809317,0.07445857,0.0050898357,0.23952004
-healthy423.jpg,healthy423.jpg,Vineyard_23,,Healthy,,Healthy,0.9940304,True,0.0002848071,0.00522307,0.9940304,0.0004617064
-healthy661.jpg,healthy661.jpg,Vineyard_11,,Healthy,,Healthy,0.99985856,True,5.2606663e-10,0.00014099524,0.99985856,4.828295e-07
-healthy205.jpg,healthy205.jpg,Vineyard_24,,Healthy,,Healthy,0.996673,True,8.998132e-06,0.0031976325,0.996673,0.00012036602
-esca874.jpg,esca874.jpg,Vineyard_27,,Esca,,Esca,0.778806,True,0.0006827346,0.778806,0.15067737,0.06983388
-healthy818.jpg,healthy818.jpg,Vineyard_17,,Healthy,,Healthy,0.9998148,True,5.140987e-11,0.0001848016,0.9998148,2.9837693e-07
-esca255.jpg,esca255.jpg,Vineyard_13,,Esca,,Esca,0.6950338,True,0.000422877,0.6950338,2.8164186e-05,0.30451515
-healthy157.jpg,healthy157.jpg,Vineyard_26,,Healthy,,Healthy,0.99957913,True,3.658632e-11,0.0004202261,0.99957913,5.420527e-07
-black rot137.jpg,black rot137.jpg,Vineyard_3,,Black Rot,,Black Rot,0.85350066,True,0.85350066,0.006131,6.413454e-05,0.1403043
-healthy475.jpg,healthy475.jpg,Vineyard_15,,Healthy,,Healthy,0.99999803,True,3.2243732e-14,1.8626469e-06,0.99999803,5.952869e-10
-esca126.jpg,esca126.jpg,Vineyard_15,,Esca,,Esca,0.74866605,True,0.0048592365,0.74866605,0.0031269565,0.24334773
-healthy089.jpg,healthy089.jpg,Vineyard_13,,Healthy,,Healthy,0.9999766,True,1.8398657e-12,2.3373435e-05,0.9999766,1.7818415e-08
-esca406.jpg,esca406.jpg,Vineyard_1,,Esca,,Esca,0.7660617,True,0.0025105036,0.7660617,0.0028290031,0.22859879
-healthy465.jpg,healthy465.jpg,Vineyard_6,,Healthy,,Healthy,0.9995292,True,1.7437399e-08,0.00046724422,0.9995292,3.501101e-06
-esca353.jpg,esca353.jpg,Vineyard_23,,Esca,,Esca,0.6465902,True,0.0017035259,0.6465902,5.930231e-05,0.351647
-healthy600.jpg,healthy600.jpg,Vineyard_15,,Healthy,,Healthy,0.9999897,True,2.4940523e-12,1.0235138e-05,0.9999897,9.3050465e-09
-healthy339.jpg,healthy339.jpg,Vineyard_12,,Healthy,,Healthy,0.62744033,True,3.087646e-05,0.36254534,0.62744033,0.009983397
-healthy989.jpg,healthy989.jpg,Vineyard_4,,Healthy,,Healthy,0.9998267,True,2.4161617e-10,0.00017278222,0.9998267,4.5682373e-07
-leaf blight117.jpg,leaf blight117.jpg,Vineyard_15,,Leaf Blight,,Leaf Blight,0.70295185,True,0.061640546,0.23539965,7.92141e-06,0.70295185
-healthy794.jpg,healthy794.jpg,Vineyard_25,,Healthy,,Healthy,0.9999215,True,1.2769188e-10,7.829178e-05,0.9999215,1.595982e-07
-healthy127.jpg,healthy127.jpg,Vineyard_16,,Healthy,,Healthy,0.96456724,True,4.4726425e-05,0.03363928,0.96456724,0.0017487297
-esca305.jpg,esca305.jpg,Vineyard_6,,Esca,,Esca,0.6813609,True,6.8301466e-05,0.6813609,2.5400773e-06,0.31856826
-healthy855.jpg,healthy855.jpg,Vineyard_27,,Healthy,,Healthy,0.9995509,True,1.728043e-09,0.00044729607,0.9995509,1.8325314e-06
-healthy1074.jpg,healthy1074.jpg,Vineyard_22,,Healthy,,Healthy,0.99998766,True,4.4258555e-12,1.22579295e-05,0.99998766,1.3076394e-08
-healthy1087.jpg,healthy1087.jpg,Vineyard_24,,Healthy,,Healthy,0.99482524,True,3.1433858e-06,0.0050367084,0.99482524,0.00013497983
-healthy915.jpg,healthy915.jpg,Vineyard_24,,Healthy,,Healthy,0.98652357,True,3.352379e-07,0.013357098,0.98652357,0.00011896783
-esca583.jpg,esca583.jpg,Vineyard_10,,Esca,,Esca,0.8056567,True,0.0035078374,0.8056567,0.01361488,0.1772206
-esca579.jpg,esca579.jpg,Vineyard_23,,Esca,,Healthy,0.51472014,False,1.3201896e-05,0.47597885,0.51472014,0.00928779
-esca219.jpg,esca219.jpg,Vineyard_15,,Esca,,Esca,0.80050457,True,2.3276134e-05,0.80050457,8.1561875e-06,0.19946402
-black rot769.jpg,black rot769.jpg,Vineyard_9,,Black Rot,,Leaf Blight,0.58004916,False,0.1594247,0.26002362,0.0005025504,0.58004916
-healthy668.jpg,healthy668.jpg,Vineyard_9,,Healthy,,Healthy,0.99250656,True,0.00010986569,0.0069015427,0.99250656,0.00048203167
-esca766.jpg,esca766.jpg,Vineyard_28,,Esca,,Esca,0.6324808,True,0.015035671,0.6324808,0.0023387824,0.35014483
-healthy479.jpg,healthy479.jpg,Vineyard_17,,Healthy,,Healthy,0.9870837,True,1.0035504e-07,0.012798626,0.9870837,0.000117678304
-healthy010.jpg,healthy010.jpg,Vineyard_19,,Healthy,,Healthy,0.973708,True,1.0303852e-06,0.025962697,0.973708,0.00032826888
-esca815.jpg,esca815.jpg,Vineyard_25,,Esca,,Esca,0.6743387,True,0.0045604543,0.6743387,0.00072437694,0.3203764
-esca051.jpg,esca051.jpg,Vineyard_6,,Esca,,Esca,0.7828219,True,0.0011802105,0.7828219,0.0006725256,0.21532537
-esca102.jpg,esca102.jpg,Vineyard_1,,Esca,,Esca,0.7244722,True,0.006357969,0.7244722,0.0033039,0.26586595
-leaf blight647.jpg,leaf blight647.jpg,Vineyard_27,,Leaf Blight,,Leaf Blight,0.6105335,True,0.124560796,0.26476604,0.00013975502,0.6105335
-healthy345.jpg,healthy345.jpg,Vineyard_1,,Healthy,,Healthy,0.9996797,True,4.3987572e-10,0.00031950383,0.9996797,8.5324973e-07
-esca635.jpg,esca635.jpg,Vineyard_18,,Esca,,Leaf Blight,0.6197556,False,0.022413129,0.35781717,1.4096857e-05,0.6197556
-leaf blight157.jpg,leaf blight157.jpg,Vineyard_10,,Leaf Blight,,Esca,0.38189584,False,0.22244002,0.38189584,0.02420149,0.3714626
-healthy130.jpg,healthy130.jpg,Vineyard_11,,Healthy,,Healthy,0.9579429,True,3.4002903e-07,0.041547906,0.9579429,0.0005087598
-esca466.jpg,esca466.jpg,Vineyard_5,,Esca,,Esca,0.8640921,True,1.274971e-05,0.8640921,8.727444e-06,0.13588633
-leaf blight099.jpg,leaf blight099.jpg,Vineyard_25,,Leaf Blight,,Leaf Blight,0.5572922,True,0.043752797,0.3987763,0.00017858758,0.5572922
-esca446.jpg,esca446.jpg,Vineyard_26,,Esca,,Esca,0.7139923,True,0.0068917554,0.7139923,0.0030515671,0.27606446
-healthy847.jpg,healthy847.jpg,Vineyard_26,,Healthy,,Healthy,0.9998688,True,1.8458494e-09,0.00013058244,0.9998688,5.445672e-07
-esca799.jpg,esca799.jpg,Vineyard_16,,Esca,,Esca,0.77612805,True,1.47523515e-05,0.77612805,4.5319737e-07,0.2238567
-healthy231.jpg,healthy231.jpg,Vineyard_10,,Healthy,,Healthy,0.93554485,True,0.003103886,0.053010486,0.93554485,0.008340822
-healthy483.jpg,healthy483.jpg,Vineyard_21,,Healthy,,Healthy,0.9998924,True,1.2645265e-09,0.0001070596,0.9998924,4.373074e-07
-healthy995.jpg,healthy995.jpg,Vineyard_15,,Healthy,,Healthy,0.99909437,True,1.5854384e-08,0.0008988166,0.99909437,6.7370756e-06
-esca184.jpg,esca184.jpg,Vineyard_26,,Esca,,Esca,0.8981288,True,9.6562864e-05,0.8981288,0.053743243,0.04803144
-healthy445.jpg,healthy445.jpg,Vineyard_7,,Healthy,,Healthy,0.99889714,True,1.3439454e-07,0.0010880117,0.99889714,1.4807912e-05
-healthy135.jpg,healthy135.jpg,Vineyard_21,,Healthy,,Healthy,0.9993349,True,1.2613542e-07,0.00065638655,0.9993349,8.602239e-06
-leaf blight415.jpg,leaf blight415.jpg,Vineyard_3,,Leaf Blight,,Esca,0.7854234,False,7.30824e-05,0.7854234,1.7655575e-05,0.21448575
-esca473.jpg,esca473.jpg,Vineyard_17,,Esca,,Esca,0.79488796,True,0.00020549724,0.79488796,0.16656168,0.038344804
-esca736.jpg,esca736.jpg,Vineyard_4,,Esca,,Esca,0.587079,True,0.008599228,0.587079,0.00022230725,0.40409958
-esca597.jpg,esca597.jpg,Vineyard_9,,Esca,,Esca,0.9081366,True,0.0001618788,0.9081366,0.011871927,0.07982958
-healthy239.jpg,healthy239.jpg,Vineyard_9,,Healthy,,Healthy,0.9981759,True,4.090368e-07,0.0017945118,0.9981759,2.9117607e-05
-healthy100.jpg,healthy100.jpg,Vineyard_19,,Healthy,,Healthy,0.9996087,True,4.4368036e-08,0.00038735478,0.9996087,3.9862657e-06
-leaf blight471.jpg,leaf blight471.jpg,Vineyard_26,,Leaf Blight,,Esca,0.6499709,False,0.0017910313,0.6499709,0.000117711126,0.34812042
-healthy916.jpg,healthy916.jpg,Vineyard_8,,Healthy,,Healthy,0.9911574,True,0.00040047505,0.0076700896,0.9911574,0.00077206024
-healthy612.jpg,healthy612.jpg,Vineyard_26,,Healthy,,Healthy,0.93661314,True,2.461864e-08,0.063007995,0.93661314,0.00037878624
-esca376.jpg,esca376.jpg,Vineyard_8,,Esca,,Esca,0.90575254,True,0.00010371122,0.90575254,0.035406984,0.05873676
-healthy147.jpg,healthy147.jpg,Vineyard_27,,Healthy,,Healthy,0.9999054,True,6.5805104e-11,9.429268e-05,0.9999054,2.1569947e-07
-leaf blight089.jpg,leaf blight089.jpg,Vineyard_12,,Leaf Blight,,Black Rot,0.71256065,False,0.71256065,0.014197568,2.960533e-05,0.273212
-esca217.jpg,esca217.jpg,Vineyard_13,,Esca,,Esca,0.8680133,True,1.1000486e-05,0.8680133,3.677664e-05,0.13193904
-healthy210.jpg,healthy210.jpg,Vineyard_6,,Healthy,,Healthy,0.99947697,True,1.9795678e-10,0.00052189134,0.99947697,1.1022265e-06
-healthy042.jpg,healthy042.jpg,Vineyard_24,,Healthy,,Healthy,0.9999849,True,2.4190504e-12,1.5016497e-05,0.9999849,1.351491e-08
-esca304.jpg,esca304.jpg,Vineyard_10,,Esca,,Esca,0.64986485,True,0.0019043486,0.64986485,7.213833e-05,0.34815857
-healthy342.jpg,healthy342.jpg,Vineyard_21,,Healthy,,Healthy,0.9999904,True,4.6832462e-14,9.487345e-06,0.9999904,3.3655576e-09
-healthy434.jpg,healthy434.jpg,Vineyard_13,,Healthy,,Healthy,0.99998695,True,7.657419e-12,1.3023786e-05,0.99998695,1.6085242e-08
-healthy1050.jpg,healthy1050.jpg,Vineyard_20,,Healthy,,Healthy,0.965001,True,0.00044982997,0.031468716,0.965001,0.0030804523
-leaf blight669.jpg,leaf blight669.jpg,Vineyard_16,,Leaf Blight,,Esca,0.6286289,False,0.001720432,0.6286289,5.02741e-05,0.36960042
-leaf blight039.jpg,leaf blight039.jpg,Vineyard_19,,Leaf Blight,,Leaf Blight,0.6540028,True,0.04285314,0.30311912,2.5006599e-05,0.6540028
-esca851.jpg,esca851.jpg,Vineyard_26,,Esca,,Leaf Blight,0.5176957,False,0.00072038075,0.4815837,9.179526e-08,0.5176957
-healthy615.jpg,healthy615.jpg,Vineyard_9,,Healthy,,Healthy,0.9941159,True,1.6115099e-06,0.0057421597,0.9941159,0.00014031706
-healthy352.jpg,healthy352.jpg,Vineyard_4,,Healthy,,Healthy,0.9995665,True,7.461446e-12,0.00043313642,0.9995665,3.7031637e-07
-healthy387.jpg,healthy387.jpg,Vineyard_6,,Healthy,,Healthy,0.99972165,True,6.8631976e-09,0.00027665947,0.99972165,1.7543315e-06
-esca383.jpg,esca383.jpg,Vineyard_1,,Esca,,Esca,0.72893393,True,0.0126031265,0.72893393,0.01065098,0.24781206
-healthy762.jpg,healthy762.jpg,Vineyard_23,,Healthy,,Healthy,0.99999696,True,8.6382636e-14,3.011234e-06,0.99999696,1.1563445e-09
-healthy768.jpg,healthy768.jpg,Vineyard_12,,Healthy,,Healthy,0.9999413,True,5.4206962e-11,5.8534402e-05,0.9999413,1.0447764e-07
-esca346.jpg,esca346.jpg,Vineyard_8,,Esca,,Esca,0.9556964,True,8.6541895e-06,0.9556964,0.0052719833,0.039022923
-healthy562.jpg,healthy562.jpg,Vineyard_4,,Healthy,,Healthy,0.99998754,True,4.99877e-13,1.2352171e-05,0.99998754,7.3380604e-09
-leaf blight567.jpg,leaf blight567.jpg,Vineyard_20,,Leaf Blight,,Esca,0.5772431,False,0.0027813788,0.5772431,2.8237193e-05,0.41994718
-esca560.jpg,esca560.jpg,Vineyard_16,,Esca,,Esca,0.9141049,True,0.000102467864,0.9141049,0.033151325,0.05264139
-healthy061.jpg,healthy061.jpg,Vineyard_6,,Healthy,,Healthy,0.99954003,True,6.780907e-09,0.00045723817,0.99954003,2.73802e-06
-black rot521.jpg,black rot521.jpg,Vineyard_19,,Black Rot,,Leaf Blight,0.46528417,False,0.17621954,0.35328197,0.005214343,0.46528417
-healthy834.jpg,healthy834.jpg,Vineyard_19,,Healthy,,Healthy,0.9913101,True,5.785788e-06,0.008439043,0.9913101,0.00024501697
-leaf blight521.jpg,leaf blight521.jpg,Vineyard_14,,Leaf Blight,,Esca,0.7124478,False,0.0004267774,0.7124478,3.6256846e-05,0.28708917
-esca259.jpg,esca259.jpg,Vineyard_25,,Esca,,Esca,0.66053677,True,0.0010616642,0.66053677,3.8624712e-05,0.33836296
-healthy092.jpg,healthy092.jpg,Vineyard_10,,Healthy,,Healthy,0.99999243,True,1.4736899e-12,7.46754e-06,0.99999243,5.985548e-09
-esca792.jpg,esca792.jpg,Vineyard_10,,Esca,,Esca,0.91168267,True,5.83666e-05,0.91168267,0.022854215,0.06540476
-healthy852.jpg,healthy852.jpg,Vineyard_12,,Healthy,,Healthy,0.99872845,True,5.4741006e-10,0.0012678391,0.99872845,3.678588e-06
-leaf blight645.jpg,leaf blight645.jpg,Vineyard_22,,Leaf Blight,,Leaf Blight,0.8335677,True,0.00445804,0.16197425,1.1295405e-09,0.8335677
-leaf blight661.jpg,leaf blight661.jpg,Vineyard_23,,Leaf Blight,,Esca,0.6624148,False,1.6908263e-05,0.6624148,2.1767518e-08,0.33756822
-healthy087.jpg,healthy087.jpg,Vineyard_22,,Healthy,,Healthy,0.99998146,True,6.061202e-13,1.8456914e-05,0.99998146,1.009756e-08
-esca487.jpg,esca487.jpg,Vineyard_16,,Esca,,Esca,0.62934434,True,0.02251206,0.62934434,0.004190538,0.3439531
-esca779.jpg,esca779.jpg,Vineyard_4,,Esca,,Esca,0.69549876,True,0.0017218445,0.69549876,0.00041298624,0.3023664
-healthy070.jpg,healthy070.jpg,Vineyard_9,,Healthy,,Healthy,0.999842,True,6.212301e-10,0.00015744068,0.999842,5.5487095e-07
-healthy194.jpg,healthy194.jpg,Vineyard_16,,Healthy,,Healthy,0.9999928,True,1.6685305e-13,7.1421523e-06,0.9999928,3.524648e-09
-esca632.jpg,esca632.jpg,Vineyard_19,,Esca,,Esca,0.5714488,True,0.0034375277,0.5714488,2.6398146e-05,0.4250873
-esca827.jpg,esca827.jpg,Vineyard_10,,Esca,,Esca,0.5683033,True,0.0057020034,0.5683033,0.00013955116,0.4258552
-esca562.jpg,esca562.jpg,Vineyard_4,,Esca,,Esca,0.592456,True,0.0011788788,0.592456,4.197391e-06,0.40636098
-esca761.jpg,esca761.jpg,Vineyard_24,,Esca,,Esca,0.5075502,True,0.01824268,0.5075502,0.00017560138,0.47403154
-healthy422.jpg,healthy422.jpg,Vineyard_18,,Healthy,,Healthy,0.9967317,True,3.394528e-05,0.003078849,0.9967317,0.00015542861
-healthy429.jpg,healthy429.jpg,Vineyard_15,,Healthy,,Healthy,0.9966561,True,1.1293806e-08,0.0033234784,0.9966561,2.031303e-05
-esca831.jpg,esca831.jpg,Vineyard_22,,Esca,,Esca,0.9813991,True,1.4472364e-07,0.9813991,0.0038743743,0.014726308
-esca035.jpg,esca035.jpg,Vineyard_11,,Esca,,Esca,0.76957315,True,1.650629e-06,0.76957315,0.21889797,0.011527233
-leaf blight035.jpg,leaf blight035.jpg,Vineyard_6,,Leaf Blight,,Leaf Blight,0.6543804,True,0.05516324,0.29043424,2.2079113e-05,0.6543804
-leaf blight515.jpg,leaf blight515.jpg,Vineyard_13,,Leaf Blight,,Esca,0.6449859,False,0.0068230946,0.6449859,0.00061921414,0.34757185
-esca676.jpg,esca676.jpg,Vineyard_14,,Esca,,Esca,0.769649,True,0.0034213539,0.769649,0.008205084,0.21872458
-esca655.jpg,esca655.jpg,Vineyard_2,,Esca,,Esca,0.5729268,True,0.00065199786,0.5729268,8.603565e-06,0.4264126
-healthy1044.jpg,healthy1044.jpg,Vineyard_25,,Healthy,,Healthy,0.99989706,True,9.684005e-11,0.00010263263,0.99989706,2.225264e-07
-healthy1065.jpg,healthy1065.jpg,Vineyard_22,,Healthy,,Healthy,0.99994916,True,1.884395e-11,5.0706276e-05,0.99994916,7.8785405e-08
-black rot423.jpg,black rot423.jpg,Vineyard_11,,Black Rot,,Black Rot,0.49241796,True,0.49241796,0.18023409,0.013819824,0.31352818
-esca065.jpg,esca065.jpg,Vineyard_3,,Esca,,Esca,0.91895646,True,0.00010844383,0.91895646,0.008908717,0.0720264
-esca451.jpg,esca451.jpg,Vineyard_3,,Esca,,Esca,0.5113799,True,0.020801233,0.5113799,0.00035380418,0.46746492
-healthy687.jpg,healthy687.jpg,Vineyard_17,,Healthy,,Healthy,0.9995013,True,2.9711904e-09,0.00049577287,0.9995013,2.8924835e-06
-esca670.jpg,esca670.jpg,Vineyard_23,,Esca,,Esca,0.5723201,True,0.07664987,0.5723201,0.08834141,0.26268855
-black rot203.jpg,black rot203.jpg,Vineyard_6,,Black Rot,,Esca,0.64620954,False,0.027895259,0.64620954,0.012782283,0.31311294
-black rot065.jpg,black rot065.jpg,Vineyard_24,,Black Rot,,Leaf Blight,0.5223455,False,0.41098487,0.06662604,4.3610184e-05,0.5223455
-esca555.jpg,esca555.jpg,Vineyard_18,,Esca,,Esca,0.81824213,True,2.7131282e-05,0.81824213,8.612274e-06,0.1817221
-leaf blight045.jpg,leaf blight045.jpg,Vineyard_3,,Leaf Blight,,Leaf Blight,0.48574296,True,0.036927246,0.47645172,0.0008780825,0.48574296
-healthy290.jpg,healthy290.jpg,Vineyard_13,,Healthy,,Healthy,0.9998893,True,1.7389781e-10,0.00011039324,0.9998893,2.793058e-07
-esca694.jpg,esca694.jpg,Vineyard_17,,Esca,,Leaf Blight,0.7271402,False,0.020801414,0.2520576,8.390133e-07,0.7271402
-healthy354.jpg,healthy354.jpg,Vineyard_5,,Healthy,,Healthy,0.9999551,True,1.3705804e-11,4.484615e-05,0.9999551,5.8925114e-08
-healthy247.jpg,healthy247.jpg,Vineyard_8,,Healthy,,Healthy,0.94364464,True,9.2808135e-05,0.053780787,0.94364464,0.0024817814
-esca109.jpg,esca109.jpg,Vineyard_27,,Esca,,Esca,0.804585,True,0.00027071405,0.804585,0.00012214553,0.1950222
-esca427.jpg,esca427.jpg,Vineyard_18,,Esca,,Esca,0.58864945,True,0.017932551,0.58864945,0.001605262,0.39181265
-esca135.jpg,esca135.jpg,Vineyard_8,,Esca,,Esca,0.5571052,True,0.02662629,0.5571052,0.0011758467,0.4150927
-esca661.jpg,esca661.jpg,Vineyard_2,,Esca,,Esca,0.50381494,True,0.0059987647,0.50381494,4.4253462e-05,0.49014205
-esca127.jpg,esca127.jpg,Vineyard_5,,Esca,,Esca,0.50362766,True,0.009229859,0.50362766,0.0001271303,0.48701543
-healthy656.jpg,healthy656.jpg,Vineyard_28,,Healthy,,Healthy,0.9994201,True,2.1414673e-08,0.00057521753,0.9994201,4.6982013e-06
-esca408.jpg,esca408.jpg,Vineyard_8,,Esca,,Esca,0.80014724,True,0.0018869172,0.80014724,0.00457241,0.19339344
-leaf blight481.jpg,leaf blight481.jpg,Vineyard_6,,Leaf Blight,,Esca,0.8814306,False,1.787145e-05,0.8814306,2.9333716e-05,0.11852218
-healthy707.jpg,healthy707.jpg,Vineyard_15,,Healthy,,Healthy,0.9999785,True,8.7342e-13,2.1442247e-05,0.9999785,1.5459339e-08
-esca713.jpg,esca713.jpg,Vineyard_8,,Esca,,Leaf Blight,0.75520295,False,3.9049224e-05,0.24475798,1.7469283e-13,0.75520295
-black rot153.jpg,black rot153.jpg,Vineyard_6,,Black Rot,,Esca,0.467368,False,0.12167229,0.467368,0.0063715014,0.40458816
-esca050.jpg,esca050.jpg,Vineyard_7,,Esca,,Esca,0.89565766,True,1.7504952e-05,0.89565766,0.00018374335,0.10414107
-esca101.jpg,esca101.jpg,Vineyard_16,,Esca,,Esca,0.88288444,True,0.00046694203,0.88288444,0.016090998,0.100557506
-esca784.jpg,esca784.jpg,Vineyard_10,,Esca,,Esca,0.85077393,True,0.00066454354,0.85077393,0.05511225,0.09344935
-healthy853.jpg,healthy853.jpg,Vineyard_8,,Healthy,,Healthy,0.9999724,True,2.4315144e-12,2.7493366e-05,0.9999724,2.3504693e-08
-esca504.jpg,esca504.jpg,Vineyard_12,,Esca,,Esca,0.73745465,True,0.0030064567,0.73745465,0.0013158353,0.25822288
-leaf blight375.jpg,leaf blight375.jpg,Vineyard_5,,Leaf Blight,,Esca,0.81238514,False,9.165203e-06,0.81238514,1.5040436e-06,0.18760403
-leaf blight275.jpg,leaf blight275.jpg,Vineyard_24,,Leaf Blight,,Leaf Blight,0.61534405,True,0.039617613,0.34498692,5.1464e-05,0.61534405
-healthy746.jpg,healthy746.jpg,Vineyard_8,,Healthy,,Healthy,0.99975747,True,3.2945362e-09,0.00024128011,0.99975747,1.2123141e-06
-esca547.jpg,esca547.jpg,Vineyard_15,,Esca,,Esca,0.5680393,True,0.0044493973,0.5680393,8.3845785e-05,0.4274275
-esca162.jpg,esca162.jpg,Vineyard_2,,Esca,,Esca,0.5699629,True,0.0043288516,0.5699629,6.600824e-05,0.42564234
-black rot407.jpg,black rot407.jpg,Vineyard_8,,Black Rot,,Black Rot,0.7754726,True,0.7754726,0.03123307,0.0013846307,0.19190964
-esca287.jpg,esca287.jpg,Vineyard_27,,Esca,,Esca,0.8769801,True,0.00053640245,0.8769801,0.004223921,0.1182595
-healthy677.jpg,healthy677.jpg,Vineyard_23,,Healthy,,Healthy,0.8985348,True,1.1111512e-05,0.09834459,0.8985348,0.0031096672
-leaf blight613.jpg,leaf blight613.jpg,Vineyard_14,,Leaf Blight,,Leaf Blight,0.62195647,True,0.025460828,0.35256585,1.6817095e-05,0.62195647
-esca829.jpg,esca829.jpg,Vineyard_22,,Esca,,Esca,0.81994814,True,0.0010023194,0.81994814,0.0025527244,0.17649685
-healthy973.jpg,healthy973.jpg,Vineyard_6,,Healthy,,Healthy,0.9999915,True,1.00353306e-13,8.414842e-06,0.9999915,2.90238e-09
-esca415.jpg,esca415.jpg,Vineyard_23,,Esca,,Esca,0.9167673,True,4.8501723e-05,0.9167673,0.001159234,0.08202489
-esca190.jpg,esca190.jpg,Vineyard_6,,Esca,,Esca,0.8625293,True,0.00039144192,0.8625293,0.05232627,0.084752955
-esca267.jpg,esca267.jpg,Vineyard_16,,Esca,,Healthy,0.67195183,False,8.744935e-05,0.3160722,0.67195183,0.01188854
-esca165.jpg,esca165.jpg,Vineyard_22,,Esca,,Esca,0.87296414,True,9.8036326e-05,0.87296414,0.0009432194,0.12599452
-healthy029.jpg,healthy029.jpg,Vineyard_15,,Healthy,,Healthy,0.99994034,True,2.6618124e-11,5.9430276e-05,0.99994034,7.883792e-08
-leaf blight433.jpg,leaf blight433.jpg,Vineyard_22,,Leaf Blight,,Esca,0.7193957,False,0.0052759405,0.7193957,0.0028102144,0.27251813
-healthy106.jpg,healthy106.jpg,Vineyard_4,,Healthy,,Healthy,0.8623544,True,0.00018360067,0.13025726,0.8623544,0.0072046835
-esca490.jpg,esca490.jpg,Vineyard_17,,Esca,,Esca,0.76750076,True,0.0016367828,0.76750076,0.0012345051,0.22962795
-black rot159.jpg,black rot159.jpg,Vineyard_18,,Black Rot,,Leaf Blight,0.5796923,False,0.113351375,0.30657038,0.00038588163,0.5796923
-healthy311.jpg,healthy311.jpg,Vineyard_16,,Healthy,,Healthy,0.9992022,True,9.848766e-09,0.00079235586,0.9992022,5.425477e-06
-healthy411.jpg,healthy411.jpg,Vineyard_6,,Healthy,,Healthy,0.7599427,True,6.194928e-05,0.23194848,0.7599427,0.008046897
-healthy392.jpg,healthy392.jpg,Vineyard_12,,Healthy,,Healthy,0.9999551,True,1.5065057e-11,4.4654273e-05,0.9999551,6.535379e-08
-healthy219.jpg,healthy219.jpg,Vineyard_26,,Healthy,,Healthy,0.9974848,True,6.240602e-08,0.0024873856,0.9974848,2.7660557e-05
-esca191.jpg,esca191.jpg,Vineyard_12,,Esca,,Esca,0.73225284,True,0.0064235097,0.73225284,0.0028423814,0.2584813
-healthy377.jpg,healthy377.jpg,Vineyard_20,,Healthy,,Healthy,0.9999673,True,5.6409916e-12,3.2688018e-05,0.9999673,3.343708e-08
-leaf blight587.jpg,leaf blight587.jpg,Vineyard_10,,Leaf Blight,,Esca,0.6495207,False,0.0059155948,0.6495207,0.0004887755,0.3440749
-healthy218.jpg,healthy218.jpg,Vineyard_8,,Healthy,,Healthy,0.99660254,True,7.1016984e-08,0.0033599043,0.99660254,3.7393766e-05
-healthy846.jpg,healthy846.jpg,Vineyard_7,,Healthy,,Healthy,0.9964914,True,1.0688507e-06,0.0034351845,0.9964914,7.238768e-05
-healthy026.jpg,healthy026.jpg,Vineyard_21,,Healthy,,Healthy,0.9998813,True,3.301863e-10,0.0001182811,0.9998813,3.1463526e-07
-esca574.jpg,esca574.jpg,Vineyard_26,,Esca,,Esca,0.6075221,True,3.5497478e-06,0.6075221,0.38230246,0.010171847
-esca752.jpg,esca752.jpg,Vineyard_27,,Esca,,Esca,0.6649247,True,1.3189843e-05,0.6649247,1.4616799e-08,0.33506203
-healthy151.jpg,healthy151.jpg,Vineyard_13,,Healthy,,Healthy,0.8935493,True,1.2365204e-07,0.10538425,0.8935493,0.0010662102
-healthy986.jpg,healthy986.jpg,Vineyard_23,,Healthy,,Healthy,0.99557537,True,5.6202515e-10,0.004412129,0.99557537,1.2404623e-05
-esca585.jpg,esca585.jpg,Vineyard_11,,Esca,,Esca,0.7192818,True,0.006195315,0.7192818,0.0049051973,0.26961762
-esca859.jpg,esca859.jpg,Vineyard_9,,Esca,,Esca,0.49656805,True,0.014203437,0.49656805,6.0308794e-05,0.4891682
-esca295.jpg,esca295.jpg,Vineyard_27,,Esca,,Esca,0.56320167,True,0.0014116773,0.56320167,1.1461487e-05,0.43537518
-healthy035.jpg,healthy035.jpg,Vineyard_21,,Healthy,,Healthy,0.95713836,True,0.0010125649,0.03723425,0.95713836,0.0046149287
-healthy862.jpg,healthy862.jpg,Vineyard_4,,Healthy,,Healthy,0.9999617,True,1.6685162e-10,3.811171e-05,0.9999617,9.5751034e-08
-leaf blight349.jpg,leaf blight349.jpg,Vineyard_15,,Leaf Blight,,Esca,0.5444238,False,0.0020743527,0.5444238,1.1339815e-05,0.45349059
-leaf blight531.jpg,leaf blight531.jpg,Vineyard_24,,Leaf Blight,,Esca,0.9228011,False,2.4924004e-05,0.9228011,0.0038860878,0.073287874
-esca781.jpg,esca781.jpg,Vineyard_21,,Esca,,Healthy,0.79501903,False,0.00080337154,0.18947622,0.79501903,0.014701394
-leaf blight227.jpg,leaf blight227.jpg,Vineyard_23,,Leaf Blight,,Leaf Blight,0.62456,True,0.072930455,0.30244803,6.1492865e-05,0.62456
-healthy752.jpg,healthy752.jpg,Vineyard_16,,Healthy,,Healthy,0.9996225,True,1.2558411e-09,0.00037597673,0.9996225,1.51432e-06
-healthy007.jpg,healthy007.jpg,Vineyard_7,,Healthy,,Healthy,0.99920946,True,1.4102253e-10,0.0007885141,0.99920946,1.990393e-06
-healthy726.jpg,healthy726.jpg,Vineyard_6,,Healthy,,Healthy,0.99564886,True,1.3893225e-07,0.0042901295,0.99564886,6.0775204e-05
-esca775.jpg,esca775.jpg,Vineyard_17,,Esca,,Esca,0.81285936,True,0.0020147155,0.81285936,0.0070590926,0.1780668
-esca436.jpg,esca436.jpg,Vineyard_17,,Esca,,Healthy,0.52942985,False,0.06371604,0.31127775,0.52942985,0.09557642
-healthy1048.jpg,healthy1048.jpg,Vineyard_10,,Healthy,,Healthy,0.9943818,True,4.3879758e-09,0.0056007206,0.9943818,1.7446659e-05
-healthy1063.jpg,healthy1063.jpg,Vineyard_10,,Healthy,,Healthy,0.9999978,True,5.3932896e-15,2.193876e-06,0.9999978,4.210464e-10
-healthy1054.jpg,healthy1054.jpg,Vineyard_15,,Healthy,,Healthy,0.99742055,True,3.6677724e-07,0.0025384799,0.99742055,4.0686213e-05
-esca072.jpg,esca072.jpg,Vineyard_22,,Esca,,Esca,0.57714945,True,0.0054334374,0.57714945,0.32220966,0.09520731
-healthy071.jpg,healthy071.jpg,Vineyard_23,,Healthy,,Healthy,0.9999983,True,4.2456154e-15,1.6276913e-06,0.9999983,2.7015787e-10
-esca437.jpg,esca437.jpg,Vineyard_8,,Esca,,Esca,0.686341,True,0.0014402948,0.686341,0.00021251196,0.3120062
-esca005.jpg,esca005.jpg,Vineyard_2,,Esca,,Esca,0.78831625,True,0.00037251753,0.78831625,0.00012305863,0.2111882
-black rot321.jpg,black rot321.jpg,Vineyard_10,,Black Rot,,Leaf Blight,0.6410207,False,0.18846956,0.1704331,7.6552686e-05,0.6410207
-healthy616.jpg,healthy616.jpg,Vineyard_4,,Healthy,,Healthy,0.98159164,True,2.506767e-05,0.017553309,0.98159164,0.00082997326
-healthy840.jpg,healthy840.jpg,Vineyard_17,,Healthy,,Healthy,0.9981771,True,1.4043049e-07,0.0017976442,0.9981771,2.513372e-05
-esca074.jpg,esca074.jpg,Vineyard_12,,Esca,,Esca,0.7467358,True,0.0007312883,0.7467358,0.00020252824,0.2523304
-healthy1108.jpg,healthy1108.jpg,Vineyard_18,,Healthy,,Healthy,0.9999718,True,1.4140784e-11,2.812741e-05,0.9999718,3.875673e-08
-esca553.jpg,esca553.jpg,Vineyard_8,,Esca,,Esca,0.7767459,True,0.004097065,0.7767459,0.0060624504,0.21309453
-leaf blight057.jpg,leaf blight057.jpg,Vineyard_4,,Leaf Blight,,Leaf Blight,0.6467872,True,0.2831227,0.07008256,7.529459e-06,0.6467872
-esca709.jpg,esca709.jpg,Vineyard_14,,Esca,,Esca,0.7465822,True,0.0074310293,0.7465822,0.007792644,0.2381942
-healthy755.jpg,healthy755.jpg,Vineyard_4,,Healthy,,Healthy,0.91017306,True,0.065370634,0.016270006,0.91017306,0.008186329
-healthy298.jpg,healthy298.jpg,Vineyard_23,,Healthy,,Healthy,0.99834615,True,2.6137563e-09,0.0016455668,0.99834615,8.20923e-06
-esca759.jpg,esca759.jpg,Vineyard_8,,Esca,,Esca,0.83648133,True,7.8167264e-05,0.83648133,0.00013036757,0.16331013
-esca211.jpg,esca211.jpg,Vineyard_6,,Esca,,Esca,0.7826871,True,0.0041054226,0.7826871,0.07219026,0.1410172
-healthy277.jpg,healthy277.jpg,Vineyard_13,,Healthy,,Healthy,0.92191964,True,5.979904e-07,0.07685334,0.92191964,0.0012263556
-healthy572.jpg,healthy572.jpg,Vineyard_28,,Healthy,,Healthy,0.999332,True,3.755136e-09,0.00066433026,0.999332,3.5382454e-06
-esca096.jpg,esca096.jpg,Vineyard_23,,Esca,,Leaf Blight,0.49348882,False,0.050367992,0.4552785,0.00086461555,0.49348882
-healthy819.jpg,healthy819.jpg,Vineyard_13,,Healthy,,Healthy,0.97610676,True,0.0004465979,0.02141158,0.97610676,0.0020350593
-esca042.jpg,esca042.jpg,Vineyard_5,,Esca,,Esca,0.84426886,True,0.0013511798,0.84426886,0.038575344,0.115804724
-esca017.jpg,esca017.jpg,Vineyard_5,,Esca,,Esca,0.63718325,True,0.02188693,0.63718325,0.0034028052,0.337527
-esca052.jpg,esca052.jpg,Vineyard_3,,Esca,,Esca,0.5288105,True,0.0046665645,0.5288105,3.584258e-05,0.46648708
-healthy698.jpg,healthy698.jpg,Vineyard_4,,Healthy,,Healthy,0.9991625,True,3.0688628e-07,0.00082360225,0.9991625,1.3579182e-05
-esca252.jpg,esca252.jpg,Vineyard_26,,Esca,,Esca,0.6342283,True,0.0012432735,0.6342283,0.31633052,0.048197966
-healthy395.jpg,healthy395.jpg,Vineyard_1,,Healthy,,Healthy,0.98968387,True,6.835466e-09,0.010265696,0.98968387,5.0367216e-05
-healthy095.jpg,healthy095.jpg,Vineyard_26,,Healthy,,Healthy,0.99587417,True,5.3816525e-06,0.0039956677,0.99587417,0.00012482033
-leaf blight505.jpg,leaf blight505.jpg,Vineyard_11,,Leaf Blight,,Esca,0.75163776,False,0.00101615,0.75163776,0.0003957105,0.24695042
-healthy464.jpg,healthy464.jpg,Vineyard_14,,Healthy,,Healthy,0.99984175,True,1.0596016e-09,0.0001576973,0.99984175,5.897187e-07
-leaf blight197.jpg,leaf blight197.jpg,Vineyard_7,,Leaf Blight,,Leaf Blight,0.65528095,True,0.08444209,0.2602438,3.3115706e-05,0.65528095
-healthy994.jpg,healthy994.jpg,Vineyard_24,,Healthy,,Healthy,0.99966407,True,6.3199154e-11,0.000335333,0.99966407,5.488525e-07
-healthy849.jpg,healthy849.jpg,Vineyard_21,,Healthy,,Healthy,0.99644005,True,2.1674043e-06,0.0034553371,0.99644005,0.00010255821
-healthy217.jpg,healthy217.jpg,Vineyard_10,,Healthy,,Healthy,0.999854,True,2.534016e-10,0.00014558641,0.999854,4.2360344e-07
-esca117.jpg,esca117.jpg,Vineyard_23,,Esca,,Esca,0.9719149,True,8.6743404e-07,0.9719149,0.00075334957,0.027330989
-esca445.jpg,esca445.jpg,Vineyard_3,,Esca,,Esca,0.86035174,True,0.00025431957,0.86035174,0.0028858106,0.13650812
-leaf blight355.jpg,leaf blight355.jpg,Vineyard_8,,Leaf Blight,,Esca,0.7720998,False,0.0014532277,0.7720998,0.0006939123,0.22575302
-esca061.jpg,esca061.jpg,Vineyard_17,,Esca,,Esca,0.7609508,True,0.0001480521,0.7609508,3.0056271e-05,0.23887114
-esca106.jpg,esca106.jpg,Vineyard_9,,Esca,,Esca,0.9144532,True,1.4822082e-05,0.9144532,0.047665056,0.037866864
-healthy620.jpg,healthy620.jpg,Vineyard_6,,Healthy,,Healthy,0.9839702,True,0.0004310579,0.01419593,0.9839702,0.0014027519
-leaf blight389.jpg,leaf blight389.jpg,Vineyard_11,,Leaf Blight,,Esca,0.8757198,False,0.0005927284,0.8757198,0.016532209,0.107155286
-healthy588.jpg,healthy588.jpg,Vineyard_14,,Healthy,,Healthy,0.99993366,True,2.8119895e-11,6.613104e-05,0.99993366,9.048015e-08
-leaf blight225.jpg,leaf blight225.jpg,Vineyard_23,,Leaf Blight,,Leaf Blight,0.6362806,True,0.030440172,0.33326972,9.434045e-06,0.6362806
-healthy718.jpg,healthy718.jpg,Vineyard_18,,Healthy,,Healthy,0.9999936,True,1.9943868e-13,6.2757917e-06,0.9999936,3.1159446e-09
-healthy570.jpg,healthy570.jpg,Vineyard_12,,Healthy,,Esca,0.92269087,False,4.9183196e-05,0.92269087,0.0099168485,0.06734305
-healthy586.jpg,healthy586.jpg,Vineyard_25,,Healthy,,Healthy,0.99975806,True,4.861122e-10,0.00024104497,0.99975806,7.785402e-07
-healthy123.jpg,healthy123.jpg,Vineyard_15,,Healthy,,Healthy,0.8717603,True,1.4548851e-06,0.12618716,0.8717603,0.002051009
-healthy710.jpg,healthy710.jpg,Vineyard_17,,Healthy,,Healthy,0.8469321,True,1.9297306e-07,0.1515924,0.8469321,0.0014753026
-healthy404.jpg,healthy404.jpg,Vineyard_15,,Healthy,,Healthy,0.99998647,True,1.4905747e-12,1.3467065e-05,0.99998647,9.737969e-09
-healthy590.jpg,healthy590.jpg,Vineyard_21,,Healthy,,Healthy,0.997102,True,2.5763349e-08,0.0028751283,0.997102,2.2718987e-05
-leaf blight445.jpg,leaf blight445.jpg,Vineyard_28,,Leaf Blight,,Esca,0.7445689,False,4.6400946e-05,0.7445689,1.2347615e-06,0.25538343
-healthy728.jpg,healthy728.jpg,Vineyard_17,,Healthy,,Healthy,0.99953395,True,1.10739265e-07,0.0004593291,0.99953395,6.5911695e-06
-healthy1058.jpg,healthy1058.jpg,Vineyard_11,,Healthy,,Healthy,0.9997499,True,2.2484416e-08,0.00024802162,0.9997499,2.1222588e-06
-esca070.jpg,esca070.jpg,Vineyard_11,,Esca,,Esca,0.7881172,True,0.0041710027,0.7881172,0.01121516,0.19649656
-esca090.jpg,esca090.jpg,Vineyard_3,,Esca,,Esca,0.5421465,True,0.0084019955,0.5421465,6.773232e-05,0.44938377
-leaf blight269.jpg,leaf blight269.jpg,Vineyard_4,,Leaf Blight,,Leaf Blight,0.671711,True,0.10638111,0.2218814,2.6490317e-05,0.671711
-healthy859.jpg,healthy859.jpg,Vineyard_25,,Healthy,,Healthy,0.9997513,True,6.7876177e-10,0.00024794985,0.9997513,8.1143963e-07
-esca093.jpg,esca093.jpg,Vineyard_2,,Esca,,Esca,0.80241334,True,0.0016597643,0.80241334,0.116267934,0.079658866
-esca164.jpg,esca164.jpg,Vineyard_1,,Esca,,Esca,0.75320995,True,0.0031055084,0.75320995,0.0015442179,0.24214037
-esca578.jpg,esca578.jpg,Vineyard_1,,Esca,,Esca,0.686471,True,0.0005454809,0.686471,0.26148865,0.05149479
-healthy585.jpg,healthy585.jpg,Vineyard_22,,Healthy,,Healthy,0.9994716,True,7.8123216e-11,0.00052733783,0.9994716,9.3478786e-07
-esca826.jpg,esca826.jpg,Vineyard_17,,Esca,,Esca,0.5004939,True,0.008587419,0.5004939,3.5101148e-05,0.49088356
-healthy456.jpg,healthy456.jpg,Vineyard_23,,Healthy,,Healthy,0.9990098,True,9.067192e-09,0.0009839999,0.9990098,6.0432308e-06
-healthy608.jpg,healthy608.jpg,Vineyard_14,,Healthy,,Healthy,0.99980015,True,3.8857872e-10,0.00019930804,0.99980015,6.029626e-07
-esca396.jpg,esca396.jpg,Vineyard_18,,Esca,,Esca,0.6714871,True,0.014816532,0.6714871,0.005274137,0.30842224
-leaf blight609.jpg,leaf blight609.jpg,Vineyard_13,,Leaf Blight,,Esca,0.57008564,False,0.0037482986,0.57008564,3.0357683e-05,0.42613572
-healthy647.jpg,healthy647.jpg,Vineyard_22,,Healthy,,Healthy,0.99990016,True,6.0329776e-11,9.9501354e-05,0.99990016,1.876586e-07
-esca841.jpg,esca841.jpg,Vineyard_25,,Esca,,Esca,0.78579694,True,4.6538724e-05,0.78579694,8.6738355e-06,0.21414778
-healthy109.jpg,healthy109.jpg,Vineyard_3,,Healthy,,Healthy,0.76190424,True,0.0052191857,0.20241275,0.76190424,0.030463746
-healthy293.jpg,healthy293.jpg,Vineyard_13,,Healthy,,Healthy,0.99918586,True,1.3735056e-10,0.0008124555,0.99918586,1.7002767e-06
-esca879.jpg,esca879.jpg,Vineyard_11,,Esca,,Esca,0.58539695,True,0.0026424434,0.58539695,4.543528e-05,0.41191512
-leaf blight327.jpg,leaf blight327.jpg,Vineyard_2,,Leaf Blight,,Leaf Blight,0.51605666,True,0.018296275,0.46559462,5.233666e-05,0.51605666
-black rot649.jpg,black rot649.jpg,Vineyard_4,,Black Rot,,Black Rot,0.3170636,True,0.3170636,0.2968059,0.13709898,0.24903154
-leaf blight329.jpg,leaf blight329.jpg,Vineyard_19,,Leaf Blight,,Esca,0.9183803,False,2.709926e-05,0.9183803,0.043179993,0.03841255
-healthy282.jpg,healthy282.jpg,Vineyard_20,,Healthy,,Healthy,0.99949485,True,1.3633176e-08,0.00050129846,0.99949485,3.756835e-06
-esca568.jpg,esca568.jpg,Vineyard_19,,Esca,,Esca,0.56184644,True,0.003234629,0.56184644,1.0164709e-05,0.43490875
-esca419.jpg,esca419.jpg,Vineyard_20,,Esca,,Esca,0.6482671,True,0.005840084,0.6482671,0.0007062056,0.34518662
-leaf blight209.jpg,leaf blight209.jpg,Vineyard_10,,Leaf Blight,,Leaf Blight,0.61991566,True,0.017078647,0.36300123,4.495384e-06,0.61991566
-healthy043.jpg,healthy043.jpg,Vineyard_28,,Healthy,,Healthy,0.9988964,True,7.785582e-10,0.0011002572,0.9988964,3.3116985e-06
-healthy207.jpg,healthy207.jpg,Vineyard_7,,Healthy,,Healthy,0.9999803,True,2.2713793e-13,1.9675836e-05,0.9999803,9.140157e-09
-healthy877.jpg,healthy877.jpg,Vineyard_3,,Healthy,,Black Rot,0.6910373,False,0.6910373,0.015180205,0.2660034,0.027779002
-healthy906.jpg,healthy906.jpg,Vineyard_8,,Healthy,,Healthy,0.8170317,True,5.5891828e-08,0.18163057,0.8170317,0.0013376514
-healthy384.jpg,healthy384.jpg,Vineyard_5,,Healthy,,Healthy,0.99995536,True,1.0606713e-11,4.460019e-05,0.99995536,5.9323654e-08
-esca414.jpg,esca414.jpg,Vineyard_15,,Esca,,Leaf Blight,0.60596275,False,0.008316761,0.3857185,2.0408843e-06,0.60596275
-esca261.jpg,esca261.jpg,Vineyard_3,,Esca,,Esca,0.5108176,True,0.032469627,0.5108176,0.0018183059,0.45489445
-healthy1105.jpg,healthy1105.jpg,Vineyard_11,,Healthy,,Healthy,0.96158534,True,7.022593e-05,0.03654095,0.96158534,0.0018034446
-esca519.jpg,esca519.jpg,Vineyard_14,,Esca,,Esca,0.7064257,True,0.0016417834,0.7064257,0.0006655132,0.29126686
-esca242.jpg,esca242.jpg,Vineyard_27,,Esca,,Leaf Blight,0.6905953,False,0.0023622513,0.30704236,2.5007372e-08,0.6905953
-esca410.jpg,esca410.jpg,Vineyard_28,,Esca,,Esca,0.62038875,True,0.01658205,0.62038875,0.0019283628,0.3611008
-leaf blight643.jpg,leaf blight643.jpg,Vineyard_19,,Leaf Blight,,Esca,0.59024024,False,2.4595347e-05,0.59024024,1.1564455e-08,0.40973508
-healthy985.jpg,healthy985.jpg,Vineyard_1,,Healthy,,Healthy,0.9997437,True,9.263574e-09,0.00025469088,0.9997437,1.6813277e-06
-esca347.jpg,esca347.jpg,Vineyard_1,,Esca,,Leaf Blight,0.5876078,False,0.0043720286,0.4080195,6.828184e-07,0.5876078
-leaf blight063.jpg,leaf blight063.jpg,Vineyard_19,,Leaf Blight,,Esca,0.5967956,False,0.010573306,0.5967956,0.00038905937,0.392242
-healthy225.jpg,healthy225.jpg,Vineyard_24,,Healthy,,Healthy,0.9995317,True,2.1657931e-10,0.00046687856,0.9995317,1.4117057e-06
-leaf blight553.jpg,leaf blight553.jpg,Vineyard_28,,Leaf Blight,,Esca,0.582453,False,0.0010383109,0.582453,1.4450915e-05,0.41649425
-leaf blight073.jpg,leaf blight073.jpg,Vineyard_11,,Leaf Blight,,Leaf Blight,0.7167776,True,0.017533282,0.2656881,1.0019129e-06,0.7167776
-esca400.jpg,esca400.jpg,Vineyard_8,,Esca,,Healthy,0.47121873,False,0.0054604546,0.44694835,0.47121873,0.07637249
-healthy636.jpg,healthy636.jpg,Vineyard_23,,Healthy,,Healthy,0.98857486,True,1.2489649e-05,0.010993607,0.98857486,0.00041905485
-esca618.jpg,esca618.jpg,Vineyard_17,,Esca,,Esca,0.4996837,True,0.0076396135,0.4996837,1.3997312e-05,0.49266267
-esca729.jpg,esca729.jpg,Vineyard_6,,Esca,,Esca,0.75597644,True,0.008037249,0.75597644,0.017294768,0.21869166
-healthy955.jpg,healthy955.jpg,Vineyard_7,,Healthy,,Healthy,0.9999741,True,3.8513363e-11,2.5837302e-05,0.9999741,5.0913012e-08
-healthy037.jpg,healthy037.jpg,Vineyard_18,,Healthy,,Healthy,0.9997231,True,1.225552e-08,0.00027502596,0.9997231,1.940462e-06
-leaf blight075.jpg,leaf blight075.jpg,Vineyard_22,,Leaf Blight,,Leaf Blight,0.75776833,True,0.066247925,0.17597932,4.374926e-06,0.75776833
-healthy1026.jpg,healthy1026.jpg,Vineyard_8,,Healthy,,Healthy,0.99942225,True,2.119743e-08,0.0005723083,0.99942225,5.355777e-06
-esca798.jpg,esca798.jpg,Vineyard_11,,Esca,,Esca,0.7442465,True,0.0037262235,0.7442465,0.00294964,0.24907774
-healthy546.jpg,healthy546.jpg,Vineyard_23,,Healthy,,Healthy,0.9999295,True,1.2566303e-11,7.032169e-05,0.9999295,9.294593e-08
-esca613.jpg,esca613.jpg,Vineyard_25,,Esca,,Esca,0.6884238,True,0.00045978502,0.6884238,1.7539987e-05,0.3110988
-esca683.jpg,esca683.jpg,Vineyard_11,,Esca,,Esca,0.7847147,True,0.0063017164,0.7847147,0.020671906,0.18831164
-leaf blight187.jpg,leaf blight187.jpg,Vineyard_21,,Leaf Blight,,Leaf Blight,0.6045586,True,0.032933068,0.362489,1.9176648e-05,0.6045586
-healthy108.jpg,healthy108.jpg,Vineyard_12,,Healthy,,Healthy,0.94119126,True,0.00019328055,0.054906346,0.94119126,0.0037090795
-black rot373.jpg,black rot373.jpg,Vineyard_22,,Black Rot,,Leaf Blight,0.64232725,False,0.017740615,0.33992553,6.6342855e-06,0.64232725
+esca796.jpg,esca796.jpg,Vineyard_8,,Esca,,Esca,0.48655444,True,0.06983857,0.48655444,0.005425526,0.4381814
+healthy826.jpg,healthy826.jpg,Vineyard_4,,Healthy,,Healthy,0.47763106,True,0.3142863,0.11884271,0.47763106,0.08923992
+healthy243.jpg,healthy243.jpg,Vineyard_28,,Healthy,,Healthy,0.80347854,True,0.00012681157,0.18341571,0.80347854,0.012978974
+esca151.jpg,esca151.jpg,Vineyard_28,,Esca,,Esca,0.8930981,True,2.6602722e-05,0.8930981,0.0038332425,0.10304198
+healthy137.jpg,healthy137.jpg,Vineyard_12,,Healthy,,Healthy,0.99976224,True,2.0296371e-09,0.00023523929,0.99976224,2.493897e-06
+esca838.jpg,esca838.jpg,Vineyard_14,,Esca,,Esca,0.6903607,True,0.01681638,0.6903607,0.08198946,0.2108334
+esca326.jpg,esca326.jpg,Vineyard_24,,Esca,,Esca,0.68245524,True,0.015927373,0.68245524,0.059943523,0.2416739
+black rot269.jpg,black rot269.jpg,Vineyard_19,,Black Rot,,Black Rot,0.5232768,True,0.5232768,0.18259646,0.036259413,0.25786722
+leaf blight239.jpg,leaf blight239.jpg,Vineyard_3,,Leaf Blight,,Leaf Blight,0.46509615,True,0.1718087,0.35710713,0.0059880516,0.46509615
+leaf blight411.jpg,leaf blight411.jpg,Vineyard_28,,Leaf Blight,,Esca,0.7193577,False,0.0018897691,0.7193577,0.0022940964,0.27645835
+esca482.jpg,esca482.jpg,Vineyard_19,,Esca,,Esca,0.40127736,True,0.23063125,0.40127736,0.11662066,0.2514708
+healthy458.jpg,healthy458.jpg,Vineyard_12,,Healthy,,Healthy,0.99809885,True,2.598457e-07,0.0018430443,0.99809885,5.785296e-05
+healthy792.jpg,healthy792.jpg,Vineyard_28,,Healthy,,Healthy,0.9971246,True,2.5648455e-07,0.0028049077,0.9971246,7.030784e-05
+leaf blight503.jpg,leaf blight503.jpg,Vineyard_19,,Leaf Blight,,Esca,0.7255044,False,0.0003762652,0.7255044,0.00014411818,0.2739752
+healthy771.jpg,healthy771.jpg,Vineyard_8,,Healthy,,Healthy,0.99839085,True,4.539401e-07,0.0015532846,0.99839085,5.536611e-05
+leaf blight273.jpg,leaf blight273.jpg,Vineyard_8,,Leaf Blight,,Leaf Blight,0.63941246,True,0.01798662,0.34257638,2.450874e-05,0.63941246
+healthy699.jpg,healthy699.jpg,Vineyard_11,,Healthy,,Healthy,0.99918574,True,6.4447e-08,0.00079588976,0.99918574,1.8284734e-05
+esca872.jpg,esca872.jpg,Vineyard_23,,Esca,,Esca,0.7077409,True,0.0003687852,0.7077409,0.00018635218,0.291704
+healthy145.jpg,healthy145.jpg,Vineyard_17,,Healthy,,Healthy,0.9351302,True,0.008140874,0.045523845,0.9351302,0.0112050185
+leaf blight463.jpg,leaf blight463.jpg,Vineyard_21,,Leaf Blight,,Esca,0.56800056,False,0.017883677,0.56800056,0.001188639,0.41292712
+black rot377.jpg,black rot377.jpg,Vineyard_6,,Black Rot,,Leaf Blight,0.598371,False,0.2095738,0.19155265,0.0005025069,0.598371
+healthy199.jpg,healthy199.jpg,Vineyard_24,,Healthy,,Healthy,0.9730743,True,3.7379962e-07,0.026338313,0.9730743,0.00058695895
+healthy952.jpg,healthy952.jpg,Vineyard_6,,Healthy,,Esca,0.60047805,False,4.1476607e-05,0.60047805,0.3576815,0.041798957
+healthy734.jpg,healthy734.jpg,Vineyard_9,,Healthy,,Healthy,0.9692952,True,0.003006361,0.023079319,0.9692952,0.0046190782
+esca120.jpg,esca120.jpg,Vineyard_16,,Esca,,Esca,0.78766733,True,0.00036134536,0.78766733,0.12289248,0.08907893
+esca338.jpg,esca338.jpg,Vineyard_22,,Esca,,Esca,0.878635,True,1.2806081e-05,0.878635,0.00034987682,0.12100237
+esca284.jpg,esca284.jpg,Vineyard_16,,Esca,,Esca,0.6499157,True,0.021333614,0.6499157,0.015566754,0.3131839
+healthy811.jpg,healthy811.jpg,Vineyard_1,,Healthy,,Healthy,0.9350544,True,6.209558e-07,0.06311688,0.9350544,0.0018280138
+esca852.jpg,esca852.jpg,Vineyard_3,,Esca,,Esca,0.6746835,True,0.0028585691,0.6746835,0.002345301,0.3201126
+healthy643.jpg,healthy643.jpg,Vineyard_21,,Healthy,,Esca,0.8783867,False,4.2750555e-05,0.8783867,0.024458893,0.097111724
+healthy230.jpg,healthy230.jpg,Vineyard_26,,Healthy,,Healthy,0.9621043,True,4.635595e-08,0.037456017,0.9621043,0.0004395667
+healthy415.jpg,healthy415.jpg,Vineyard_9,,Healthy,,Healthy,0.9973037,True,2.3153959e-07,0.0026269788,0.9973037,6.9079295e-05
+healthy280.jpg,healthy280.jpg,Vineyard_24,,Healthy,,Healthy,0.9635527,True,0.00063021155,0.031294968,0.9635527,0.004522073
+healthy292.jpg,healthy292.jpg,Vineyard_21,,Healthy,,Healthy,0.70204103,True,7.690121e-05,0.2734579,0.70204103,0.024424145
+healthy107.jpg,healthy107.jpg,Vineyard_17,,Healthy,,Healthy,0.69866365,True,0.003975789,0.25356424,0.69866365,0.04379636
+esca819.jpg,esca819.jpg,Vineyard_3,,Esca,,Esca,0.8456393,True,3.754968e-05,0.8456393,0.00039640605,0.15392685
+healthy963.jpg,healthy963.jpg,Vineyard_6,,Healthy,,Healthy,0.99995404,True,8.58849e-11,4.566393e-05,0.99995404,2.1979754e-07
+esca491.jpg,esca491.jpg,Vineyard_23,,Esca,,Healthy,0.50295496,False,0.00016103998,0.4639881,0.50295496,0.032895837
+esca458.jpg,esca458.jpg,Vineyard_12,,Esca,,Esca,0.58382565,True,0.003544634,0.58382565,0.00012027654,0.41250947
+healthy367.jpg,healthy367.jpg,Vineyard_14,,Healthy,,Healthy,0.99697363,True,5.8823872e-08,0.0029664342,0.99697363,5.9859758e-05
+esca575.jpg,esca575.jpg,Vineyard_19,,Esca,,Esca,0.6801894,True,9.627321e-06,0.6801894,4.6705944e-07,0.31980047
+healthy164.jpg,healthy164.jpg,Vineyard_13,,Healthy,,Healthy,0.99432796,True,5.749528e-05,0.0051407465,0.99432796,0.00047373684
+healthy198.jpg,healthy198.jpg,Vineyard_10,,Healthy,,Healthy,0.99851626,True,1.1888838e-07,0.0014524882,0.99851626,3.1193067e-05
+healthy390.jpg,healthy390.jpg,Vineyard_26,,Healthy,,Healthy,0.6307378,True,5.512463e-05,0.35342908,0.6307378,0.015778003
+healthy003.jpg,healthy003.jpg,Vineyard_28,,Healthy,,Healthy,0.99919456,True,1.5318882e-08,0.00079391967,0.99919456,1.1497077e-05
+healthy245.jpg,healthy245.jpg,Vineyard_26,,Healthy,,Healthy,0.9939267,True,1.5333561e-06,0.005823542,0.9939267,0.00024826007
+healthy398.jpg,healthy398.jpg,Vineyard_24,,Healthy,,Healthy,0.9926752,True,3.5810845e-05,0.0067059402,0.9926752,0.0005830157
+healthy028.jpg,healthy028.jpg,Vineyard_7,,Healthy,,Healthy,0.99900347,True,4.1548334e-09,0.0009883146,0.99900347,8.057594e-06
+healthy569.jpg,healthy569.jpg,Vineyard_28,,Healthy,,Healthy,0.9786657,True,0.00083630986,0.01776845,0.9786657,0.002729537
+leaf blight241.jpg,leaf blight241.jpg,Vineyard_1,,Leaf Blight,,Black Rot,0.5540754,False,0.5540754,0.036334846,7.7095545e-05,0.4095127
+esca027.jpg,esca027.jpg,Vineyard_23,,Esca,,Esca,0.7103492,True,9.3544935e-05,0.7103492,4.603115e-05,0.2895111
+esca262.jpg,esca262.jpg,Vineyard_27,,Esca,,Esca,0.7118375,True,0.0044195578,0.7118375,0.00475645,0.27898642
+esca227.jpg,esca227.jpg,Vineyard_13,,Esca,,Esca,0.681144,True,0.0025810886,0.681144,0.0008201396,0.3154549
+healthy516.jpg,healthy516.jpg,Vineyard_16,,Healthy,,Healthy,0.98435175,True,1.8753599e-05,0.014640727,0.98435175,0.0009887704
+leaf blight041.jpg,leaf blight041.jpg,Vineyard_14,,Leaf Blight,,Leaf Blight,0.54082716,True,0.0035027855,0.45564508,2.4922156e-05,0.54082716
+esca139.jpg,esca139.jpg,Vineyard_23,,Esca,,Esca,0.68249744,True,0.014361607,0.68249744,0.024680976,0.27846
+healthy936.jpg,healthy936.jpg,Vineyard_11,,Healthy,,Healthy,0.9997603,True,1.0579161e-09,0.00023777445,0.9997603,1.964602e-06
+esca539.jpg,esca539.jpg,Vineyard_18,,Esca,,Esca,0.6563875,True,0.0094798375,0.6563875,0.004086837,0.33004576
+black rot337.jpg,black rot337.jpg,Vineyard_2,,Black Rot,,Black Rot,0.7952499,True,0.7952499,0.04044293,0.005495532,0.15881154
+healthy423.jpg,healthy423.jpg,Vineyard_23,,Healthy,,Healthy,0.9819697,True,0.0023198132,0.013283927,0.9819697,0.0024265593
+healthy661.jpg,healthy661.jpg,Vineyard_11,,Healthy,,Healthy,0.99809754,True,1.14009936e-07,0.0018588599,0.99809754,4.344107e-05
+healthy205.jpg,healthy205.jpg,Vineyard_24,,Healthy,,Healthy,0.99238086,True,0.0001029475,0.0068363613,0.99238086,0.0006797465
+esca874.jpg,esca874.jpg,Vineyard_27,,Esca,,Esca,0.64724594,True,0.004352174,0.64724594,0.21573687,0.13266504
+healthy818.jpg,healthy818.jpg,Vineyard_17,,Healthy,,Healthy,0.9930261,True,2.1966205e-08,0.006896152,0.9930261,7.76834e-05
+esca255.jpg,esca255.jpg,Vineyard_13,,Esca,,Esca,0.65356046,True,0.00079241575,0.65356046,0.00014107484,0.34550592
+healthy157.jpg,healthy157.jpg,Vineyard_26,,Healthy,,Healthy,0.9879872,True,1.4087033e-08,0.011895054,0.9879872,0.00011780333
+black rot137.jpg,black rot137.jpg,Vineyard_3,,Black Rot,,Black Rot,0.9248014,True,0.9248014,0.0025739605,5.1970586e-05,0.07257267
+healthy475.jpg,healthy475.jpg,Vineyard_15,,Healthy,,Healthy,0.99990886,True,3.1721088e-11,9.070111e-05,0.99990886,3.539925e-07
+esca126.jpg,esca126.jpg,Vineyard_15,,Esca,,Esca,0.6657418,True,0.010509041,0.6657418,0.006985432,0.31676376
+healthy089.jpg,healthy089.jpg,Vineyard_13,,Healthy,,Healthy,0.9994797,True,6.8022177e-10,0.0005169543,0.9994797,3.200159e-06
+esca406.jpg,esca406.jpg,Vineyard_1,,Esca,,Esca,0.6972531,True,0.005109107,0.6972531,0.0039759856,0.2936617
+healthy465.jpg,healthy465.jpg,Vineyard_6,,Healthy,,Healthy,0.99651396,True,1.2949888e-06,0.003362492,0.99651396,0.00012228396
+esca353.jpg,esca353.jpg,Vineyard_23,,Esca,,Esca,0.6470273,True,0.0024160645,0.6470273,0.00037094203,0.35018575
+healthy600.jpg,healthy600.jpg,Vineyard_15,,Healthy,,Healthy,0.9998389,True,9.571782e-10,0.00015965497,0.9998389,1.4160748e-06
+healthy339.jpg,healthy339.jpg,Vineyard_12,,Healthy,,Esca,0.6119934,False,0.00032337787,0.6119934,0.3297758,0.057907358
+healthy989.jpg,healthy989.jpg,Vineyard_4,,Healthy,,Healthy,0.99811,True,3.6120074e-08,0.0018588032,0.99811,3.1111285e-05
+leaf blight117.jpg,leaf blight117.jpg,Vineyard_15,,Leaf Blight,,Leaf Blight,0.6999481,True,0.15279114,0.14721677,4.3964967e-05,0.6999481
+healthy794.jpg,healthy794.jpg,Vineyard_25,,Healthy,,Healthy,0.99935025,True,1.0079548e-08,0.0006427634,0.99935025,7.0866463e-06
+healthy127.jpg,healthy127.jpg,Vineyard_16,,Healthy,,Healthy,0.9425501,True,0.00033863718,0.050381355,0.9425501,0.0067297965
+esca305.jpg,esca305.jpg,Vineyard_6,,Esca,,Esca,0.5769253,True,0.000108327826,0.5769253,3.1184265e-06,0.42296335
+healthy855.jpg,healthy855.jpg,Vineyard_27,,Healthy,,Healthy,0.99698853,True,1.0755251e-07,0.002952937,0.99698853,5.8345195e-05
+healthy1074.jpg,healthy1074.jpg,Vineyard_22,,Healthy,,Healthy,0.9996978,True,2.0498567e-09,0.00029909055,0.9996978,3.0688225e-06
+healthy1087.jpg,healthy1087.jpg,Vineyard_24,,Healthy,,Healthy,0.99073243,True,3.1171447e-05,0.008624197,0.99073243,0.00061208685
+healthy915.jpg,healthy915.jpg,Vineyard_24,,Healthy,,Healthy,0.5239495,True,7.963116e-05,0.45278463,0.5239495,0.023186192
+esca583.jpg,esca583.jpg,Vineyard_10,,Esca,,Esca,0.7177618,True,0.009455099,0.7177618,0.031617817,0.24116538
+esca579.jpg,esca579.jpg,Vineyard_23,,Esca,,Esca,0.74597967,True,0.00013519364,0.74597967,0.20202392,0.0518612
+esca219.jpg,esca219.jpg,Vineyard_15,,Esca,,Esca,0.71213853,True,4.422283e-05,0.71213853,1.6889866e-05,0.28780022
+black rot769.jpg,black rot769.jpg,Vineyard_9,,Black Rot,,Leaf Blight,0.5076724,False,0.33258915,0.15870343,0.0010349122,0.5076724
+healthy668.jpg,healthy668.jpg,Vineyard_9,,Healthy,,Healthy,0.9856468,True,0.0007868651,0.01174614,0.9856468,0.0018203096
+esca766.jpg,esca766.jpg,Vineyard_28,,Esca,,Esca,0.59483325,True,0.032132912,0.59483325,0.011442907,0.36159092
+healthy479.jpg,healthy479.jpg,Vineyard_17,,Healthy,,Healthy,0.91595435,True,4.267066e-06,0.08093377,0.91595435,0.0031075098
+healthy010.jpg,healthy010.jpg,Vineyard_19,,Healthy,,Esca,0.50393015,False,0.00012800081,0.50393015,0.4616025,0.034339324
+esca815.jpg,esca815.jpg,Vineyard_25,,Esca,,Esca,0.6346541,True,0.00972504,0.6346541,0.0037833047,0.35183758
+esca051.jpg,esca051.jpg,Vineyard_6,,Esca,,Esca,0.72306323,True,0.0030557935,0.72306323,0.0031688767,0.270712
+esca102.jpg,esca102.jpg,Vineyard_1,,Esca,,Esca,0.6626175,True,0.0125399465,0.6626175,0.008957659,0.31588492
+leaf blight647.jpg,leaf blight647.jpg,Vineyard_27,,Leaf Blight,,Leaf Blight,0.5643514,True,0.28907478,0.14633824,0.00023560566,0.5643514
+healthy345.jpg,healthy345.jpg,Vineyard_1,,Healthy,,Healthy,0.9937088,True,9.536123e-08,0.00618227,0.9937088,0.00010874608
+esca635.jpg,esca635.jpg,Vineyard_18,,Esca,,Leaf Blight,0.59628874,False,0.04728801,0.35617584,0.00024744618,0.59628874
+leaf blight157.jpg,leaf blight157.jpg,Vineyard_10,,Leaf Blight,,Black Rot,0.3757129,False,0.3757129,0.2511116,0.034869924,0.3383056
+healthy130.jpg,healthy130.jpg,Vineyard_11,,Healthy,,Healthy,0.8049024,True,8.7411945e-06,0.185569,0.8049024,0.009519839
+esca466.jpg,esca466.jpg,Vineyard_5,,Esca,,Esca,0.80437416,True,3.5803798e-05,0.80437416,5.2410098e-05,0.19553755
+leaf blight099.jpg,leaf blight099.jpg,Vineyard_25,,Leaf Blight,,Leaf Blight,0.5510731,True,0.068511546,0.37952042,0.00089504174,0.5510731
+esca446.jpg,esca446.jpg,Vineyard_26,,Esca,,Esca,0.6688694,True,0.011731485,0.6688694,0.011190296,0.30820882
+healthy847.jpg,healthy847.jpg,Vineyard_26,,Healthy,,Healthy,0.99824196,True,3.0413258e-07,0.0017121937,0.99824196,4.5506564e-05
+esca799.jpg,esca799.jpg,Vineyard_16,,Esca,,Esca,0.73856026,True,2.226598e-05,0.73856026,3.0271347e-06,0.26141444
+healthy231.jpg,healthy231.jpg,Vineyard_10,,Healthy,,Healthy,0.9321388,True,0.008452709,0.047922425,0.9321388,0.011486127
+healthy483.jpg,healthy483.jpg,Vineyard_21,,Healthy,,Healthy,0.9993951,True,7.6966124e-08,0.00059194997,0.9993951,1.2905182e-05
+healthy995.jpg,healthy995.jpg,Vineyard_15,,Healthy,,Healthy,0.9956778,True,6.9307947e-07,0.004187746,0.9956778,0.00013360425
+esca184.jpg,esca184.jpg,Vineyard_26,,Esca,,Esca,0.84327537,True,0.00050662085,0.84327537,0.04122359,0.114994384
+healthy445.jpg,healthy445.jpg,Vineyard_7,,Healthy,,Healthy,0.9945221,True,5.2481973e-06,0.005181349,0.9945221,0.00029125443
+healthy135.jpg,healthy135.jpg,Vineyard_21,,Healthy,,Healthy,0.99805504,True,2.6712771e-06,0.0018538106,0.99805504,8.839545e-05
+leaf blight415.jpg,leaf blight415.jpg,Vineyard_3,,Leaf Blight,,Esca,0.7003346,False,0.0001211781,0.7003346,3.2967357e-05,0.29951125
+esca473.jpg,esca473.jpg,Vineyard_17,,Esca,,Esca,0.814906,True,0.0008842806,0.814906,0.07486235,0.10934737
+esca736.jpg,esca736.jpg,Vineyard_4,,Esca,,Esca,0.60204375,True,0.014403435,0.60204375,0.0018548558,0.3816979
+esca597.jpg,esca597.jpg,Vineyard_9,,Esca,,Esca,0.8217245,True,0.0006026959,0.8217245,0.011741587,0.16593121
+healthy239.jpg,healthy239.jpg,Vineyard_9,,Healthy,,Healthy,0.9948775,True,6.93917e-06,0.0048593623,0.9948775,0.00025616842
+healthy100.jpg,healthy100.jpg,Vineyard_19,,Healthy,,Healthy,0.99887663,True,1.1017788e-06,0.0010779675,0.99887663,4.4329317e-05
+leaf blight471.jpg,leaf blight471.jpg,Vineyard_26,,Leaf Blight,,Esca,0.628275,False,0.0025032125,0.628275,0.0005512927,0.3686705
+healthy916.jpg,healthy916.jpg,Vineyard_8,,Healthy,,Healthy,0.98459387,True,0.0020447937,0.011288182,0.98459387,0.0020731671
+healthy612.jpg,healthy612.jpg,Vineyard_26,,Healthy,,Healthy,0.75045645,True,8.039843e-07,0.24233186,0.75045645,0.007210874
+esca376.jpg,esca376.jpg,Vineyard_8,,Esca,,Esca,0.84253865,True,0.0003747933,0.84253865,0.009190747,0.14789583
+healthy147.jpg,healthy147.jpg,Vineyard_27,,Healthy,,Healthy,0.9972822,True,2.2726873e-08,0.0026695668,0.9972822,4.818482e-05
+leaf blight089.jpg,leaf blight089.jpg,Vineyard_12,,Leaf Blight,,Black Rot,0.89061356,False,0.89061356,0.003119243,1.7231017e-05,0.10624995
+esca217.jpg,esca217.jpg,Vineyard_13,,Esca,,Esca,0.7561824,True,3.9204417e-05,0.7561824,4.167847e-05,0.2437367
+healthy210.jpg,healthy210.jpg,Vineyard_6,,Healthy,,Healthy,0.9889447,True,4.629225e-08,0.010912266,0.9889447,0.00014295407
+healthy042.jpg,healthy042.jpg,Vineyard_24,,Healthy,,Healthy,0.9996933,True,8.649984e-10,0.00030433043,0.9996933,2.3986788e-06
+esca304.jpg,esca304.jpg,Vineyard_10,,Esca,,Esca,0.64563054,True,0.0029210274,0.64563054,0.00047251533,0.35097593
+healthy342.jpg,healthy342.jpg,Vineyard_21,,Healthy,,Healthy,0.999196,True,8.158924e-11,0.0008006159,0.999196,3.443176e-06
+healthy434.jpg,healthy434.jpg,Vineyard_13,,Healthy,,Healthy,0.9997795,True,2.4067124e-09,0.00021814418,0.9997795,2.4403394e-06
+healthy1050.jpg,healthy1050.jpg,Vineyard_20,,Healthy,,Healthy,0.9594649,True,0.0018560569,0.032753002,0.9594649,0.0059260833
+leaf blight669.jpg,leaf blight669.jpg,Vineyard_16,,Leaf Blight,,Esca,0.6261705,False,0.0029321862,0.6261705,0.00043237067,0.37046492
+leaf blight039.jpg,leaf blight039.jpg,Vineyard_19,,Leaf Blight,,Leaf Blight,0.65565205,True,0.15538964,0.18883884,0.0001194314,0.65565205
+esca851.jpg,esca851.jpg,Vineyard_26,,Esca,,Leaf Blight,0.5398054,False,0.0011604578,0.45903197,2.159835e-06,0.5398054
+healthy615.jpg,healthy615.jpg,Vineyard_9,,Healthy,,Healthy,0.98740983,True,2.298457e-05,0.011688346,0.98740983,0.00087879814
+healthy352.jpg,healthy352.jpg,Vineyard_4,,Healthy,,Healthy,0.9886556,True,2.449382e-09,0.011274118,0.9886556,7.026059e-05
+healthy387.jpg,healthy387.jpg,Vineyard_6,,Healthy,,Healthy,0.9986569,True,2.7394893e-07,0.0013050075,0.9986569,3.79064e-05
+esca383.jpg,esca383.jpg,Vineyard_1,,Esca,,Esca,0.65198994,True,0.022619007,0.65198994,0.019182207,0.3062089
+healthy762.jpg,healthy762.jpg,Vineyard_23,,Healthy,,Healthy,0.9999277,True,6.025703e-11,7.186215e-05,0.9999277,3.201485e-07
+healthy768.jpg,healthy768.jpg,Vineyard_12,,Healthy,,Healthy,0.99937004,True,8.256734e-09,0.0006226988,0.99937004,7.231407e-06
+esca346.jpg,esca346.jpg,Vineyard_8,,Esca,,Esca,0.8909928,True,5.6583714e-05,0.8909928,0.004408455,0.10454218
+healthy562.jpg,healthy562.jpg,Vineyard_4,,Healthy,,Healthy,0.99932975,True,4.9595844e-10,0.000666175,0.99932975,4.044094e-06
+leaf blight567.jpg,leaf blight567.jpg,Vineyard_20,,Leaf Blight,,Esca,0.58198434,False,0.0052471133,0.58198434,0.00029006897,0.4124785
+esca560.jpg,esca560.jpg,Vineyard_16,,Esca,,Esca,0.8460063,True,0.0004831704,0.8460063,0.038471308,0.11503925
+healthy061.jpg,healthy061.jpg,Vineyard_6,,Healthy,,Healthy,0.99645126,True,4.609558e-07,0.003449749,0.99645126,9.8524986e-05
+black rot521.jpg,black rot521.jpg,Vineyard_19,,Black Rot,,Leaf Blight,0.42072865,False,0.28793252,0.27992406,0.01141474,0.42072865
+healthy834.jpg,healthy834.jpg,Vineyard_19,,Healthy,,Healthy,0.97609615,True,7.0742324e-05,0.02213585,0.97609615,0.0016972638
+leaf blight521.jpg,leaf blight521.jpg,Vineyard_14,,Leaf Blight,,Esca,0.6810798,False,0.00067202916,0.6810798,0.00018327682,0.31806487
+esca259.jpg,esca259.jpg,Vineyard_25,,Esca,,Esca,0.6707986,True,0.0015148767,0.6707986,0.00035027385,0.3273362
+healthy092.jpg,healthy092.jpg,Vineyard_10,,Healthy,,Healthy,0.9998645,True,5.944847e-10,0.00013442295,0.9998645,1.099162e-06
+esca792.jpg,esca792.jpg,Vineyard_10,,Esca,,Esca,0.82411295,True,0.00031715893,0.82411295,0.01831211,0.15725783
+healthy852.jpg,healthy852.jpg,Vineyard_12,,Healthy,,Healthy,0.9705627,True,1.4999665e-07,0.028893149,0.9705627,0.0005439215
+leaf blight645.jpg,leaf blight645.jpg,Vineyard_22,,Leaf Blight,,Leaf Blight,0.82316864,True,0.01400683,0.16282415,3.1145896e-07,0.82316864
+leaf blight661.jpg,leaf blight661.jpg,Vineyard_23,,Leaf Blight,,Esca,0.6478578,False,2.3247065e-05,0.6478578,3.7230916e-07,0.35211864
+healthy087.jpg,healthy087.jpg,Vineyard_22,,Healthy,,Healthy,0.99878913,True,6.588883e-10,0.0012046535,0.99878913,6.1942014e-06
+esca487.jpg,esca487.jpg,Vineyard_16,,Esca,,Esca,0.57870966,True,0.044973798,0.57870966,0.015023755,0.36129272
+esca779.jpg,esca779.jpg,Vineyard_4,,Esca,,Esca,0.6268893,True,0.0038082434,0.6268893,0.0011650801,0.36813736
+healthy070.jpg,healthy070.jpg,Vineyard_9,,Healthy,,Healthy,0.9979807,True,6.989884e-08,0.001977408,0.9979807,4.170435e-05
+healthy194.jpg,healthy194.jpg,Vineyard_16,,Healthy,,Healthy,0.999402,True,3.5489728e-10,0.00059402926,0.999402,3.9134247e-06
+esca632.jpg,esca632.jpg,Vineyard_19,,Esca,,Esca,0.54449284,True,0.0067320582,0.54449284,0.00016494007,0.44861016
+esca827.jpg,esca827.jpg,Vineyard_10,,Esca,,Esca,0.55573475,True,0.010662635,0.55573475,0.0008201349,0.4327825
+esca562.jpg,esca562.jpg,Vineyard_4,,Esca,,Esca,0.62153757,True,0.0017931693,0.62153757,7.435468e-05,0.37659487
+esca761.jpg,esca761.jpg,Vineyard_24,,Esca,,Esca,0.48675618,True,0.038846787,0.48675618,0.0013763398,0.47302064
+healthy422.jpg,healthy422.jpg,Vineyard_18,,Healthy,,Healthy,0.9912487,True,0.00030628702,0.0075261216,0.9912487,0.0009189137
+healthy429.jpg,healthy429.jpg,Vineyard_15,,Healthy,,Healthy,0.9789791,True,6.5602796e-07,0.02044825,0.9789791,0.0005719826
+esca831.jpg,esca831.jpg,Vineyard_22,,Esca,,Esca,0.9427071,True,1.0310501e-06,0.9427071,0.0043667573,0.052925058
+esca035.jpg,esca035.jpg,Vineyard_11,,Esca,,Esca,0.9107717,True,1.697962e-05,0.9107717,0.022645863,0.06656559
+leaf blight035.jpg,leaf blight035.jpg,Vineyard_6,,Leaf Blight,,Leaf Blight,0.65484446,True,0.12040359,0.22463441,0.00011757639,0.65484446
+leaf blight515.jpg,leaf blight515.jpg,Vineyard_13,,Leaf Blight,,Esca,0.62767404,False,0.011740505,0.62767404,0.003212955,0.3573726
+esca676.jpg,esca676.jpg,Vineyard_14,,Esca,,Esca,0.68298143,True,0.00845406,0.68298143,0.01577783,0.2927865
+esca655.jpg,esca655.jpg,Vineyard_2,,Esca,,Leaf Blight,0.50379467,False,0.0012846695,0.49489,3.0619114e-05,0.50379467
+healthy1044.jpg,healthy1044.jpg,Vineyard_25,,Healthy,,Healthy,0.9979916,True,2.7216737e-08,0.0019765445,0.9979916,3.1734908e-05
+healthy1065.jpg,healthy1065.jpg,Vineyard_22,,Healthy,,Healthy,0.9979227,True,1.2531371e-08,0.0020488985,0.9979227,2.8473738e-05
+black rot423.jpg,black rot423.jpg,Vineyard_11,,Black Rot,,Black Rot,0.6348338,True,0.6348338,0.10756319,0.01714846,0.2404546
+esca065.jpg,esca065.jpg,Vineyard_3,,Esca,,Esca,0.8416732,True,0.0005224221,0.8416732,0.0118962955,0.14590819
+esca451.jpg,esca451.jpg,Vineyard_3,,Esca,,Esca,0.47510582,True,0.049517654,0.47510582,0.002229867,0.47314668
+healthy687.jpg,healthy687.jpg,Vineyard_17,,Healthy,,Healthy,0.99295205,True,3.6603322e-07,0.0068133455,0.99295205,0.00023429086
+esca670.jpg,esca670.jpg,Vineyard_23,,Esca,,Esca,0.47076622,True,0.12225803,0.47076622,0.1632158,0.24375996
+black rot203.jpg,black rot203.jpg,Vineyard_6,,Black Rot,,Esca,0.5746694,False,0.052598942,0.5746694,0.023239633,0.34949198
+black rot065.jpg,black rot065.jpg,Vineyard_24,,Black Rot,,Black Rot,0.69773936,True,0.69773936,0.021042323,7.4389936e-05,0.281144
+esca555.jpg,esca555.jpg,Vineyard_18,,Esca,,Esca,0.7550586,True,5.870058e-05,0.7550586,3.7510556e-05,0.2448452
+leaf blight045.jpg,leaf blight045.jpg,Vineyard_3,,Leaf Blight,,Leaf Blight,0.54776514,True,0.074974865,0.37606883,0.0011911185,0.54776514
+healthy290.jpg,healthy290.jpg,Vineyard_13,,Healthy,,Healthy,0.99712753,True,6.33326e-08,0.0028186897,0.99712753,5.3587664e-05
+esca694.jpg,esca694.jpg,Vineyard_17,,Esca,,Leaf Blight,0.71567446,False,0.057176907,0.22711848,3.0159694e-05,0.71567446
+healthy354.jpg,healthy354.jpg,Vineyard_5,,Healthy,,Healthy,0.9994578,True,2.1857232e-09,0.00053741236,0.9994578,4.78652e-06
+healthy247.jpg,healthy247.jpg,Vineyard_8,,Healthy,,Healthy,0.728643,True,0.0018927897,0.23713522,0.728643,0.032329068
+esca109.jpg,esca109.jpg,Vineyard_27,,Esca,,Esca,0.75990313,True,0.0005137034,0.75990313,0.0006910249,0.23889214
+esca427.jpg,esca427.jpg,Vineyard_18,,Esca,,Esca,0.57012326,True,0.031670712,0.57012326,0.0073468876,0.39085907
+esca135.jpg,esca135.jpg,Vineyard_8,,Esca,,Esca,0.553389,True,0.044486947,0.553389,0.006782003,0.39534205
+esca661.jpg,esca661.jpg,Vineyard_2,,Esca,,Leaf Blight,0.5744601,False,0.020907892,0.40447062,0.00016134886,0.5744601
+esca127.jpg,esca127.jpg,Vineyard_5,,Esca,,Leaf Blight,0.53471214,False,0.01826339,0.44666007,0.00036435048,0.53471214
+healthy656.jpg,healthy656.jpg,Vineyard_28,,Healthy,,Healthy,0.9967574,True,8.1080236e-07,0.0031320646,0.9967574,0.0001098121
+esca408.jpg,esca408.jpg,Vineyard_8,,Esca,,Esca,0.68969166,True,0.0050981655,0.68969166,0.004108267,0.30110198
+leaf blight481.jpg,leaf blight481.jpg,Vineyard_6,,Leaf Blight,,Esca,0.8140137,False,6.0001057e-05,0.8140137,0.00016617379,0.1857601
+healthy707.jpg,healthy707.jpg,Vineyard_15,,Healthy,,Healthy,0.9984855,True,1.1216806e-09,0.0015031958,0.9984855,1.1132946e-05
+esca713.jpg,esca713.jpg,Vineyard_8,,Esca,,Leaf Blight,0.77697235,False,0.00013696123,0.22289065,3.52137e-10,0.77697235
+black rot153.jpg,black rot153.jpg,Vineyard_6,,Black Rot,,Leaf Blight,0.4177471,False,0.28897136,0.28277126,0.0105102835,0.4177471
+esca050.jpg,esca050.jpg,Vineyard_7,,Esca,,Esca,0.80627805,True,5.603164e-05,0.80627805,0.00023554279,0.19343029
+esca101.jpg,esca101.jpg,Vineyard_16,,Esca,,Esca,0.78722423,True,0.0014766966,0.78722423,0.02089654,0.19040254
+esca784.jpg,esca784.jpg,Vineyard_10,,Esca,,Esca,0.7775382,True,0.0017783477,0.7775382,0.06166872,0.15901464
+healthy853.jpg,healthy853.jpg,Vineyard_8,,Healthy,,Healthy,0.9992104,True,1.0434305e-09,0.00078397285,0.9992104,5.5444466e-06
+esca504.jpg,esca504.jpg,Vineyard_12,,Esca,,Esca,0.68212986,True,0.0057355147,0.68212986,0.0044864365,0.30764818
+leaf blight375.jpg,leaf blight375.jpg,Vineyard_5,,Leaf Blight,,Esca,0.7649914,False,1.6759672e-05,0.7649914,1.10705705e-05,0.23498079
+leaf blight275.jpg,leaf blight275.jpg,Vineyard_24,,Leaf Blight,,Leaf Blight,0.6283272,True,0.0767597,0.29461634,0.0002967669,0.6283272
+healthy746.jpg,healthy746.jpg,Vineyard_8,,Healthy,,Healthy,0.9988527,True,1.501233e-07,0.0011207543,0.9988527,2.635485e-05
+esca547.jpg,esca547.jpg,Vineyard_15,,Esca,,Esca,0.5476883,True,0.0080886595,0.5476883,0.00035798858,0.44386506
+esca162.jpg,esca162.jpg,Vineyard_2,,Esca,,Esca,0.5656165,True,0.0083688935,0.5656165,0.00052647066,0.42548805
+black rot407.jpg,black rot407.jpg,Vineyard_8,,Black Rot,,Black Rot,0.85443354,True,0.85443354,0.015183729,0.00088160107,0.12950118
+esca287.jpg,esca287.jpg,Vineyard_27,,Esca,,Esca,0.7964226,True,0.0016667357,0.7964226,0.009127743,0.192783
+healthy677.jpg,healthy677.jpg,Vineyard_23,,Healthy,,Healthy,0.8657502,True,9.2670845e-05,0.1216556,0.8657502,0.01250146
+leaf blight613.jpg,leaf blight613.jpg,Vineyard_14,,Leaf Blight,,Leaf Blight,0.59552914,True,0.05381462,0.35036406,0.0002921582,0.59552914
+esca829.jpg,esca829.jpg,Vineyard_22,,Esca,,Esca,0.73299927,True,0.0032592006,0.73299927,0.0072711185,0.25647047
+healthy973.jpg,healthy973.jpg,Vineyard_6,,Healthy,,Healthy,0.99949485,True,1.2954901e-10,0.0005033155,0.99949485,1.8296837e-06
+esca415.jpg,esca415.jpg,Vineyard_23,,Esca,,Esca,0.8484171,True,0.00020254432,0.8484171,0.0037727493,0.14760752
+esca190.jpg,esca190.jpg,Vineyard_6,,Esca,,Esca,0.79480284,True,0.0014376628,0.79480284,0.021943357,0.18181607
+esca267.jpg,esca267.jpg,Vineyard_16,,Esca,,Esca,0.61113596,True,0.00073090603,0.61113596,0.3210683,0.06706481
+esca165.jpg,esca165.jpg,Vineyard_22,,Esca,,Esca,0.7866109,True,0.0003237912,0.7866109,0.001750407,0.2113149
+healthy029.jpg,healthy029.jpg,Vineyard_15,,Healthy,,Healthy,0.99873346,True,8.117647e-09,0.0012545281,0.99873346,1.2015407e-05
+leaf blight433.jpg,leaf blight433.jpg,Vineyard_22,,Leaf Blight,,Esca,0.6621422,False,0.01073508,0.6621422,0.009351354,0.31777126
+healthy106.jpg,healthy106.jpg,Vineyard_4,,Healthy,,Healthy,0.6797264,True,0.0020963838,0.27826446,0.6797264,0.039912734
+esca490.jpg,esca490.jpg,Vineyard_17,,Esca,,Esca,0.7058861,True,0.0035404172,0.7058861,0.004507132,0.2860662
+black rot159.jpg,black rot159.jpg,Vineyard_18,,Black Rot,,Leaf Blight,0.5129077,False,0.24602346,0.23934291,0.0017260035,0.5129077
+healthy311.jpg,healthy311.jpg,Vineyard_16,,Healthy,,Healthy,0.994772,True,5.4165326e-07,0.0050648525,0.994772,0.00016259018
+healthy411.jpg,healthy411.jpg,Vineyard_6,,Healthy,,Esca,0.6438458,False,0.0010404788,0.6438458,0.2752698,0.07984389
+healthy392.jpg,healthy392.jpg,Vineyard_12,,Healthy,,Healthy,0.99904424,True,5.3630127e-09,0.0009445604,0.99904424,1.11434365e-05
+healthy219.jpg,healthy219.jpg,Vineyard_26,,Healthy,,Healthy,0.9744794,True,5.210282e-06,0.024281127,0.9744794,0.0012342703
+esca191.jpg,esca191.jpg,Vineyard_12,,Esca,,Esca,0.69364023,True,0.010331755,0.69364023,0.01025254,0.28577548
+healthy377.jpg,healthy377.jpg,Vineyard_20,,Healthy,,Healthy,0.9994293,True,1.429836e-09,0.0005662611,0.9994293,4.417888e-06
+leaf blight587.jpg,leaf blight587.jpg,Vineyard_10,,Leaf Blight,,Esca,0.64524126,False,0.009162387,0.64524126,0.0029967825,0.34259957
+healthy218.jpg,healthy218.jpg,Vineyard_8,,Healthy,,Healthy,0.955476,True,7.206792e-06,0.042311005,0.955476,0.0022058664
+healthy846.jpg,healthy846.jpg,Vineyard_7,,Healthy,,Healthy,0.9918109,True,1.666701e-05,0.0076731523,0.9918109,0.00049932435
+healthy026.jpg,healthy026.jpg,Vineyard_21,,Healthy,,Healthy,0.9965991,True,1.17795764e-07,0.0033298898,0.9965991,7.093495e-05
+esca574.jpg,esca574.jpg,Vineyard_26,,Esca,,Esca,0.78008556,True,3.8340382e-05,0.78008556,0.17184912,0.04802707
+esca752.jpg,esca752.jpg,Vineyard_27,,Esca,,Esca,0.6494986,True,1.7479666e-05,0.6494986,2.485707e-07,0.35048366
+healthy151.jpg,healthy151.jpg,Vineyard_13,,Healthy,,Esca,0.7973554,False,6.619262e-06,0.7973554,0.15583645,0.04680161
+healthy986.jpg,healthy986.jpg,Vineyard_23,,Healthy,,Healthy,0.8362865,True,2.5210022e-07,0.16030349,0.8362865,0.0034097063
+esca585.jpg,esca585.jpg,Vineyard_11,,Esca,,Esca,0.65397525,True,0.012151373,0.65397525,0.0083081005,0.32556522
+esca859.jpg,esca859.jpg,Vineyard_9,,Esca,,Esca,0.4889272,True,0.025204005,0.4889272,0.00054126704,0.48532754
+esca295.jpg,esca295.jpg,Vineyard_27,,Esca,,Esca,0.5444411,True,0.0027016096,0.5444411,8.2335486e-05,0.45277485
+healthy035.jpg,healthy035.jpg,Vineyard_21,,Healthy,,Healthy,0.9709452,True,0.0024691038,0.022180382,0.9709452,0.004405431
+healthy862.jpg,healthy862.jpg,Vineyard_4,,Healthy,,Healthy,0.99943095,True,3.669822e-08,0.0005583734,0.99943095,1.0615045e-05
+leaf blight349.jpg,leaf blight349.jpg,Vineyard_15,,Leaf Blight,,Esca,0.5426423,False,0.003015378,0.5426423,7.266953e-05,0.45426965
+leaf blight531.jpg,leaf blight531.jpg,Vineyard_24,,Leaf Blight,,Esca,0.821824,False,8.7655906e-05,0.821824,0.0027458672,0.17534238
+esca781.jpg,esca781.jpg,Vineyard_21,,Esca,,Esca,0.4557798,True,0.006854428,0.4557798,0.45030406,0.08706175
+leaf blight227.jpg,leaf blight227.jpg,Vineyard_23,,Leaf Blight,,Leaf Blight,0.6225552,True,0.1162614,0.26090035,0.0002830657,0.6225552
+healthy752.jpg,healthy752.jpg,Vineyard_16,,Healthy,,Healthy,0.9939295,True,2.3791122e-07,0.0059238784,0.9939295,0.00014628972
+healthy007.jpg,healthy007.jpg,Vineyard_7,,Healthy,,Healthy,0.92416203,True,1.2162907e-07,0.074296005,0.92416203,0.0015418227
+healthy726.jpg,healthy726.jpg,Vineyard_6,,Healthy,,Healthy,0.90022963,True,1.8257939e-05,0.093007684,0.90022963,0.0067444206
+esca775.jpg,esca775.jpg,Vineyard_17,,Esca,,Esca,0.7189837,True,0.005985894,0.7189837,0.014270451,0.26075998
+esca436.jpg,esca436.jpg,Vineyard_17,,Esca,,Black Rot,0.29069436,False,0.29069436,0.26739776,0.27614167,0.16576615
+healthy1048.jpg,healthy1048.jpg,Vineyard_10,,Healthy,,Healthy,0.8885059,True,9.0808703e-07,0.10940345,0.8885059,0.0020897477
+healthy1063.jpg,healthy1063.jpg,Vineyard_10,,Healthy,,Healthy,0.99971056,True,2.032455e-11,0.000288664,0.99971056,8.020008e-07
+healthy1054.jpg,healthy1054.jpg,Vineyard_15,,Healthy,,Healthy,0.98972195,True,7.4101963e-06,0.009748122,0.98972195,0.00052259705
+esca072.jpg,esca072.jpg,Vineyard_22,,Esca,,Esca,0.50860417,True,0.019059883,0.50860417,0.30985928,0.16247664
+healthy071.jpg,healthy071.jpg,Vineyard_23,,Healthy,,Healthy,0.9999252,True,6.0969927e-12,7.464088e-05,0.9999252,1.6698237e-07
+esca437.jpg,esca437.jpg,Vineyard_8,,Esca,,Esca,0.6331215,True,0.0029767195,0.6331215,0.0005860402,0.36331573
+esca005.jpg,esca005.jpg,Vineyard_2,,Esca,,Esca,0.74655104,True,0.0007547811,0.74655104,0.0007611153,0.2519331
+black rot321.jpg,black rot321.jpg,Vineyard_10,,Black Rot,,Leaf Blight,0.54424417,False,0.3528984,0.1026895,0.00016801847,0.54424417
+healthy616.jpg,healthy616.jpg,Vineyard_4,,Healthy,,Healthy,0.9676586,True,0.00025920788,0.028477773,0.9676586,0.0036044435
+healthy840.jpg,healthy840.jpg,Vineyard_17,,Healthy,,Healthy,0.99030143,True,4.999788e-06,0.009206728,0.99030143,0.0004868088
+esca074.jpg,esca074.jpg,Vineyard_12,,Esca,,Esca,0.6981768,True,0.0013218304,0.6981768,0.0009324697,0.2995689
+healthy1108.jpg,healthy1108.jpg,Vineyard_18,,Healthy,,Healthy,0.9996105,True,3.4101093e-09,0.00038526455,0.9996105,4.3442465e-06
+esca553.jpg,esca553.jpg,Vineyard_8,,Esca,,Esca,0.69555813,True,0.010110944,0.69555813,0.017049063,0.27728182
+leaf blight057.jpg,leaf blight057.jpg,Vineyard_4,,Leaf Blight,,Black Rot,0.54161376,False,0.54161376,0.023641564,8.8940515e-06,0.43473572
+esca709.jpg,esca709.jpg,Vineyard_14,,Esca,,Esca,0.6636583,True,0.016668683,0.6636583,0.019448806,0.30022418
+healthy755.jpg,healthy755.jpg,Vineyard_4,,Healthy,,Healthy,0.6222847,True,0.32596716,0.026053237,0.6222847,0.025694834
+healthy298.jpg,healthy298.jpg,Vineyard_23,,Healthy,,Healthy,0.9728815,True,4.4582592e-07,0.026338821,0.9728815,0.00077915215
+esca759.jpg,esca759.jpg,Vineyard_8,,Esca,,Esca,0.7567944,True,0.00017600207,0.7567944,0.0002683926,0.24276118
+esca211.jpg,esca211.jpg,Vineyard_6,,Esca,,Esca,0.68022513,True,0.012206295,0.68022513,0.082628265,0.22494034
+healthy277.jpg,healthy277.jpg,Vineyard_13,,Healthy,,Esca,0.59760565,False,2.991428e-05,0.59760565,0.35477352,0.04759095
+healthy572.jpg,healthy572.jpg,Vineyard_28,,Healthy,,Healthy,0.99417293,True,3.146129e-07,0.0056748106,0.99417293,0.00015197496
+esca096.jpg,esca096.jpg,Vineyard_23,,Esca,,Leaf Blight,0.46840662,False,0.081152394,0.44624025,0.004200706,0.46840662
+healthy819.jpg,healthy819.jpg,Vineyard_13,,Healthy,,Healthy,0.9712373,True,0.0015922275,0.023128185,0.9712373,0.0040422105
+esca042.jpg,esca042.jpg,Vineyard_5,,Esca,,Esca,0.74511766,True,0.005167327,0.74511766,0.027705733,0.22200921
+esca017.jpg,esca017.jpg,Vineyard_5,,Esca,,Esca,0.6308041,True,0.029465254,0.6308041,0.013890017,0.3258407
+esca052.jpg,esca052.jpg,Vineyard_3,,Esca,,Esca,0.5281231,True,0.009077709,0.5281231,0.00033934994,0.4624599
+healthy698.jpg,healthy698.jpg,Vineyard_4,,Healthy,,Healthy,0.9959626,True,9.662958e-06,0.0037869916,0.9959626,0.00024067922
+esca252.jpg,esca252.jpg,Vineyard_26,,Esca,,Esca,0.737564,True,0.005926126,0.737564,0.10807911,0.14843073
+healthy395.jpg,healthy395.jpg,Vineyard_1,,Healthy,,Healthy,0.8906209,True,7.183416e-07,0.10621096,0.8906209,0.0031674746
+healthy095.jpg,healthy095.jpg,Vineyard_26,,Healthy,,Healthy,0.9882813,True,6.7360226e-05,0.010731789,0.9882813,0.000919549
+leaf blight505.jpg,leaf blight505.jpg,Vineyard_11,,Leaf Blight,,Esca,0.6675206,False,0.0027039598,0.6675206,0.0012330484,0.3285425
+healthy464.jpg,healthy464.jpg,Vineyard_14,,Healthy,,Healthy,0.9989949,True,7.503637e-08,0.0009855203,0.9989949,1.9514418e-05
+leaf blight197.jpg,leaf blight197.jpg,Vineyard_7,,Leaf Blight,,Leaf Blight,0.63146925,True,0.17642441,0.19188681,0.00021944067,0.63146925
+healthy994.jpg,healthy994.jpg,Vineyard_24,,Healthy,,Healthy,0.9884979,True,2.8864438e-08,0.011351254,0.9884979,0.00015086582
+healthy849.jpg,healthy849.jpg,Vineyard_21,,Healthy,,Healthy,0.9823966,True,5.69351e-05,0.015802506,0.9823966,0.0017438672
+healthy217.jpg,healthy217.jpg,Vineyard_10,,Healthy,,Healthy,0.9975328,True,6.418802e-08,0.0024166312,0.9975328,5.0448758e-05
+esca117.jpg,esca117.jpg,Vineyard_23,,Esca,,Esca,0.9266065,True,4.1679377e-06,0.9266065,0.0009596465,0.07242965
+esca445.jpg,esca445.jpg,Vineyard_3,,Esca,,Esca,0.77014613,True,0.0007084867,0.77014613,0.0044832495,0.22466213
+leaf blight355.jpg,leaf blight355.jpg,Vineyard_8,,Leaf Blight,,Esca,0.7147677,False,0.0036735726,0.7147677,0.0033166162,0.2782421
+esca061.jpg,esca061.jpg,Vineyard_17,,Esca,,Esca,0.7034361,True,0.00023533219,0.7034361,0.00010938673,0.2962193
+esca106.jpg,esca106.jpg,Vineyard_9,,Esca,,Esca,0.8640894,True,6.3320156e-05,0.8640894,0.015411532,0.12043561
+healthy620.jpg,healthy620.jpg,Vineyard_6,,Healthy,,Healthy,0.97781414,True,0.0017468106,0.01727915,0.97781414,0.003159871
+leaf blight389.jpg,leaf blight389.jpg,Vineyard_11,,Leaf Blight,,Esca,0.7777271,False,0.0018401602,0.7777271,0.022410756,0.19802195
+healthy588.jpg,healthy588.jpg,Vineyard_14,,Healthy,,Healthy,0.9982264,True,1.2958032e-08,0.0017534135,0.9982264,2.0092537e-05
+leaf blight225.jpg,leaf blight225.jpg,Vineyard_23,,Leaf Blight,,Leaf Blight,0.6259804,True,0.048066735,0.32583612,0.000116692165,0.6259804
+healthy718.jpg,healthy718.jpg,Vineyard_18,,Healthy,,Healthy,0.9997936,True,1.3874363e-10,0.0002054082,0.9997936,1.1184007e-06
+healthy570.jpg,healthy570.jpg,Vineyard_12,,Healthy,,Esca,0.8253494,False,0.000228364,0.8253494,0.004265885,0.17015637
+healthy586.jpg,healthy586.jpg,Vineyard_25,,Healthy,,Healthy,0.9984451,True,2.9260859e-08,0.0015307621,0.9984451,2.421977e-05
+healthy123.jpg,healthy123.jpg,Vineyard_15,,Healthy,,Esca,0.50361377,False,3.8441816e-05,0.50361377,0.4629246,0.033423197
+healthy710.jpg,healthy710.jpg,Vineyard_17,,Healthy,,Esca,0.50052834,False,5.1567094e-06,0.50052834,0.4766574,0.022809112
+healthy404.jpg,healthy404.jpg,Vineyard_15,,Healthy,,Healthy,0.9996877,True,5.633486e-10,0.00031039913,0.9996877,1.9151514e-06
+healthy590.jpg,healthy590.jpg,Vineyard_21,,Healthy,,Healthy,0.9724037,True,1.74381e-06,0.026669847,0.9724037,0.00092465506
+leaf blight445.jpg,leaf blight445.jpg,Vineyard_28,,Leaf Blight,,Esca,0.73759943,False,6.12167e-05,0.73759943,1.3779835e-05,0.26232558
+healthy728.jpg,healthy728.jpg,Vineyard_17,,Healthy,,Healthy,0.9966824,True,5.294175e-06,0.0031029512,0.9966824,0.00020940836
+healthy1058.jpg,healthy1058.jpg,Vineyard_11,,Healthy,,Healthy,0.99841946,True,1.2005324e-06,0.0015187678,0.99841946,6.0517126e-05
+esca070.jpg,esca070.jpg,Vineyard_11,,Esca,,Esca,0.70672137,True,0.009995762,0.70672137,0.024561008,0.2587218
+esca090.jpg,esca090.jpg,Vineyard_3,,Esca,,Esca,0.5483183,True,0.016000578,0.5483183,0.0007908059,0.43489033
+leaf blight269.jpg,leaf blight269.jpg,Vineyard_4,,Leaf Blight,,Leaf Blight,0.6570363,True,0.1799097,0.16294329,0.00011066555,0.6570363
+healthy859.jpg,healthy859.jpg,Vineyard_25,,Healthy,,Healthy,0.99777764,True,5.722919e-08,0.0021863673,0.99777764,3.5943875e-05
+esca093.jpg,esca093.jpg,Vineyard_2,,Esca,,Esca,0.74893486,True,0.0061550145,0.74893486,0.0728253,0.17208467
+esca164.jpg,esca164.jpg,Vineyard_1,,Esca,,Esca,0.71840066,True,0.0057856445,0.71840066,0.0077904495,0.26802328
+esca578.jpg,esca578.jpg,Vineyard_1,,Esca,,Esca,0.7713088,True,0.0019027604,0.7713088,0.093471326,0.13331714
+healthy585.jpg,healthy585.jpg,Vineyard_22,,Healthy,,Healthy,0.99225515,True,1.1915124e-08,0.0076605547,0.99225515,8.4373816e-05
+esca826.jpg,esca826.jpg,Vineyard_17,,Esca,,Esca,0.48959285,True,0.024648156,0.48959285,0.00064028916,0.48511857
+healthy456.jpg,healthy456.jpg,Vineyard_23,,Healthy,,Healthy,0.98834014,True,8.761728e-07,0.011337374,0.98834014,0.0003216417
+healthy608.jpg,healthy608.jpg,Vineyard_14,,Healthy,,Healthy,0.9969369,True,6.673196e-08,0.0030053526,0.9969369,5.768397e-05
+esca396.jpg,esca396.jpg,Vineyard_18,,Esca,,Esca,0.6105495,True,0.027955074,0.6105495,0.012682298,0.34881306
+leaf blight609.jpg,leaf blight609.jpg,Vineyard_13,,Leaf Blight,,Esca,0.5418091,False,0.0074414923,0.5418091,0.00018579813,0.45056352
+healthy647.jpg,healthy647.jpg,Vineyard_22,,Healthy,,Healthy,0.9984966,True,1.1534765e-08,0.0014848284,0.9984966,1.8538463e-05
+esca841.jpg,esca841.jpg,Vineyard_25,,Esca,,Esca,0.7411303,True,0.00010099846,0.7411303,5.915966e-05,0.25870955
+healthy109.jpg,healthy109.jpg,Vineyard_3,,Healthy,,Healthy,0.5153746,True,0.02686898,0.35553023,0.5153746,0.10222621
+healthy293.jpg,healthy293.jpg,Vineyard_13,,Healthy,,Healthy,0.97767746,True,5.72109e-08,0.021993496,0.97767746,0.00032886845
+esca879.jpg,esca879.jpg,Vineyard_11,,Esca,,Esca,0.5909686,True,0.005266821,0.5909686,0.00037379027,0.4033908
+leaf blight327.jpg,leaf blight327.jpg,Vineyard_2,,Leaf Blight,,Esca,0.49129847,False,0.029404456,0.49129847,0.0006717819,0.47862533
+black rot649.jpg,black rot649.jpg,Vineyard_4,,Black Rot,,Black Rot,0.6827335,True,0.6827335,0.08729584,0.015127564,0.21484323
+leaf blight329.jpg,leaf blight329.jpg,Vineyard_19,,Leaf Blight,,Esca,0.8565278,False,0.00016746634,0.8565278,0.04202343,0.10128123
+healthy282.jpg,healthy282.jpg,Vineyard_20,,Healthy,,Healthy,0.99831825,True,3.870816e-07,0.0016308859,0.99831825,5.0423663e-05
+esca568.jpg,esca568.jpg,Vineyard_19,,Esca,,Esca,0.5993445,True,0.0052772677,0.5993445,0.00020465905,0.39517364
+esca419.jpg,esca419.jpg,Vineyard_20,,Esca,,Esca,0.62331045,True,0.009588598,0.62331045,0.0029410603,0.36415994
+leaf blight209.jpg,leaf blight209.jpg,Vineyard_10,,Leaf Blight,,Leaf Blight,0.635292,True,0.030162333,0.33449125,5.4350956e-05,0.635292
+healthy043.jpg,healthy043.jpg,Vineyard_28,,Healthy,,Healthy,0.9814465,True,1.3456122e-07,0.018235527,0.9814465,0.000317751
+healthy207.jpg,healthy207.jpg,Vineyard_7,,Healthy,,Healthy,0.9984833,True,3.6090977e-10,0.0015088628,0.9984833,7.821598e-06
+healthy877.jpg,healthy877.jpg,Vineyard_3,,Healthy,,Black Rot,0.88716704,False,0.88716704,0.0087787295,0.078378946,0.025675306
+healthy906.jpg,healthy906.jpg,Vineyard_8,,Healthy,,Esca,0.78889054,False,2.5523439e-06,0.78889054,0.17597379,0.03513304
+healthy384.jpg,healthy384.jpg,Vineyard_5,,Healthy,,Healthy,0.9988175,True,4.64425e-09,0.0011695229,0.9988175,1.3003556e-05
+esca414.jpg,esca414.jpg,Vineyard_15,,Esca,,Leaf Blight,0.5671103,False,0.012078283,0.4207585,5.2962216e-05,0.5671103
+esca261.jpg,esca261.jpg,Vineyard_3,,Esca,,Leaf Blight,0.47601113,False,0.06008023,0.45918384,0.0047247885,0.47601113
+healthy1105.jpg,healthy1105.jpg,Vineyard_11,,Healthy,,Healthy,0.90513235,True,0.0007690191,0.08342727,0.90513235,0.010671321
+esca519.jpg,esca519.jpg,Vineyard_14,,Esca,,Esca,0.61599183,True,0.0038180198,0.61599183,0.0010148905,0.37917516
+esca242.jpg,esca242.jpg,Vineyard_27,,Esca,,Leaf Blight,0.71750975,False,0.0044207904,0.27806893,5.361827e-07,0.71750975
+esca410.jpg,esca410.jpg,Vineyard_28,,Esca,,Esca,0.6105768,True,0.023546249,0.6105768,0.007921736,0.35795522
+leaf blight643.jpg,leaf blight643.jpg,Vineyard_19,,Leaf Blight,,Esca,0.5457851,False,2.5547908e-05,0.5457851,1.5277789e-07,0.4541892
+healthy985.jpg,healthy985.jpg,Vineyard_1,,Healthy,,Healthy,0.99841344,True,4.7543836e-07,0.0015386976,0.99841344,4.7393998e-05
+esca347.jpg,esca347.jpg,Vineyard_1,,Esca,,Leaf Blight,0.56667346,False,0.0068092765,0.4264981,1.913173e-05,0.56667346
+leaf blight063.jpg,leaf blight063.jpg,Vineyard_19,,Leaf Blight,,Esca,0.5339983,False,0.020370673,0.5339983,0.0012005484,0.4444304
+healthy225.jpg,healthy225.jpg,Vineyard_24,,Healthy,,Healthy,0.977322,True,1.0334991e-07,0.02216772,0.977322,0.0005102155
+leaf blight553.jpg,leaf blight553.jpg,Vineyard_28,,Leaf Blight,,Esca,0.5324341,False,0.002136593,0.5324341,5.4668148e-05,0.46537465
+leaf blight073.jpg,leaf blight073.jpg,Vineyard_11,,Leaf Blight,,Leaf Blight,0.7585145,True,0.04858849,0.19288845,8.546685e-06,0.7585145
+esca400.jpg,esca400.jpg,Vineyard_8,,Esca,,Healthy,0.545666,False,0.012737801,0.3489897,0.545666,0.09260649
+healthy636.jpg,healthy636.jpg,Vineyard_23,,Healthy,,Healthy,0.9758643,True,0.00013324154,0.021850985,0.9758643,0.002151466
+esca618.jpg,esca618.jpg,Vineyard_17,,Esca,,Esca,0.5322608,True,0.010175915,0.5322608,0.0001992221,0.457364
+esca729.jpg,esca729.jpg,Vineyard_6,,Esca,,Esca,0.63446534,True,0.024968896,0.63446534,0.025401192,0.31516448
+healthy955.jpg,healthy955.jpg,Vineyard_7,,Healthy,,Healthy,0.9996704,True,7.074338e-09,0.00032477503,0.9996704,4.885788e-06
+healthy037.jpg,healthy037.jpg,Vineyard_18,,Healthy,,Healthy,0.99810654,True,7.700729e-07,0.0018303219,0.99810654,6.238698e-05
+leaf blight075.jpg,leaf blight075.jpg,Vineyard_22,,Leaf Blight,,Leaf Blight,0.6838507,True,0.24287656,0.07326282,9.91414e-06,0.6838507
+healthy1026.jpg,healthy1026.jpg,Vineyard_8,,Healthy,,Healthy,0.98997563,True,3.965079e-06,0.009483366,0.98997563,0.00053705287
+esca798.jpg,esca798.jpg,Vineyard_11,,Esca,,Esca,0.6564678,True,0.0093027055,0.6564678,0.00733396,0.3268956
+healthy546.jpg,healthy546.jpg,Vineyard_23,,Healthy,,Healthy,0.9988789,True,2.239158e-09,0.0011110589,0.9988789,1.0013227e-05
+esca613.jpg,esca613.jpg,Vineyard_25,,Esca,,Esca,0.6934756,True,0.0005796391,0.6934756,0.00015801133,0.30578667
+esca683.jpg,esca683.jpg,Vineyard_11,,Esca,,Esca,0.6879394,True,0.015907673,0.6879394,0.03455599,0.26159695
+leaf blight187.jpg,leaf blight187.jpg,Vineyard_21,,Leaf Blight,,Leaf Blight,0.60270774,True,0.053635757,0.34346196,0.00019453249,0.60270774
+healthy108.jpg,healthy108.jpg,Vineyard_12,,Healthy,,Healthy,0.8319105,True,0.0020101625,0.1431643,0.8319105,0.02291491
+black rot373.jpg,black rot373.jpg,Vineyard_22,,Black Rot,,Leaf Blight,0.6799814,False,0.031808812,0.28816804,4.1682935e-05,0.6799814
