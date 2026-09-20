@@ -2,24 +2,24 @@
 
 ## Business Problem
 
-Vineyard managers and agronomists need practical ways to identify potentially diseased vines from field observations so that limited inspection time can be focused where it is most useful.
+Wine is an important Portuguese industry, particularly in the North, where vineyards are widespread. Vineyard workers, managers and agronomists must monitor vines for visible signs of disease so that suspicious cases can receive timely expert assessment. The challenge is to help teams identify disease symptoms and prioritise which grapevines need expert inspection.
 
 ## Project Objective
 
-This project is a Deep Learning proof of concept. The goal is to explore whether a convolutional neural network (CNN) can classify visible grapevine disease symptoms from photographs taken in real vineyard conditions.
+This project evaluates whether a convolutional neural network (CNN) can use grapevine-leaf photographs to help prioritise which vines require expert inspection.
 
-The intended use is decision support: helping prioritise vineyard inspection and follow-up by a human expert. This is not a production diagnostic system.
+The intended use is human decision support. The CNN provides a triage signal; qualified agronomists retain responsibility for in-person inspection, diagnosis and treatment decisions. The project does not propose autonomous diagnosis.
 
 ## Model Scope
 
-The final proof-of-concept model will be a CNN image classifier for four target classes:
+The selected proof-of-concept model classifies 128 x 128 RGB images into four folder-derived target classes:
 
-- healthy
-- black rot
-- esca
-- leaf blight
+- Black Rot
+- Esca
+- Healthy
+- Leaf Blight
 
-No production deployment, extensive hyperparameter optimisation, or automated diagnosis is in scope for this repository.
+The model was evaluated both as a four-class classifier and as a binary decision-support view that groups the three diseases together. No production deployment or automated treatment recommendation is in scope.
 
 ## Repository Structure
 
@@ -28,25 +28,31 @@ No production deployment, extensive hyperparameter optimisation, or automated di
 |-- README.md
 |-- requirements.txt
 |-- .gitignore
+|-- AI Value Sprint Canvas.pdf
+|-- AI_DISCLOSURE.md
 |-- data/
 |   |-- README.md
-|   |-- raw/
+|   |-- raw/                         # local GVLiD images; ignored by Git
 |   `-- processed/
+|       `-- dataset_split.csv        # fixed clean split used by Steps 5 and 6
 |-- notebooks/
-|   |-- 01_eda.ipynb
-|   |-- 02_cnn_model.ipynb
-|   `-- 03_evaluation.ipynb
+|   |-- step_1_brainstorming
+|   |-- step_2_canvas.ipynb
+|   |-- step_3_eda v2.ipynb
+|   |-- step_4_dl_rationale.ipynb
+|   |-- step_5_cnn_model_v2.ipynb
+|   |-- step_6_evaluation_v2.ipynb
+|   `-- step_7_conclusions.ipynb
 |-- src/
 |   |-- __init__.py
 |   |-- preprocessing.py
 |   |-- model.py
 |   `-- evaluation.py
-|-- figures/
 |-- results/
-|-- presentation/
-`-- docs/
-    |-- project_brief.md
-    `-- ai_canvas.md
+|   |-- cnn_v2_*_training_log.csv
+|   |-- cnn_v2_*_training_history.pkl
+|   `-- evaluation_v2/
+`-- archive/                       # superseded notebook versions
 ```
 
 ## Environment Setup
@@ -55,55 +61,63 @@ Create and activate a Python virtual environment for local work:
 
 ```powershell
 python -m venv .venv
-.venv\Scripts\activate
+.\.venv\Scripts\Activate.ps1
 ```
 
-For local EDA, preprocessing, evaluation, documentation, and notebook editing, install the lightweight dependencies:
+Install the project dependencies:
 
 ```powershell
-pip install numpy pandas matplotlib scikit-learn pillow jupyter ipykernel
+python -m pip install -r requirements.txt
 ```
 
-For VS Code or Jupyter, select the virtual environment as the notebook kernel after installing dependencies. The local kernel for this project is:
+Notebook 6 also uses Seaborn. If it is not already installed in the active environment, run:
 
-```text
-Python (.venv grapevine disease)
+```powershell
+python -m pip install seaborn
 ```
 
-`requirements.txt` includes TensorFlow for Colab/model-training reproducibility. TensorFlow does not need to be installed locally unless you want to train or run the CNN on your own machine.
+Launch Jupyter from the project environment and select the `.venv` kernel:
+
+```powershell
+.\.venv\Scripts\jupyter-notebook.exe
+```
+
+TensorFlow is required for both model training and evaluation. A GPU is helpful for Step 5 training, but Step 6 evaluates only 362 test images and can run on a CPU.
 
 ## Development Workflow
 
-This project uses a hybrid workflow so that development stays manageable while CNN training can use GPU resources:
+The project supports a hybrid workflow:
 
 - **GitHub:** single source of truth for code, notebooks, documentation, and results.
-- **VS Code/local `.venv`:** notebook editing, EDA, preprocessing, evaluation, documentation, and Git collaboration.
-- **Google Colab:** CNN training using the notebook from this repository.
-- **Google Drive:** temporary storage for the image dataset when running notebooks in Colab.
+- **Local `.venv`:** EDA, notebook editing and CPU evaluation.
+- **Google Colab:** optional GPU environment for CNN training or evaluation.
+- **Google Drive:** storage for the raw dataset and `.keras` model when using Colab.
 
-The CNN notebook in this repository is the same notebook used in Colab. Separate local and Colab versions should not be created.
+The raw images and trained `.keras` models are deliberately excluded from Git. In Colab, mount Drive and set the optional path overrides in the notebook configuration cells.
 
-Avoid absolute file paths so notebooks remain portable between local work and Colab GPU sessions.
+The notebooks discover the repository root and otherwise use relative paths so the same files can run locally or in Colab.
 
 ## Running Notebooks
 
-Run the notebooks in order:
+Review or run the project steps in order:
 
-1. `notebooks/01_eda.ipynb`
-2. `notebooks/02_cnn_model.ipynb`
-3. `notebooks/03_evaluation.ipynb`
+1. [`step_1_brainstorming`](notebooks/step_1_brainstorming)
+2. [`step_2_canvas.ipynb`](notebooks/step_2_canvas.ipynb)
+3. [`step_3_eda v2.ipynb`](notebooks/step_3_eda%20v2.ipynb)
+4. [`step_4_dl_rationale.ipynb`](notebooks/step_4_dl_rationale.ipynb)
+5. [`step_5_cnn_model_v2.ipynb`](notebooks/step_5_cnn_model_v2.ipynb)
+6. [`step_6_evaluation_v2.ipynb`](notebooks/step_6_evaluation_v2.ipynb)
+7. [`step_7_conclusions.ipynb`](notebooks/step_7_conclusions.ipynb)
 
-All modelling should use the same train, validation, and test split so results remain comparable across the team.
+Steps 5 and 6 use the fixed [`dataset_split.csv`](data/processed/dataset_split.csv): 1,684 training images, 361 validation images and 362 test images. The test subset is not used for model fitting or model selection.
 
-## Project Brief and AI Canvas
+## AI Value Sprint Canvas
 
-The assignment brief is stored in `docs/project_brief.md`.
-
-The project's AI Canvas is stored in `docs/ai_canvas.md`. It frames the model as a decision-support proof of concept for prioritising human vineyard inspection.
+The final business canvas is provided as a notebook (step_2_canvas). It frames the model as a decision-support proof of concept for prioritising human vineyard inspection in Portugal.
 
 ## Dataset
 
-This project uses version 5 of the **GVLiD: GrapeVine Leaf identification of the Diseases** dataset by Shikalgar et al. (2026). It contains 3,477 high-resolution grape-leaf photographs captured during field visits from different angles.
+This project uses version 5 of the **GVLiD: GrapeVine Leaf identification of the Diseases** dataset by Shikalgar et al. (2026). It contains 3,477 1080 x 1080 grape-leaf photographs captured in Indian vineyards.
 
 - Dataset: https://data.mendeley.com/datasets/wkymf8bhcg/5
 - DOI: https://doi.org/10.17632/wkymf8bhcg.5
@@ -116,95 +130,74 @@ The dataset contains four classes:
 - Esca
 - Leaf blight
 
-## Google Colab Training
+### Data integrity and modelling sample
 
-CNN training is intended to be run in Google Colab when GPU access is useful. Open or upload the repository notebook in Colab, install any missing dependencies with `pip`, and save outputs that should be shared back into the repository.
+SHA-256 hashing identified substantial exact duplication and two hashes assigned to conflicting classes. The raw dataset remains unchanged. The modelling workflow excludes redundant copies and the two conflicting hash groups, producing 2,407 usable unique images.
 
-### Dataset in Colab
+The supplied metadata also conflicts systematically with the Healthy and Leaf Blight folders. The modelling target is therefore derived consistently from the resolved class folder. This is a provisional label decision, not expert-verified ground truth, and is treated as a limitation throughout the project.
 
-The dataset is not stored in GitHub. When training in Colab, it can be stored in Google Drive and mounted with:
+## Selected CNN
 
-```python
-from google.colab import drive
-drive.mount('/content/drive')
+The baseline CNN uses three convolution and max-pooling blocks, global average pooling, a dense layer and a four-class softmax output. Training images receive moderate geometric augmentation and class weights address the remaining imbalance.
+
+Four controlled experiments changed one choice at a time: batch size, class weighting, learning rate and dropout. The dropout-0.40 configuration achieved the lowest validation loss (0.4251) and was selected for final evaluation. The required model file is:
+
+```text
+results/cnn_v2_dropout040_best.keras
 ```
 
-## Team Workflow
+The `.keras` model is ignored by Git because it is a generated binary artifact. Obtain it from the Step 5 training run or the team storage location before running Step 6.
 
-- Keep the `main` branch stable.
-- Each person should work on a feature branch.
-- Use pull requests to merge work back into `main`.
-- All modelling must use the same train/validation/test split.
-- Avoid editing the same notebook simultaneously.
+## Final Evaluation Results
 
-Suggested branch responsibilities:
+The selected checkpoint was evaluated on the untouched 362-image test subset.
 
-- `business-research`
-- `data-eda`
-- `cnn-model`
-- `evaluation`
-- `integration`
+| Metric | Result |
+| --- | ---: |
+| Test accuracy | 82.04% |
+| Majority-class baseline | 45.30% |
+| Macro F1 | 68.05% |
+| Weighted F1 | 81.59% |
 
-## Work Distribution
+Class-level performance was uneven:
 
-**Person 1:** Business & Research
+| Class | Recall | F1-score | Test support |
+| --- | ---: | ---: | ---: |
+| Black Rot | 46.67% | 50.00% | 15 |
+| Esca | 88.72% | 81.66% | 133 |
+| Healthy | 92.68% | 95.60% | 164 |
+| Leaf Blight | 40.00% | 44.94% | 50 |
 
-- Define the business problem and intended user.
-- Explain what decision the system would support.
-- Research the four grapevine conditions and relevant existing work.
-- Explain why image classification and CNNs are appropriate.
-- Develop the proposed next pilots: augmentation, transfer learning, confidence thresholds, geospatial mapping, temporal monitoring, etc.
-- Help shape the final presentation narrative.
+For the proposed inspection-triage decision, the four classes were also grouped into Healthy versus Disease:
 
-**Person 2:** Dataset Understanding & Problem Justification
+| Triage metric | Result |
+| --- | ---: |
+| Disease precision | 94.23% |
+| Disease recall | 98.99% |
+| Disease F1 | 96.55% |
+| Images flagged for expert review | 57.46% |
 
-- Download and document the dataset source, citation, class labels and image structure.
-- Summarise only the EDA needed to support modelling: class counts, image dimensions, representative samples, image quality and split implications.
-- Use the dataset documentation and relevant literature to explain why the problem matters in viticulture and why field-condition RGB images are appropriate.
-- Identify dataset limitations that affect model interpretation, especially class imbalance, variation in capture angle and field conditions, possible similarity between visible symptoms, and uncertain generalisation to other vineyards, cultivars or seasons.
-- Connect EDA findings to the AI Canvas and final business decision: prioritising human vineyard inspection, not automated diagnosis.
+The model flagged 196 of 198 diseased test images, missed two and unnecessarily flagged 12 healthy images. It made 65 four-class errors, including seven with confidence of at least 80%. High softmax confidence is therefore not treated as diagnostic certainty.
 
-**Person 3:** Preprocessing & Data Pipeline
+Detailed outputs are stored in [`results/evaluation_v2`](results/evaluation_v2), including the classification report, confusion matrices, test predictions, triage metrics and error-analysis figure.
 
-- Define the train/validation/test split.
-- Make the split reproducible using a fixed random seed.
-- Implement image resizing and normalisation.
-- Encode the four target classes.
-- Build the data-loading pipeline used by the CNN.
-- Check that there is no leakage between train, validation and test sets.
-- Document the final model input shape and preprocessing steps.
 
-**Person 4:** CNN Modelling
+## Business Interpretation
 
-- Design a simple CNN appropriate for the images.
-- Explain the Conv2D, pooling and Dense/output architecture.
-- Choose loss function, optimiser and relevant training parameters.
-- Train the model using Person 3's pipeline.
-- Track training and validation loss/accuracy.
-- Save the trained model, training history and predictions.
-- Identify obvious signs of underfitting or overfitting.
+The model is more reliable at distinguishing Healthy from Disease than at naming the specific disease. The evidence supports a limited, expert-supervised triage pilot, not stand-alone diagnosis or production deployment.
 
-**Person 5:** Evaluation & Integration
+In the proposed workflow, vineyard workers collect photographs through systematic sampling, the CNN prioritises potential disease cases, and agronomists inspect flagged vines in situ. Routine monitoring continues regardless of the prediction, and agronomists retain all diagnosis and treatment decisions.
 
-- Define the evaluation metrics.
-- Calculate accuracy and per-class precision/recall/F1.
-- Produce the confusion matrix and training curves.
-- Examine examples of correct and incorrect predictions.
-- Analyse why the CNN may be struggling with particular diseases/images.
-- Translate results into business implications with Person 1.
-- Act as technical integrator: keep the GitHub project coherent and make sure everyone's work fits together.
-- Coordinate the final technical conclusions.
+Before operational use, the workflow should be tested using expert-validated Portuguese vineyard images. A parallel pilot should compare inspection time, missed disease, false alarms, class-level recall and agronomist workload with the existing manual process.
 
-## Future Work
+## Limitations
 
-Potential extensions after the proof of concept include:
+- The cleaned images come from Indian vineyards; performance in Portuguese vineyards is untested.
+- Folder-derived targets are provisional because the supplied metadata and folders conflict.
+- Black Rot and Leaf Blight have limited test support and weak recall.
+- Some incorrect predictions receive high confidence.
+- The current results do not demonstrate time savings, cost savings or improved field detection rates.
 
-- data augmentation
-- transfer learning
-- more diverse vineyard data
-- confidence thresholds with human review
-- geospatial disease mapping
-- temporal monitoring
-- disease severity prediction
+## AI Use Disclosure
 
-These items are future possibilities and are not implemented in the current project scaffold.
+Permitted AI assistance used during the project is documented in [`AI_DISCLOSURE.md`](AI_DISCLOSURE.md). Final problem framing, modelling choices, interpretation, conclusions and submission decisions remain the responsibility of the project team.
