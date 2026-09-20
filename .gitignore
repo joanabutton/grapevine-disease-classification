@@ -22,6 +22,9 @@ Thumbs.db
 # VS Code local settings
 .vscode/
 
+# Local project documentation and working files
+docs/
+
 # Data files: keep directory placeholders, ignore local datasets
 data/raw/*
 !data/raw/.gitkeep
