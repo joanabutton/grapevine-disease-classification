@@ -20,3 +20,40 @@ Agronomist prioritizes review of leaves highlighted by the model as diseased. Ex
 **Step 4**
 
 Monitor/ sampling/ treatment as agronomist sees fit.
+
+# Conclusions
+
+- Mention that black rot and leaf blight are not as successfully predicted because there is less data for those.
+
+# Still to do:
+- Improve the introduction on step 6 and make sure that the step 5 v1 and v2 both have introductions explaining what they are.
+
+
+Cristiana s chatgpt:
+Based on the current Step 5 V2 and Step 6 V2 notebooks, these are the main changes I would make before submission:
+
+Step 5 — CNN Model
+
+* Add controlled hyperparameter experimentation before final model selection.
+    * Keep the current model as the baseline.
+    * Test only 2–3 additional configurations, e.g. learning rate and dropout, optionally batch size.
+    * Change one or very few parameters at a time so the results remain interpretable.
+    * Compare models using Validation only, never Test.
+    * Because of the class imbalance, consider validation Macro F1/class-level metrics, not only val_accuracy.
+    * Select the final model based on Validation performance.
+* Save the training history (training_history.pkl) so Step 6 can display the training/validation curves. Currently Step 6 reports Training history not found; skipping curves.
+* Remove the redundant project-path configuration cell at the beginning. Keep the more robust find_project_root() implementation.
+* Adjust the terminology from something broad such as “leakage-controlled baseline” to “deduplicated baseline CNN” or “exact-duplicate-leakage-controlled baseline”, because Step 3 V2 established that vineyard-level independence cannot be guaranteed.
+* After selecting the final configuration, save that final model for Step 6.
+
+Step 6 — Final Evaluation
+
+* Run/re-run Step 6 only after Step 5 hyperparameter experimentation is finished and the final model has been selected.
+* Use Test only once for final evaluation/model reporting. Do not use Test results to choose learning rate, dropout, architecture, etc.
+* Update the introduction to explain that V2 evaluates the model trained on the corrected 2,407-image deduplicated dataset and revised split, rather than focusing mainly on the previous label-handling issue.
+* Simplify the prediction/error-analysis output to match the new dataset_split.csv. Remove obsolete fields such as Disease_Type and metadata_agrees_with_target; retain relevant fields such as Target_Class, Split, and ideally sha256 for traceability.
+* Once Step 5 saves the training history, restore/display the training and validation curves rather than getting Training history not found.
+* Keep the current class-level evaluation — accuracy, precision, recall, F1, confusion matrix and triage evaluation are useful, particularly because overall accuracy alone masks substantial differences between classes.
+* Temper the final conclusion. Rather than stating that the model “is viable for vineyard triage”, I would say that it “shows promise for vineyard triage within the scope of this dataset”, because there is no external or reliable vineyard-independent validation.
+
+The most important addition is therefore hyperparameter experimentation in Step 5 → model selection using Validation → final evaluation on Test in Step 6.
