@@ -1,19 +1,34 @@
 # Brainstorm and project selection
 
-### Initial ideas explored:
-- Building defect classification
-- Satellite land-cover classification
-- Post-disaster building damage classification
-- Sports sponsorship exposure
-- Plant disease detection
-  - The plant-disease idea was refined into grapevine disease classification. The current GVLiD dataset contains field-acquired images in four classes: healthy, black rot, esca and leaf blight.
+We are a very diverse group of people, with backgrounds as diverse as finance, architecture, cybersecurity and linguistics. As such, we discussed very different options before we settled on the final one.
+
+## 1. Initial ideas explored:
+- Building defect classification: using images of façade and surface defects to support inspection prioritisation
+- Satellite land-cover classification: using satellite imagery for urban and environmental monitoring
+- Post-disaster building damage classification: using imagery to help emergency-response teams prioritise buildings or areas for inspection
+- Sports related applications such as classifying the level of sponsor exposure in football broadcast frames.
+- Plant disease detection, which was refined into grapevine disease classification. The current GVLiD dataset contains field-acquired images in four classes: healthy, black rot, esca and leaf blight. 
 
 The group selected this option because it combined business relevance, local context, a clear image-classification problem and a manageable dataset.
 
-### Final concept
+Vineyards are a big business in the North of Portugal and our deep learning course happened during the Vindimas, when the ripe grapes are harvested, so the timing of the mini project was definitely a factor.
+
+## 2. Dataset Selection and Project Evolution
+
+We started the project studying the scientific article Grapevine Leaf Disease Dataset (https://pmc.ncbi.nlm.nih.gov/articles/PMC13098524/), which gave us an overview of the problem and presented a collection of grapevine leaf images captured in Portuguese vineyards, including those in the Douro and Vinho Verde regions.
+
+This dataset was very relevant to the business context, because it focused precisely on diseases affecting that affect grapevines from the North of Portugal, such as Downy Mildew, Powdery Mildew and Esca. Our original objective was to use these images to develop a Convolutional Neural Network  capable of supporting disease identification in Portuguese vineyards.
+
+Unfortunately the dataset was no longer available and despite our several attempts to get it,  we hit a wall.
+
+In view of this, we explored alternative publicly available datasets and selected Grapevine Leaf Identification of Diseases (GVLiD), hosted on Mendeley Data. 
+
+This alternative dataset contains images collected in Indian vineyards and includes four classification categories: Healthy, Black Rot, Esca and Leaf Blight. Although the images originate from a different geographical context, Black Rot and Esca are recognised diseases affecting grapevines in Portugal, allowing us to maintain the relevance of the project to Portuguese viticulture. Leaf Blight is a broader descriptive term and does not necessarily correspond to one clearly specified disease entity in the same way; nevertheless, it was retained as one of the dataset’s original classification categories.
+
+We retained Portuguese vineyards as the intended business application while acknowledging that the model was trained and evaluated using images collected in India. This geographical difference represents an important limitation, as variations in grapevine varieties, environmental conditions and disease manifestations may influence the model's ability to generalise to Portuguese vineyards.
+
+As a result, the model should be seen as a proof of concept for AI-assisted grapevine disease identification and not as a validated solution ready for deployment in Portuguese viticulture.
+
+## 3. Final concept
 Use a CNN to classify visible grapevine diseases and support growers in identifying vines that may require expert inspection or treatment.
 
-### Future extensions discussed 
-Data augmentation, transfer learning, confidence thresholds/human review, geospatial disease mapping, temporal monitoring and disease severity estimation.
-
-The team agreed to focus primarily on one CNN model, with alternative architectures discussed conceptually and only tested if time allows.
