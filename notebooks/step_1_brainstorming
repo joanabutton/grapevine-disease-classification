@@ -21,7 +21,7 @@ This dataset was very relevant to the business context, because it focused preci
 
 Unfortunately the dataset was no longer available and despite our several attempts to get it,  we hit a wall.
 
-In view of this, we explored alternative publicly available datasets and selected Grapevine Leaf Identification of Diseases (GVLiD), hosted on Mendeley Data. 
+In view of this, we explored alternative publicly available datasets and selected Grapevine Leaf Identification of Diseases (GVLiD), hosted on Mendeley Data (https://data.mendeley.com/datasets/wkymf8bhcg/5). 
 
 This alternative dataset contains images collected in Indian vineyards and includes four classification categories: Healthy, Black Rot, Esca and Leaf Blight. Although the images originate from a different geographical context, Black Rot and Esca are recognised diseases affecting grapevines in Portugal, allowing us to maintain the relevance of the project to Portuguese viticulture. Leaf Blight is a broader descriptive term and does not necessarily correspond to one clearly specified disease entity in the same way; nevertheless, it was retained as one of the dataset’s original classification categories.
 
